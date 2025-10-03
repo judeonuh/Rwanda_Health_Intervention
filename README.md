@@ -134,7 +134,8 @@ On the other hand, Rubavu may have seen more patients because of its high popula
 ---
 
 ### 4. Insurance type mostly associated with high-cost patients and how they compare with the general population patients 
-Most high-cost patients prefer insurance schemes run by private insurance companies. The premiums are higher, but coverage is broader and may include access to private hospitals and quicker services.
+Most high-cost patients prefer insurance schemes run by private insurance companies. The premiums are higher, but coverage is broader and may include access to private hospitals and quicker services.  
+
 Conversely, the data shows that other patients are mostly enrolled into government insurance schemes, probably because it is subsidised by the government and international donors.
 
 ---
@@ -154,7 +155,16 @@ Conversely, the data shows that other patients are mostly enrolled into governme
 ---
 
 ## Overall Recommendations for Intervention Program
--   
+Intervention efforts should:
+- Focus on Huye, with specialized care teams for high cost patients.
+- Include case managers or “patient navigators” who follow up with patients after hospital discharge to reduce readmissions.
+- Coordinate with community health workers in patients’ home districts to ensure continuity of care.
+- Extend teleconsultation or rotating specialist visits to Rubavu and other high-population areas. This may reduce travel costs, late presentations, and unnecessary hospitalizations.
+- Collaborate with private insurers on shared savings or risk-sharing programs, since high-cost patients disproportionately use private insurance companies.
+- Stratify high-cost patients as not all high-cost patients are alike. Segment them into groups:
+	* Chronic condition patients (diabetes, hypertension, HIV) → long-term follow-up, lifestyle support.
+	* Surgical/trauma patients → better peri-operative management and rehabilitation programs.
+	* Frequent hospital utilizers → social work support, case management, addressing social determinants of health.
 
 ---
 
