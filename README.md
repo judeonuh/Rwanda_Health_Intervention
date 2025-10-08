@@ -13,8 +13,8 @@ The project is aimed at creating a detailed profile of these "high-cost patients
 - [Data Overview](#data-overview)  
 - [Methodology](#methodology)
 - [Data Cleaning](#data-cleaning)
-- [Analysis and Recommendations](#analysis-and-recommendations)  
-- [Overall Recommendations](#overall-recommendations)  
+- [Analysis and Insights](#analysis-and-insights)  
+- [Overall Recommendations for Intervention Program](#overall-recommendations-for-intervention-program)  
 - [Conclusion](#conclusion)  
 
 ---
@@ -82,7 +82,7 @@ The project is aimed at creating a detailed profile of these "high-cost patients
 
 ---
 
-## Analysis and Recommendations
+## Analysis and Insights
 
 ### 1.  High-cost Patients
 High-cost patients were defined as the top 5% based on treatment cost. This totalled up to **163 patients**, obtained using the query below...  
@@ -133,24 +133,9 @@ On the other hand, Rubavu may have seen more patients because of its high popula
 
 ---
 
-### 4. Insurance type mostly associated with high-cost patients and how they compare with the general population patients 
-Most high-cost patients prefer insurance schemes run by private insurance companies. The premiums are higher, but coverage is broader and may include access to private hospitals and quicker services.  
-
-Conversely, the data shows that other patients are mostly enrolled into government insurance schemes, probably because it is subsidised by the government and international donors.
-
----
-
-### 5.  
-
----
-
-### 6. 
-
-|           |      |   |  
-|--------------------|-------------|------------------|  
-|    |    |       |  
-|    |   |      |    
-
+### 4. Insurance-type mostly associated with high-cost patients and how they compare with the general population patients 
+Most high-cost patients prefer insurance schemes run by private insurance companies. The premiums are higher, but coverage is broader and may include access to private hospitals and quicker services. 
+Conversely, the data shows that other patients are mostly enrolled into government insurance schemes, probably because it is subsidised by the government and international donors
 
 ---
 
