@@ -151,7 +151,3 @@ Intervention efforts should:
 	* Surgical/trauma patients → better peri-operative management and rehabilitation programs.
 	* Frequent hospital utilizers → social work support, case management, addressing social determinants of health.
 
----
-
-## Conclusion
-
