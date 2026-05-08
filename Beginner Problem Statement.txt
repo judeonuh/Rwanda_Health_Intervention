@@ -1,0 +1,31 @@
+Title: Analyzing Monthly Trends of Flu Cases and Treatment Costs
+
+Scenario:
+The financial planning department at a Rwandan clinic is trying to forecast their budget for the upcoming year. 
+They know that flu season significantly impacts costs, but they lack a clear, data-driven view of when the season peaks and how much it costs.
+
+Your Task:
+Your primary challenge is to perform a deep cleaning of the files. 
+You must first create a reliable, standardized and columns. Once the data is trustworthy, you will analyze the monthly trends for all patient visits where the diagnosis was 'Flu'.
+
+
+Deliverables:
+
+A summary table that shows, for each month and year in the dataset:
+
+The total number of flu cases recorded.
+
+The total cost generated from treating those flu cases.
+
+A brief written insight answering: "Which months represent the peak of the flu season in terms of cases and costs?"
+
+
+Skills Required:
+
+Advanced Data Cleaning: This is the core challenge. You must parse and standardize a wide variety of date formats (e.g., 'September 15, 2025', '2024/05/12', 'TT:04/22/2025') into a single, usable date format. You must also clean the cost column of non-numeric values and errors.
+
+Date & Time Manipulation: You will need to extract the month and year from your newly cleaned date column to perform the monthly aggregation.
+
+Time-Series Aggregation: Grouping cleaned data by a time period (month) to calculate summary statistics.
+
+Filtering & Analysis: Isolating the data to only include 'Flu' diagnoses and interpreting the results to identify trends.
