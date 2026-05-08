@@ -10,7 +10,8 @@ The project is aimed at creating a detailed profile of these "high-cost patients
 ## 📁 Table of Contents
 - [Background of the Problem](#background-of-the-problem)
 - [Aim](#aim)  
-- [Data Overview](#data-overview)  
+- [Data Overview](#data-overview)
+- [Skills Demonstrated](#skills-demonstrated)  
 - [Methodology](#methodology)
 - [Data Cleaning](#data-cleaning)
 - [Analysis and Insights](#analysis-and-insights)  
@@ -26,23 +27,36 @@ The project is aimed at creating a detailed profile of these "high-cost patients
 
 ---
 
+## Skills Demonstrated
+* PostgreSQL
+* SQL
+* CTEs
+* Window functions
+* Percentile analysis
+* Data profiling
+* Healthcare analytics
+
+---
+
 ## Methodology
-- Datasets were imported into and queried in PgAdmin using **PosgreSQL-compliant SQL queries**.
+- Datasets were imported into and queried in PgAdmin using **PostgreSQL-compliant SQL queries**.
 - All SQL queries can be found [here]().
 > [!WARNING]
 > When creating the database, all column datatypes were defined as VARCHAR to avoid losing records upon import.
-- High-cost patients were defined as the top 5% based on treatment_cost. This number is subject to your discretion.
+- High-cost patients were defined as the top 5% based on treatment cost. This number is subject to your discretion.
 - A comparative profile was drafted, separating 'high-cost' from 'non-high-cost' segments/patients across the following dimensions:
-    * Clinical: What are the most common diagnoses? How many visits do they average? Which doctor specialties do they see most often?
-    * Demographic: What is their average health_score? Which insurance_type and city are most common?
+    * Clinical: What are the most common diagnoses? How many visits do they average? Which doctor specialities do they see most often?
+    * Demographic: What is their average health score? Which insurance_type and city are most common?
     * Wellness: How do their wellness habits (e.g., number of activities, types of activities, reported wellness_status) compare?
-- Created agregated metrics for each high-cost patient (e.g., total cost, visit count, wellness activity count).
+- Created aggregated metrics for each high-cost patient (e.g., total cost, visit count, wellness activity count).
 
 ---
 
 ## Data Cleaning  
-- All tables were checked for duplicates, null values and inconsistent entries. Duplicates were dropped, null values replaced with either a string (e.g. 'Unknown') or median of values.
-  Inconsistent entries were replaced with appropriate ones. For instance...
+- Names were standardised using "TRIM" and "INITCAP"
+- All tables were checked for duplicates, null values and inconsistent entries.
+- Duplicates were dropped, null values replaced with either a string (e.g. 'Unknown') or the median of values.
+- Inconsistent entries were replaced with appropriate ones. For instance...
   
   ```SQL
   -- Clean treatment cost column
@@ -123,6 +137,26 @@ High-cost and General Population Patients both have the following in common:
 - Most common Blood type:- B+
 
 ---
+
+### Profiling High-cost Patients
+![cities](img/cities.png)  
+
+---
+
+![insurance](img/insurance.png)  
+
+---
+
+![specialty](img/specialty.png)  
+
+---
+![blood type](img/blood_type.png)  
+
+---
+![diagnosis](img/diagnosis.png)  
+
+---
+![treatment](img/treatment_type.png)
 
 ### 3. Cities mostly associated with high-cost patients and how they compare with the general population patients
 Most high-cost patients visited doctors in Huye, while the general population patients predominantly visited doctors in Rubavu. Based on further research, this observation may be due to the presence of
