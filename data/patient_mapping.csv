@@ -1,0 +1,3244 @@
+patient_id,patient_name,health_score,insurance_type,primary_care_physician_id,blood_type,city
+P2503,Maurice Habyarimana,89,Private,DOC0015,A+,Gisenyi
+P2183,beatrice tuyisenge,92,privatte,DOC0020,A+,Muhanga
+P0856,Maxime Gatera,73,Private,DOC0018,O-,Musanze
+P0342, Gaetan Kamana ,59,Private,DOC0002,AB-,Musanze
+P1178,Sandrine Shema,70,privatte,DOC0006,B-,Musanze
+P2559,therese karekezi,52,N/A,DOC0006,AB+,Rubavu
+P1582,Stephanie Giraneza,87,Public,DOC0014,AB+,Gisenyi
+P0604,Thomas Hirwa,93,GOV,DOC0022,A-,Musanze
+P2009,Yvette Irakoze,85,Public,DOC0023,O+,Rubavu
+P1704, Augustin Kabanda ,94,Govt,DOC0004,O-,Rubavu
+P0792,Marine Gatabazi,89,GOV,DOC0024,O-,Rubavu
+P2575,Robert Keza,46,PUBLic,DOC0004,O+,Muhanga
+P0885,Chantal Ndayisenga,72,Private,DOC0017,A+,Huye
+P2673,diane ndagijimana,70,None,DOC0025,AB-,Gisenyi
+P2144,Jerome Nsengimana,41,None,DOC0026,O+,Muhanga
+P0746,Maurice Nshuti,76,N/A,DOC0022,B+,Gisenyi
+P2142,Guillaume Umuhoza,77,None,DOC0007,B+,Huye
+P0161,ISAAC NZABONIMPA,92,Public,DOC0014,B+,Huye
+P0189,Clementine Irankunda,61,Private,DOC0008,A+,Huye
+P1324,Fidele Bimenyimana,90,Private,DOC0006,O+,Kigali
+P2562,Gabriel Bimenyimana,72,privatte,DOC0005,A+,Kigali
+P0107,SYLVAIN RUZINDANA,84,Govt,DOC0001,O+,Muhanga
+P1231,Helene Nsabimana,61,privatte,DOC0022,B-,Gisenyi
+P0944,Noel Hirwa,70,Public,DOC0006,O-,Muhanga
+P2953,Elie Ndahimana,86,Private,DOC0016,AB-,Huye
+P2459, Madeleine Nzaramba ,78,GOV,DOC0024,AB+,Huye
+P2527,Eliane Teta,58,Govt,DOC0010,A+,Rubavu
+P3134,Marc Habyarimana,72,privatte,DOC0002,A+,Gisenyi
+P0526, Pascal Niyibizi ,78,Public,DOC0013,O+,Rubavu
+P1983,Elise Kazungu,45,privatte,DOC0002,B+,Muhanga
+P3017,HELENE BYIRINGIRO,73,privatte,DOC0021,B+,Gisenyi
+P1248,Luc Ndahimana,81,N/A,DOC0024,AB+,Muhanga
+P0286,Gisele Nzaramba,61,Govt,DOC0009,O+,Gisenyi
+P2650,FRANCOIS SHEMA,91,Public,DOC0020,B-,Huye
+P1588,Frederic Ndahimana,59,Private,DOC0011,B-,Rubavu
+P0530,Edith Kagame,82,PUBLic,DOC0015,A-,Huye
+P0357, Jeanne Mugisha ,63,Public,DOC0018,B+,Gisenyi
+P2985,ALAIN SEBAZUNGU,88,GOV,DOC0018,AB-,Kigali
+P0351,JULES NZARAMBA,94,Govt,DOC0003,B-,Gisenyi
+P2322,Aline Kabera,76,N/A,DOC0017,AB-,Musanze
+P1753,Serge Nzabonimpa,76,Govt,DOC0026,AB-,Kigali
+P2516,Solange Irakoze,92,Govt,DOC0023,B+,Muhanga
+P2071,Michel Hakizimana,62,Public,DOC0014,AB+,Rubavu
+P2001,GISELE NIYONSENGA,70,GOV,DOC0018,B+,Musanze
+P1550,ANITHA ISHIMWE,80,privatte,DOC0012,AB-,Rubavu
+P2632,Doris Habimana,86,None,DOC0021,A-,Rubavu
+P0706, Louise Gashugi ,78,N/A,DOC0004,B+,Musanze
+P1094, Gisele Niyibizi ,45,None,DOC0006,B+,Kigali
+P0548,Ivan Bimenyimana,87,Private,DOC0015,B+,Gisenyi
+P2210,Leonidas Mazimpaka,76,Govt,DOC0012,AB+,Gisenyi
+P0448,FREDERIC DUSABE,63,Govt,DOC0005,AB-,Huye
+P1721,THERESE BIMENYIMANA,72,N/A,DOC0001,B-,Rubavu
+P0773,FRANK GASANA,85,Public,DOC0011,AB-,Musanze
+P1284,Marguerite Nteziryayo,74,Govt,DOC0005,AB+,Huye
+P1256,Lise Hakizimana,93,None,DOC0022,O+,Muhanga
+P1749,Gabriel Habimana,61,privatte,DOC0009,O+,Gisenyi
+P0069,Diane Mwiza,94,N/A,DOC0014,A-,Musanze
+P0383,DIDIER KAMALI,73,Public,DOC0007,B-,Gisenyi
+P0465,Felicien Giraneza,76,PUBLic,DOC0026,O-,Gisenyi
+P0830,DAVID KABANDA,77,privatte,DOC0016,A-,Gisenyi
+P1000,JEROME NDAYISENGA,92,None,DOC0021,B+,Huye
+P1192,Omar Keza,47,N/A,DOC0025,B-,Kigali
+P3215,Noel Cyusa,70,Public,DOC0025,AB+,Gisenyi
+P2546, Christian Yankurije ,81,Govt,DOC0004,B-,Rubavu
+P0822,Gaspard Uwimana,42,GOV,DOC0006,A-,Rubavu
+P2955,dieudonne ruzindana,86,Public,DOC0002,AB-,Musanze
+P2049,GEORGES BIZIMANA,91,PUBLic,DOC0020,O-,Musanze
+P1015,Faustin Mutesi,94,None,DOC0006,A+,Rubavu
+P0192,Olivier Gatera,83,GOV,DOC0004,O-,Gisenyi
+P1238,Olivier Keza,78,GOV,DOC0014,O+,Huye
+P3211,Noel Kabera,82,Govt,DOC0017,O-,Kigali
+P0438,Florence Ganza,49,Govt,DOC0018,A-,Kigali
+P0106,Faustin Yankurije,76,Govt,DOC0020,AB+,Kigali
+P1507,Daniel Twahirwa,65,PUBLic,DOC0001,O-,Musanze
+P0492,Bosco Mwiza,95,Govt,DOC0021,AB+,Musanze
+P2016,Odette Kamali,74,PUBLic,DOC0007,AB+,Musanze
+P0928,Louise Kamana,58,PUBLic,DOC0015,A-,Musanze
+P1848,Sylvie Kabera,83,N/A,DOC0006,O+,Kigali
+P2331,Gabriel Kamanzi,70,N/A,DOC0021,A-,Huye
+P2410,ariane kamanzi,79,PUBLic,DOC0019,B+,Kigali
+P0483,anna gatete,81,N/A,DOC0012,O-,Musanze
+P0567, Venant Ndahimana ,80,privatte,DOC0025,O+,Huye
+P1031,Eugene Ntirushwa,82,privatte,DOC0015,AB+,Huye
+P3174,Richard Mugisha,55,None,DOC0007,AB-,Kigali
+P3170,Gabriel Kamana,66,GOV,DOC0018,O+,Muhanga
+P1043,Patrick Gashugi,53,Private,DOC0023,O-,Muhanga
+P0358,Louis Giraneza,59,None,DOC0012,B-,Kigali
+P2522,FLORENCE NDACYAYISENGA,54,Govt,DOC0002,O-,Gisenyi
+P3071,sebastien ugiraneza,75,Public,DOC0020,B+,Rubavu
+P1258,benjamin ruzindana,59,Private,DOC0024,B+,Kigali
+P2999,Hyacinthe Ndagijimana,88,PUBLic,DOC0004,O-,Huye
+P3205,Raymond Shema,83,Private,DOC0001,AB-,Musanze
+P1002, Leonce Kayiranga ,45,N/A,DOC0002,B-,Muhanga
+P0657, Sebastien Karekezi ,86,GOV,DOC0001,B+,Kigali
+P0304,Guy Yankurije,91,PUBLic,DOC0003,O-,Musanze
+P1180,kevin ingabire,83,Public,DOC0019,A-,Musanze
+P0459,Jules Gasana,94,GOV,DOC0023,B+,Huye
+P0477,richard dushimimana,72,privatte,DOC0004,AB-,Huye
+P2248,DONAT NSABIMANA,71,privatte,DOC0009,A+,Gisenyi
+P2602,Richard Nsabimana,45,Public,DOC0011,AB-,Rubavu
+P2962,MATHIEU IMANISHIMWE,76,PUBLic,DOC0006,B-,Musanze
+P1144,ARIANE UMUTONI,70,GOV,DOC0005,B-,Gisenyi
+P2017,Isabelle Cyusa,55,Private,DOC0026,AB+,Muhanga
+P1874,LEONCE GASANA,94,PUBLic,DOC0022,A-,Kigali
+P1923,Samuel Ndacyayisenga,76,None,DOC0014,O+,Musanze
+P1482,Martine Ganza,87,None,DOC0008,AB+,Huye
+P1232,EMILE UMUHOZA,71,N/A,DOC0018,B+,Musanze
+P1271,Roger Irankunda,82,N/A,DOC0017,B+,Gisenyi
+P1810,mathieu rugamba,60,GOV,DOC0006,B+,Muhanga
+P0213,Christophe Yankurije,47,N/A,DOC0023,O+,Muhanga
+P0733, Moise Dusabe ,80,privatte,DOC0026,A+,Huye
+P1591,Leonce Murenzi,69,Public,DOC0015,AB-,Muhanga
+P0367,Aubin Kayitare,57,GOV,DOC0014,B-,Gisenyi
+P1126,Martin Rukundo,73,privatte,DOC0009,AB+,Huye
+P2536,Aime Gatabazi,87,privatte,DOC0025,B-,Huye
+P2082,Nadia Kayitare,87,Public,DOC0019,O+,Rubavu
+P1064,gaetan nsengimana,43,Private,DOC0018,O-,Musanze
+P2024, Etienne Imanishimwe ,88,Private,DOC0010,AB-,Huye
+P3069,Emile Nzabonimpa,84,PUBLic,DOC0013,A+,Rubavu
+P0969,Venant Uwase,77,Public,DOC0025,B+,Huye
+P1437,MARC GAKIRE,51,Private,DOC0007,A+,Gisenyi
+P1218,Robert Nsengimana,72,Govt,DOC0020,AB+,Kigali
+P2885,Daniel Kayitare,53,N/A,DOC0013,A+,Rubavu
+P2904,Georges Niyibizi,43,Public,DOC0011,O-,Huye
+P2171,CLAIRE NSENGIMANA,90,Public,DOC0016,O-,Gisenyi
+P0187, Frederic Nshuti ,76,Govt,DOC0010,AB+,Rubavu
+P2122,Jules Uwayo,79,PUBLic,DOC0021,AB+,Musanze
+P0049,Nicole Giraneza,42,Private,DOC0020,O-,Muhanga
+P0990,Lucien Dushimimana,49,PUBLic,DOC0025,O-,Kigali
+P3109,Elias Mwiza,90,Public,DOC0014,A+,Rubavu
+P2548, Jacques Kamanzi ,75,Govt,DOC0026,B-,Muhanga
+P1734,Lise Habimana,53,Private,DOC0025,O+,Rubavu
+P1860,Venant Kamali,71,None,DOC0010,AB-,Gisenyi
+P1494,Gabriel Murenzi,91,privatte,DOC0025,O-,Rubavu
+P2770,Justine Karangwa,90,N/A,DOC0023,B+,Kigali
+P0428,Desire Gakire,50,GOV,DOC0025,A-,Huye
+P0093,FABIEN DUSINGIZIMANA,81,None,DOC0013,AB-,Musanze
+P2061,LEA ISHIMWE,76,PUBLic,DOC0022,A-,Musanze
+P1504,lise ndacyayisenga,72,None,DOC0020,AB-,Huye
+P1804,Gilbert Kagame,68,PUBLic,DOC0022,A+,Gisenyi
+P0317, Georges Habimana ,73,None,DOC0018,AB+,Muhanga
+P0060,Cedric Niyibizi,90,privatte,DOC0016,O-,Muhanga
+P1037,eugenie kamana,81,Private,DOC0011,A-,Rubavu
+P1366, Anais Gasana ,73,PUBLic,DOC0004,O+,Kigali
+P1407,Stephanie Kazungu,59,Private,DOC0006,AB+,Gisenyi
+P2226,Noella Kamana,78,privatte,DOC0011,O-,Gisenyi
+P0694,Simon Murenzi,61,PUBLic,DOC0017,A-,Kigali
+P2824,Jeanne Umuhoza,73,GOV,DOC0005,O+,Musanze
+P2232,Grace Bizimana,45,GOV,DOC0009,B+,Gisenyi
+P1140,SYLVERE IRAKOZE,87,N/A,DOC0015,AB+,Huye
+P0810,Frank Ugiraneza,52,N/A,DOC0002,AB+,Rubavu
+P0496,Samuel Irankunda,45,Public,DOC0001,A+,Huye
+P1073,Pierre Irakoze,59,GOV,DOC0012,O+,Rubavu
+P1113,Bertrand Kayiranga,71,Public,DOC0016,O+,Kigali
+P1899,Cedric Gatete,89,GOV,DOC0020,O+,Kigali
+P0543,Josiane Gatabazi,50,Govt,DOC0015,O+,Muhanga
+P3241,Germain Manirakiza,94,PUBLic,DOC0025,AB-,Musanze
+P1485,Celestin Ingabire,86,PUBLic,DOC0019,B-,Rubavu
+P1077,Frederic Karangwa,70,privatte,DOC0005,O+,Gisenyi
+P1380,Germain Giraneza,85,N/A,DOC0004,AB-,Muhanga
+P1720,Honore Hirwa,73,Govt,DOC0017,O-,Huye
+P1134,Paul Cyusa,56,PUBLic,DOC0004,B-,Muhanga
+P1630, Sandrine Ndacyayisenga ,86,N/A,DOC0010,O-,Huye
+P1436,Martine Umutoni,42,N/A,DOC0009,AB-,Rubavu
+P2257,Bruno Bizimana,47,privatte,DOC0004,B-,Kigali
+P2502,Stephanie Kamana,85,Private,DOC0022,A+,Gisenyi
+P3022,Anitha Nteziryayo,56,PUBLic,DOC0020,O-,Rubavu
+P0943,Arsene Shema,78,Govt,DOC0019,B-,Musanze
+P0613,Olivier Kamali,82,privatte,DOC0004,A-,Huye
+P0215,Florence Karangwa,59,GOV,DOC0011,B+,Muhanga
+P1587,Fabien Kamana,75,PUBLic,DOC0020,A-,Gisenyi
+P2989,Beatrice Manirakiza,63,privatte,DOC0022,B-,Rubavu
+P0838,Emmanuel Niyigena,92,None,DOC0026,B-,Gisenyi
+P2897,YVETTE NZARAMBA,48,None,DOC0018,AB-,Gisenyi
+P2560,Claudine Uwimana,74,GOV,DOC0009,B-,Muhanga
+P2164,Anais Nzaramba,78,Private,DOC0001,A+,Huye
+P1590,louis dusingizimana,43,GOV,DOC0011,O-,Kigali
+P1274,Irene Nshuti,49,Private,DOC0008,O+,Muhanga
+P2090,ALINE NZARAMBA,73,N/A,DOC0021,B-,Gisenyi
+P2612,Julien Dusabe,95,None,DOC0018,A+,Muhanga
+P2497,Serge Irankunda,94,Private,DOC0005,O+,Huye
+P1450,Esther Uwimana,73,None,DOC0014,B-,Huye
+P2568,Nadia Kamanzi,62,Private,DOC0024,O-,Musanze
+P2810,Maxime Twahirwa,76,N/A,DOC0009,AB+,Musanze
+P1219,ANITHA NSHUTI,93,Private,DOC0011,A-,Huye
+P0562, Carine Irakoze ,71,PUBLic,DOC0008,AB-,Rubavu
+P0580,Ernest Karangwa,61,Private,DOC0022,A-,Kigali
+P3079,Roger Nzaramba,40,privatte,DOC0017,B-,Kigali
+P0549,Ariane Byiringiro,73,Public,DOC0025,AB+,Muhanga
+P0673, Carine Rukundo ,94,None,DOC0016,AB+,Kigali
+P0073,carine uwimana,41,Govt,DOC0021,B-,Rubavu
+P1807,Juliette Bimenyimana,62,Public,DOC0010,B-,Muhanga
+P1375,Gilbert Nzaramba,46,Private,DOC0006,A-,Gisenyi
+P2237,Antoine Bimenyimana,67,PUBLic,DOC0018,AB-,Kigali
+P0455,Charles Teta,65,Public,DOC0014,B+,Kigali
+P1901,Juliette Nsabimana,65,N/A,DOC0015,O+,Gisenyi
+P1459,Jerome Manirakiza,89,Public,DOC0011,A+,Musanze
+P1541,Hyacinthe Dusabe,71,None,DOC0010,AB-,Kigali
+P0628,SYLVAIN TWAHIRWA,78,Private,DOC0025,A-,Gisenyi
+P1106,Grace Dusingizimana,94,GOV,DOC0024,AB+,Rubavu
+P2092,MARTINE NDAHIMANA,87,PUBLic,DOC0005,AB-,Kigali
+P1220,Christophe Nteziryayo,86,Private,DOC0006,A-,Rubavu
+P0392,Nathalie Nzaramba,48,Public,DOC0006,A+,Gisenyi
+P2451,Hyacinthe Gatete,40,Private,DOC0007,B-,Musanze
+P0895,Henri Munyaneza,72,Govt,DOC0026,B+,Kigali
+P1922,DIDIER NTEZIRYAYO,94,N/A,DOC0018,A+,Huye
+P2344,Hyacinthe Kalisa,73,GOV,DOC0017,A+,Rubavu
+P0059,Felicien Hakizimana,93,privatte,DOC0026,B-,Muhanga
+P2666,Roland Kabera,85,PUBLic,DOC0016,B+,Rubavu
+P2364,thierry byiringiro,83,None,DOC0020,O+,Huye
+P1669,Bruno Nshuti,95,privatte,DOC0016,AB+,Musanze
+P0642, Therese Kamali ,93,Private,DOC0013,B+,Musanze
+P1617,Philippe Karekezi,88,None,DOC0007,B-,Gisenyi
+P0066,Diane Yankurije,90,Public,DOC0011,A-,Muhanga
+P2595,Roland Nshuti,95,N/A,DOC0001,O+,Rubavu
+P2490,Fanny Nshuti,58,Public,DOC0003,O+,Gisenyi
+P2912,Eliane Mwiza,84,Public,DOC0008,O-,Gisenyi
+P0827,GISELE KABERA,60,None,DOC0006,O-,Rubavu
+P2166,Valerie Dusingizimana,46,Public,DOC0006,AB-,Musanze
+P0091,Bruno Nzabonimpa,89,GOV,DOC0014,A+,Huye
+P1405,Thomas Dusingizimana,76,Private,DOC0016,O+,Gisenyi
+P1081,Remi Uwase,80,None,DOC0005,A-,Huye
+P2806,CHRISTIAN MAZIMPAKA,70,None,DOC0026,AB+,Rubavu
+P2032,Suzanne Kamanzi,74,Public,DOC0019,B-,Rubavu
+P2078, Hassan Ndagijimana ,91,None,DOC0013,A-,Rubavu
+P1124,Janvier Rukundo,69,None,DOC0026,O-,Rubavu
+P1398,Lise Giraneza,71,PUBLic,DOC0009,O-,Musanze
+P3040,Honorat Ntirushwa,89,privatte,DOC0004,AB-,Rubavu
+P0961,BERNARD NDAGIJIMANA,87,Public,DOC0013,AB+,Musanze
+P2394,Moise Ufitinema,49,Private,DOC0004,B-,Rubavu
+P1311,Samuel Uwayo,79,Public,DOC0015,O+,Muhanga
+P2563,Jerome Bizimana,71,None,DOC0019,O-,Muhanga
+P1280,Beatrice Munyaneza,50,Public,DOC0001,AB+,Gisenyi
+P1947,Theogene Niyonsenga,82,GOV,DOC0002,AB-,Rubavu
+P0411,Elias Uwamahoro,62,Govt,DOC0022,AB+,Huye
+P0421,Arsene Rugamba,70,Govt,DOC0002,B+,Kigali
+P0006,Roger Kamanzi,72,PUBLic,DOC0008,B-,Huye
+P1830,Maurice Giraneza,71,privatte,DOC0011,B+,Gisenyi
+P0799,elias imanishimwe,47,Private,DOC0001,B+,Gisenyi
+P1594,Carine Hakizimana,86,Public,DOC0002,B-,Kigali
+P0946,Louis Kayiranga,57,privatte,DOC0019,A+,Muhanga
+P1333, Beatrice Mugisha ,73,Private,DOC0006,B+,Gisenyi
+P0312, Gilbert Bizimana ,76,Govt,DOC0012,AB-,Rubavu
+P0340,dominique nzabonimpa,86,None,DOC0001,A+,Musanze
+P3156,PHILIPPE MUTESI,77,Private,DOC0009,O+,Musanze
+P0072,Robert Sebazungu,59,Private,DOC0026,AB-,Huye
+P2557,Grace Ntirushwa,68,Private,DOC0008,O+,Kigali
+P0010,Valerie Nzabonimpa,73,GOV,DOC0015,O+,Kigali
+P0138,ANNA NZABONIMPA,59,Private,DOC0015,A+,Rubavu
+P0646,SYLVIE NIYIGENA,68,GOV,DOC0018,A-,Huye
+P2195,Sylvain Kalisa,91,Govt,DOC0006,AB-,Rubavu
+P1693,paul mwiza,81,Private,DOC0001,AB-,Muhanga
+P0378,FIDELE BIZIMANA,86,privatte,DOC0026,O-,Musanze
+P2795,francois uwimana,86,Public,DOC0002,B+,Kigali
+P2907,Claudine Kamana,91,GOV,DOC0024,B+,Gisenyi
+P0655,Honorat Rukundo,71,Private,DOC0016,A+,Kigali
+P2219,Jacqueline Mutesi,80,N/A,DOC0021,O-,Huye
+P0742,Gaetan Habyarimana,72,Public,DOC0007,B+,Gisenyi
+P2589, Frank Dusingizimana ,61,privatte,DOC0009,B-,Gisenyi
+P1446, Elie Ndacyayisenga ,84,Public,DOC0016,B+,Kigali
+P0015,Antoine Kayitare,90,Private,DOC0017,B+,Gisenyi
+P2445,VALENS UWASE,72,Public,DOC0026,A+,Muhanga
+P3133,Honore Ufitinema,52,privatte,DOC0009,O-,Rubavu
+P1331,Honore Nteziryayo,61,Govt,DOC0019,O-,Musanze
+P2911,Gilbert Gatabazi,55,None,DOC0011,AB-,Musanze
+P2076,Aime Gasana,51,None,DOC0021,O+,Rubavu
+P1066,NATHALIE NSENGIMANA,80,N/A,DOC0011,B+,Gisenyi
+P1951,Paul Teta,67,Govt,DOC0005,A+,Gisenyi
+P0686,Gabriel Umuhoza,40,Public,DOC0006,AB+,Musanze
+P1798,Honore Ingabire,50,None,DOC0007,B+,Rubavu
+P0752,Ines Yankurije,74,Private,DOC0003,B-,Musanze
+P1489,Monique Ufitinema,80,Govt,DOC0013,A+,Gisenyi
+P2665,Fabien Kabanda,95,Private,DOC0025,AB-,Huye
+P0305, Didier Mazimpaka ,92,GOV,DOC0019,O+,Musanze
+P1021,Serge Sebazungu,81,None,DOC0009,AB-,Gisenyi
+P2450,Benjamin Mutesi,73,Private,DOC0008,A-,Muhanga
+P1773,Venant Twahirwa,92,N/A,DOC0013,AB+,Rubavu
+P1794,Aline Uwase,75,Govt,DOC0002,A+,Kigali
+P3001,Edouard Habimana,65,PUBLic,DOC0014,B-,Kigali
+P2525,fanny ruzindana,87,Govt,DOC0026,A-,Huye
+P2035,desire nzabonimpa,81,privatte,DOC0021,AB+,Muhanga
+P1130,Sandrine Cyusa,56,GOV,DOC0016,O-,Rubavu
+P0966, Sophie Kalisa ,89,privatte,DOC0013,B-,Kigali
+P1726,Roland Kalisa,88,privatte,DOC0025,B-,Muhanga
+P3203,ISIDORE NDAHIMANA,74,N/A,DOC0001,B+,Kigali
+P2752,DESIRE GASHUGI,78,Private,DOC0008,AB-,Kigali
+P0478,Daniel Kamanzi,86,N/A,DOC0008,A-,Kigali
+P2518,Xavier Nzabonimpa,93,Private,DOC0022,O+,Kigali
+P1336,Louise Mutesi,55,Public,DOC0016,A+,Huye
+P0699,Felicien Mugisha,88,Govt,DOC0026,B-,Gisenyi
+P2777,Jonas Niyibizi,71,None,DOC0007,A+,Gisenyi
+P0135, Felix Ndayisenga ,93,privatte,DOC0004,O-,Gisenyi
+P1910,Michel Imanishimwe,84,Private,DOC0011,A+,Rubavu
+P2571,ROLAND RUKUNDO,93,Public,DOC0007,AB-,Muhanga
+P0203,Claude Niyibizi,74,Public,DOC0015,B+,Kigali
+P0829,Raymond Kamanzi,81,Public,DOC0014,AB+,Rubavu
+P1475,Jonas Uwayo,68,None,DOC0026,AB+,Gisenyi
+P0738,Frank Uwase,72,Private,DOC0008,B+,Rubavu
+P1157,olivier nshuti,88,None,DOC0011,AB-,Musanze
+P2688,Valens Ruzindana,45,N/A,DOC0025,AB+,Huye
+P0476,Augustin Nteziryayo,92,None,DOC0008,AB-,Kigali
+P2241,Gisele Ndagijimana,74,N/A,DOC0025,AB-,Kigali
+P1481,Elias Nshuti,87,None,DOC0010,O+,Kigali
+P2998,Augustin Ufitinema,94,PUBLic,DOC0018,O+,Muhanga
+P2426,Benoit Ingabire,74,Govt,DOC0025,O+,Kigali
+P0632,BEN MUGISHA,89,Private,DOC0010,AB-,Huye
+P2629,Noella Habimana,44,Private,DOC0024,A-,Musanze
+P1163,Elie Murenzi,42,Public,DOC0006,B+,Musanze
+P2717,Eugenie Ingabire,86,Private,DOC0025,AB-,Rubavu
+P1417,Isaac Mazimpaka,87,PUBLic,DOC0005,O+,Muhanga
+P0181,Ignace Hirwa,87,Public,DOC0004,O-,Muhanga
+P0375,Nadege Kalisa,77,Public,DOC0010,AB-,Huye
+P2356,Jacqueline Teta,86,PUBLic,DOC0020,O+,Gisenyi
+P0950,Remi Twahirwa,92,privatte,DOC0014,AB-,Kigali
+P0293,Dominique Kabera,93,None,DOC0008,AB+,Rubavu
+P2391,Christine Gatera,94,Private,DOC0005,B+,Gisenyi
+P2584,Maxime Nteziryayo,73,N/A,DOC0001,A+,Kigali
+P2317,Aime Nzabonimpa,70,Govt,DOC0015,A-,Rubavu
+P1411,Sebastien Gatabazi,81,None,DOC0026,AB+,Kigali
+P1711,Jonas Teta,42,None,DOC0007,O+,Kigali
+P1978,Frank Rukundo,93,Private,DOC0017,B+,Huye
+P2845,Beatrice Kamali,72,PUBLic,DOC0016,AB-,Kigali
+P2705,Claire Umutoni,47,None,DOC0003,AB-,Rubavu
+P0214,Richard Karekezi,90,Private,DOC0006,AB+,Muhanga
+P2396,Michel Ruzindana,73,PUBLic,DOC0004,A+,Muhanga
+P1027,Alain Murenzi,92,N/A,DOC0019,B+,Musanze
+P1543,Lucien Kamana,72,Private,DOC0002,B-,Musanze
+P1722,GISELE MAZIMPAKA,88,privatte,DOC0010,AB+,Gisenyi
+P0078,Elias Munyaneza,42,PUBLic,DOC0023,B+,Rubavu
+P2051,Hugues Kamali,81,GOV,DOC0003,B+,Gisenyi
+P2704,Ines Tuyisenge,85,PUBLic,DOC0016,A-,Huye
+P0680,Serge Uwase,79,N/A,DOC0023,O+,Muhanga
+P0602,raymond tuyisenge,89,Public,DOC0010,A+,Kigali
+P0480,angelique gakire,62,Govt,DOC0017,A+,Musanze
+P0797,CELESTIN HAKIZIMANA,88,None,DOC0015,AB-,Musanze
+P0513, Marc Umutoni ,63,Private,DOC0007,B-,Muhanga
+P0173,ISIDORE YANKURIJE,95,N/A,DOC0008,O-,Rubavu
+P1426,Victor Gasana,71,GOV,DOC0002,AB+,Musanze
+P0064,Justine Kayitare,75,privatte,DOC0013,AB-,Musanze
+P1987,Honorat Nshuti,92,Private,DOC0022,AB-,Kigali
+P3067,Suzanne Ruzindana,87,Govt,DOC0004,A+,Huye
+P2956, Joel Tuyisenge ,75,privatte,DOC0022,O-,Gisenyi
+P0159,Marcel Ishimwe,53,Private,DOC0010,O+,Rubavu
+P0734, Victor Rukundo ,77,Govt,DOC0005,A-,Huye
+P2135,Benjamin Habimana,88,GOV,DOC0009,A+,Huye
+P1204, Veronique Munyaneza ,84,privatte,DOC0010,AB+,Kigali
+P1276,Francois Mutesi,77,GOV,DOC0016,B-,Gisenyi
+P2843,Charles Umuhoza,83,N/A,DOC0010,AB+,Muhanga
+P1170, Julien Twahirwa ,82,GOV,DOC0020,A+,Rubavu
+P0536, Georges Ingabire ,93,GOV,DOC0011,B+,Musanze
+P2327, Rose Ugiraneza ,81,Govt,DOC0013,O+,Gisenyi
+P0515,Dieudonne Irankunda,87,privatte,DOC0026,AB+,Rubavu
+P0871,ELISE KAGAME,80,Govt,DOC0025,A-,Rubavu
+P0082,Elias Ndayisenga,91,privatte,DOC0026,AB-,Huye
+P1050, Doris Cyusa ,93,Private,DOC0006,AB+,Kigali
+P0134,Veronique Nzabonimpa,86,None,DOC0008,O+,Huye
+P2074,Theogene Ganza,71,Public,DOC0021,O+,Musanze
+P0316,Josiane Uwayo,53,GOV,DOC0004,A-,Musanze
+P0925,Chantal Bimenyimana,56,Govt,DOC0025,O-,Kigali
+P2429,denise gatabazi,79,GOV,DOC0008,AB+,Musanze
+P1838,Edouard Ishimwe,74,Private,DOC0011,AB+,Huye
+P2286,Vincent Kalisa,42,None,DOC0003,AB+,Musanze
+P1572,Jean Karekezi,81,Public,DOC0013,O+,Rubavu
+P2131,Richard Umutoni,88,N/A,DOC0004,AB-,Gisenyi
+P0970,Yves Mazimpaka,87,Private,DOC0008,B-,Muhanga
+P0631,Aurelie Ruzindana,80,Private,DOC0008,AB-,Musanze
+P1404,Elias Kagame,89,Govt,DOC0008,A+,Musanze
+P0681,Antoine Niyonsenga,93,Govt,DOC0026,A+,Huye
+P0227,Doris Rugamba,89,GOV,DOC0011,A-,Huye
+P3108,Charles Imanishimwe,62,None,DOC0007,A-,Gisenyi
+P2847,Maurice Kalisa,62,N/A,DOC0016,A-,Kigali
+P1210,JOSIANE GASHUGI,83,privatte,DOC0010,B-,Gisenyi
+P0284,ANITHA MANIRAKIZA,74,Public,DOC0016,A+,Muhanga
+P0517,Ben Cyusa,77,N/A,DOC0012,AB-,Musanze
+P0861,Omar Umutoni,54,N/A,DOC0017,B-,Rubavu
+P1501, Hugues Ingabire ,70,PUBLic,DOC0021,AB+,Huye
+P0197,Edith Dushimimana,91,privatte,DOC0021,A+,Muhanga
+P2929,Maxime Niyibizi,54,None,DOC0021,O+,Rubavu
+P1926,Benjamin Nshuti,65,Private,DOC0011,AB+,Muhanga
+P2638,Edith Uwimana,89,PUBLic,DOC0022,A+,Gisenyi
+P1252,Odette Umuhoza,79,PUBLic,DOC0012,AB+,Rubavu
+P1054,Ines Bizimana,86,privatte,DOC0019,AB+,Rubavu
+P0877,paul tuyisenge,66,PUBLic,DOC0019,B+,Gisenyi
+P0894,Samuel Hakizimana,52,Govt,DOC0008,AB-,Kigali
+P1920,Denise Ganza,72,Private,DOC0012,O+,Huye
+P3045,Gaetan Mugisha,68,Govt,DOC0013,B+,Musanze
+P1611,GASTON BIZIMANA,74,GOV,DOC0016,O+,Huye
+P2336,Richard Nzaramba,57,Govt,DOC0012,O-,Muhanga
+P1771,Therese Yankurije,82,PUBLic,DOC0018,B-,Huye
+P2399,LEONIDAS DUSHIMIMANA,93,None,DOC0015,O-,Musanze
+P0582,Jules Umuhoza,76,privatte,DOC0019,O+,Rubavu
+P0164,Gaetan Nzaramba,41,N/A,DOC0016,B-,Kigali
+P0713,Patrick Keza,81,Govt,DOC0015,A+,Rubavu
+P2939,CARINE MANIRAKIZA,86,GOV,DOC0006,O+,Kigali
+P2524,Guillaume Dusingizimana,91,None,DOC0021,A+,Muhanga
+P0691,Hyacinthe Gashugi,85,N/A,DOC0022,B+,Musanze
+P3154,DAVID RUZINDANA,76,N/A,DOC0011,AB-,Gisenyi
+P0963,Noella Mugisha,59,GOV,DOC0025,B-,Muhanga
+P1911,Victor Bizimana,73,GOV,DOC0017,B-,Musanze
+P0397,Doris Irankunda,51,GOV,DOC0012,AB+,Muhanga
+P0592,Remi Kamana,85,Govt,DOC0008,O-,Musanze
+P2781,Grace Uwamahoro,74,Govt,DOC0019,AB+,Huye
+P2390,Theoneste Kazungu,84,Private,DOC0006,AB+,Muhanga
+P0163,Antoine Niyigena,92,None,DOC0023,AB-,Gisenyi
+P3020,GABRIEL GASANA,41,privatte,DOC0011,O-,Huye
+P1772,Madeleine Bizimana,71,GOV,DOC0009,O+,Rubavu
+P1800, Thomas Ugiraneza ,94,Public,DOC0009,AB+,Huye
+P1735,SYLVAIN NSABIMANA,78,Public,DOC0006,A-,Huye
+P0942, Esther Ruzindana ,71,PUBLic,DOC0008,A+,Kigali
+P1903,Clement Kamali,75,Public,DOC0019,AB+,Gisenyi
+P3155,Maurice Ufitinema,92,Public,DOC0013,A-,Musanze
+P3169,marine kamana,77,Govt,DOC0024,B+,Muhanga
+P1697,DIDIER NDAHIMANA,92,PUBLic,DOC0026,A+,Gisenyi
+P1397,Lea Karangwa,74,Private,DOC0010,B-,Huye
+P2133,FANNY KARANGWA,88,Private,DOC0016,O-,Muhanga
+P3194,Ange Uwimana,94,Private,DOC0023,A+,Rubavu
+P2432,FRANCOIS DUSHIMIMANA,73,Public,DOC0021,B-,Muhanga
+P1300,Eric Ugiraneza,70,Private,DOC0020,O-,Muhanga
+P0444,Eugene Mazimpaka,76,PUBLic,DOC0015,O-,Musanze
+P0382,Louis Uwamahoro,72,GOV,DOC0006,O+,Rubavu
+P1708,Lucien Ganza,47,N/A,DOC0012,B-,Kigali
+P1493,FELICIEN KAREKEZI,65,N/A,DOC0007,B-,Gisenyi
+P0030,MICHEL GATETE,67,privatte,DOC0009,B-,Huye
+P2094, Marc Manirakiza ,53,PUBLic,DOC0004,O+,Rubavu
+P2121,Jacques Uwizeyimana,73,PUBLic,DOC0014,A+,Huye
+P0267,Sophie Imanishimwe,78,None,DOC0011,AB-,Gisenyi
+P1544,Maxime Nshuti,75,Private,DOC0015,O-,Rubavu
+P2971, Marie Dusingizimana ,94,Govt,DOC0008,AB+,Musanze
+P1728,Jules Uwimana,91,Govt,DOC0015,AB-,Musanze
+P3139,Ferdinand Uwayo,78,Public,DOC0010,AB+,Rubavu
+P2644,Marc Nshuti,82,GOV,DOC0015,B-,Kigali
+P0793,ROLAND KAYIRANGA,90,Public,DOC0008,B-,Rubavu
+P1385,Samuel Umuhoza,56,Private,DOC0012,O-,Gisenyi
+P1991,Celestin Karekezi,73,Private,DOC0007,A+,Musanze
+P1534,JONAS INGABIRE,71,PUBLic,DOC0010,AB+,Rubavu
+P0447,Edith Nshuti,72,Public,DOC0001,A+,Gisenyi
+P3130,ODETTE ISHIMWE,70,Govt,DOC0012,AB+,Musanze
+P3129, Daniel Bizimana ,84,Govt,DOC0001,B+,Rubavu
+P0801,Diane Mazimpaka,81,GOV,DOC0009,B+,Rubavu
+P1369,Grace Nteziryayo,50,GOV,DOC0015,A-,Kigali
+P2252,martine keza,71,GOV,DOC0014,O-,Kigali
+P0754, Jules Hirwa ,80,N/A,DOC0005,AB-,Gisenyi
+P0506, Elie Kamanzi ,74,Public,DOC0010,AB+,Musanze
+P0331,Ariane Ndahimana,82,privatte,DOC0001,O+,Huye
+P2887,Felicien Ndayisenga,86,privatte,DOC0021,O+,Kigali
+P0277,Laurent Karekezi,61,N/A,DOC0016,B+,Huye
+P1325,VINCENT KAZUNGU,91,Govt,DOC0001,AB+,Gisenyi
+P1862,Hugues Ugiraneza,85,PUBLic,DOC0015,B+,Huye
+P2136,Theogene Bimenyimana,45,privatte,DOC0014,AB-,Rubavu
+P1881,ivan uwase,68,Public,DOC0010,AB+,Gisenyi
+P0016,dominique kayitare,48,N/A,DOC0010,AB+,Musanze
+P1961,Samuel Mazimpaka,69,PUBLic,DOC0011,AB-,Muhanga
+P2630,Mathieu Ingabire,86,Govt,DOC0011,A-,Musanze
+P2579, Paul Dusabe ,87,Public,DOC0026,A+,Muhanga
+P0807,Gaston Mwiza,72,N/A,DOC0007,AB+,Muhanga
+P1968,gaetan gatera,82,Private,DOC0005,B-,Huye
+P0469,Bertrand Dusingizimana,52,privatte,DOC0020,A-,Muhanga
+P2114,Rose Ufitinema,51,Private,DOC0011,AB+,Kigali
+P0887,Jules Bimenyimana,92,Private,DOC0016,AB+,Rubavu
+P1382,Doris Uwamahoro,60,privatte,DOC0006,AB-,Kigali
+P0839,Augustin Tuyisenge,92,Govt,DOC0002,O-,Kigali
+P0126,Donat Irankunda,79,privatte,DOC0021,O+,Kigali
+P2519,Josiane Kayitare,52,Private,DOC0011,A-,Muhanga
+P2585,CHRISTOPHE UWASE,48,GOV,DOC0009,B+,Huye
+P2554,Diane Uwimana,45,Public,DOC0018,A-,Rubavu
+P2934,Carine Uwamahoro,85,Public,DOC0002,AB+,Gisenyi
+P2950,Augustin Umuhoza,70,GOV,DOC0001,AB-,Gisenyi
+P2930,joel ganza,85,GOV,DOC0011,O+,Gisenyi
+P2206,Justine Rugamba,88,privatte,DOC0011,O+,Gisenyi
+P2470,Fanny Shema,91,Private,DOC0021,A+,Kigali
+P2936,nadege uwamahoro,47,Private,DOC0017,A-,Rubavu
+P1247,Theoneste Mazimpaka,82,privatte,DOC0006,A+,Huye
+P3118,Justine Sebazungu,66,None,DOC0012,AB-,Musanze
+P1338,DANIEL KARANGWA,53,N/A,DOC0008,AB+,Rubavu
+P1088,Aubin Kazungu,86,Public,DOC0020,A+,Muhanga
+P0975,Fabien Nteziryayo,87,Govt,DOC0023,B+,Musanze
+P2927,Yves Bimenyimana,72,Public,DOC0011,A+,Kigali
+P0052, Theogene Gatera ,95,privatte,DOC0024,AB+,Rubavu
+P0371,Charles Rukundo,65,privatte,DOC0015,A+,Kigali
+P2609,Esther Gatete,81,GOV,DOC0007,B+,Muhanga
+P0470,Cedric Kazungu,56,None,DOC0016,O+,Gisenyi
+P0663,ROSE MANIRAKIZA,69,Govt,DOC0018,O-,Kigali
+P3157,Daniel Ntirushwa,81,GOV,DOC0021,AB+,Muhanga
+P1376,Claude Rugamba,62,None,DOC0025,A+,Musanze
+P0573,Richard Murenzi,86,privatte,DOC0011,O-,Muhanga
+P0387,Paul Irankunda,92,None,DOC0006,AB-,Huye
+P0998,Paul Ufitinema,82,Public,DOC0011,O-,Musanze
+P2990,Athanase Kazungu,93,Private,DOC0001,O+,Gisenyi
+P2545,suzanne rugamba,74,N/A,DOC0002,B-,Musanze
+P0816,Grace Kabanda,79,Public,DOC0014,A+,Kigali
+P3050,Germain Munyaneza,87,GOV,DOC0006,AB+,Muhanga
+P2442,RICHARD UFITINEMA,79,Public,DOC0002,A+,Huye
+P1286,Benoit Munyaneza,79,Govt,DOC0003,O-,Gisenyi
+P0978,sebastien umutoni,41,Private,DOC0009,O+,Rubavu
+P0920,Elodie Ganza,72,None,DOC0026,AB+,Kigali
+P1814,germain kagame,81,PUBLic,DOC0006,O-,Gisenyi
+P0778,Chantal Hirwa,80,privatte,DOC0022,B+,Musanze
+P2132,Xavier Kayitare,72,N/A,DOC0010,B-,Gisenyi
+P1441,eugene niyonsenga,93,GOV,DOC0019,AB-,Rubavu
+P2188, Jerome Uwamahoro ,43,privatte,DOC0008,A-,Rubavu
+P2813,theogene dusabe,87,Public,DOC0010,B+,Gisenyi
+P0216,Arsene Umuhoza,93,privatte,DOC0024,AB+,Muhanga
+P0760,Yvette Habimana,77,PUBLic,DOC0018,B+,Gisenyi
+P0904,Nicole Nzabonimpa,90,None,DOC0020,B-,Kigali
+P2091, Maurice Ruzindana ,83,Public,DOC0022,B-,Muhanga
+P0264,JEAN MUNYANEZA,72,N/A,DOC0016,AB+,Muhanga
+P0311,Jeanne Manirakiza,83,PUBLic,DOC0021,A-,Musanze
+P1461, Fabien Byiringiro ,78,Private,DOC0020,A-,Kigali
+P0747,Nadege Habyarimana,72,None,DOC0009,B+,Muhanga
+P0168,Celestin Umuhoza,78,PUBLic,DOC0020,AB+,Huye
+P1225,hubert mugisha,76,N/A,DOC0001,O+,Kigali
+P2300,Grace Kabera,76,privatte,DOC0004,O+,Huye
+P1249,MARC UWASE,93,Govt,DOC0002,A-,Kigali
+P1878,Janvier Mugisha,89,N/A,DOC0001,O-,Musanze
+P0651,Thomas Cyusa,91,GOV,DOC0015,B-,Rubavu
+P1091,Philippe Kabanda,50,GOV,DOC0013,AB-,Rubavu
+P1360,Marcel Kazungu,77,Private,DOC0010,B-,Rubavu
+P2672,Rene Ishimwe,81,Govt,DOC0024,B+,Gisenyi
+P0893,Regis Nsabimana,82,Private,DOC0020,AB-,Musanze
+P2849, Gisele Ingabire ,89,Govt,DOC0023,AB-,Kigali
+P0903,Elie Kabera,73,privatte,DOC0012,AB-,Huye
+P1777,Lea Nsabimana,55,N/A,DOC0004,O-,Kigali
+P2037,Nicole Nzaramba,73,PUBLic,DOC0004,AB-,Musanze
+P0789,Solange Ishimwe,73,Govt,DOC0005,O-,Kigali
+P2890,ines niyonsenga,89,None,DOC0017,B+,Kigali
+P0047,Ferdinand Giraneza,46,Private,DOC0025,O+,Rubavu
+P2355,Gaetan Teta,61,GOV,DOC0008,AB+,Kigali
+P0626,CARINE BIZIMANA,78,N/A,DOC0002,O-,Huye
+P3220,Lise Ufitinema,71,GOV,DOC0009,AB+,Muhanga
+P0930, Guy Habimana ,56,PUBLic,DOC0008,A+,Rubavu
+P3208,Elodie Teta,79,N/A,DOC0023,AB-,Kigali
+P0269,Aline Kayitare,75,None,DOC0012,O+,Kigali
+P1873,Theoneste Nsengimana,71,Private,DOC0007,A-,Rubavu
+P2304, Stephanie Sebazungu ,79,Govt,DOC0011,A-,Kigali
+P1055,Edouard Irankunda,85,Govt,DOC0002,O+,Huye
+P2732, Ben Kamanzi ,86,Govt,DOC0001,AB+,Rubavu
+P0892,Thomas Gasana,76,privatte,DOC0007,A+,Gisenyi
+P1850,Martin Kagame,86,Private,DOC0013,B-,Kigali
+P1642,Odette Ngendahimana,71,Govt,DOC0014,A+,Musanze
+P0350, Benoit Rugamba ,76,GOV,DOC0007,A-,Huye
+P0597, Irene Umutoni ,91,N/A,DOC0022,AB-,Huye
+P1023,Olivier Kamanzi,87,N/A,DOC0003,B+,Huye
+P2141,Clement Habimana,86,PUBLic,DOC0014,B+,Musanze
+P0177,Rachel Cyusa,77,privatte,DOC0019,B-,Rubavu
+P1984, Vincent Sebazungu ,83,N/A,DOC0006,O+,Musanze
+P1985,Georges Nzaramba,56,N/A,DOC0015,AB+,Muhanga
+P2385,FREDERIC GAKIRE,70,N/A,DOC0004,O-,Rubavu
+P2869,MARTINE TWAHIRWA,75,N/A,DOC0016,O-,Musanze
+P2888,Ines Ruzindana,84,GOV,DOC0017,AB+,Musanze
+P3150,DIANE UWAMAHORO,82,Private,DOC0001,O-,Muhanga
+P2915,Justine Dusingizimana,92,PUBLic,DOC0023,AB+,Musanze
+P0298,Ariane Irakoze,73,PUBLic,DOC0016,O-,Huye
+P2837,alain bizimana,89,Private,DOC0021,A-,Kigali
+P0281,Regis Uwizeyimana,62,None,DOC0003,B-,Musanze
+P2783,Eugenie Uwizeyimana,94,GOV,DOC0002,AB+,Kigali
+P0198,Anais Kalisa,75,GOV,DOC0010,A+,Muhanga
+P1442,Moise Niyibizi,85,GOV,DOC0015,AB-,Huye
+P1194,Donat Ndahimana,71,N/A,DOC0015,B+,Huye
+P1474,Roland Ndayisenga,84,None,DOC0017,A+,Huye
+P2414,Clement Bimenyimana,76,PUBLic,DOC0008,O-,Muhanga
+P1400,Christian Ngendahimana,71,privatte,DOC0002,AB-,Rubavu
+P1357,Paul Kamali,93,GOV,DOC0024,B+,Huye
+P0572,Grace Habimana,84,Govt,DOC0008,O-,Gisenyi
+P0841,Bernard Kayitare,85,Private,DOC0015,B+,Rubavu
+P2558,Isabelle Nshuti,43,N/A,DOC0023,B+,Gisenyi
+P2570,jean byiringiro,75,GOV,DOC0015,A-,Rubavu
+P1997,Ivan Irankunda,67,Private,DOC0014,AB-,Huye
+P0276,Isaac Uwamahoro,87,N/A,DOC0008,B+,Musanze
+P0583,Jeanne Gasana,55,Public,DOC0006,A-,Gisenyi
+P1806,Maurice Ndagijimana,60,None,DOC0026,O+,Gisenyi
+P1045,Esther Kamanzi,84,N/A,DOC0002,AB-,Musanze
+P2055,Regis Dusingizimana,82,GOV,DOC0013,B+,Huye
+P2501,CELESTIN TWAHIRWA,48,GOV,DOC0016,O-,Kigali
+P1506,denise kamanzi,66,GOV,DOC0006,O-,Gisenyi
+P0458,BEATRICE KARANGWA,45,Private,DOC0012,B-,Musanze
+P0171,JOSEPH KAMANZI,84,N/A,DOC0022,AB-,Musanze
+P0224,MARGUERITE GASANA,70,Govt,DOC0018,B+,Musanze
+P1865,christophe umuhoza,73,GOV,DOC0016,B-,Muhanga
+P2041,Eugene Ganza,50,Public,DOC0001,O+,Musanze
+P2534,Ariane Teta,70,Public,DOC0021,O+,Musanze
+P0936,Alain Gatabazi,63,Public,DOC0015,B-,Huye
+P0708, Ben Sebazungu ,62,N/A,DOC0023,B+,Huye
+P2875,Gaetan Gasana,91,Public,DOC0024,A+,Huye
+P2587,Sylvain Gatera,46,N/A,DOC0001,A-,Gisenyi
+P2832, Faustin Niyonsenga ,89,PUBLic,DOC0002,O-,Musanze
+P1454,Claire Kamanzi,78,GOV,DOC0023,O+,Muhanga
+P1732,Hugues Rukundo,47,Govt,DOC0006,A-,Kigali
+P0263,Hubert Gatete,42,PUBLic,DOC0023,O-,Huye
+P2448,Roger Cyusa,92,Private,DOC0017,O-,Kigali
+P2816,Nicole Mutesi,56,N/A,DOC0005,B+,Gisenyi
+P1958, Aline Mutesi ,91,PUBLic,DOC0024,B+,Kigali
+P3043,Louis Gakire,89,N/A,DOC0001,AB+,Rubavu
+P0901,Eric Uwimana,71,privatte,DOC0020,B-,Gisenyi
+P2596,KEVIN KAMANZI,56,GOV,DOC0011,A+,Rubavu
+P1287, Cedric Karangwa ,72,PUBLic,DOC0015,A+,Gisenyi
+P0606,Madeleine Gatete,91,PUBLic,DOC0017,B+,Rubavu
+P0244,ivan nsengimana,87,GOV,DOC0026,O+,Musanze
+P0849,Roland Nsengimana,80,Private,DOC0012,O+,Rubavu
+P1824,Bernard Mwiza,78,N/A,DOC0013,O+,Huye
+P0207,Bosco Gasana,86,PUBLic,DOC0007,B-,Huye
+P0179,Marie Gasana,73,PUBLic,DOC0013,B+,Gisenyi
+P0334,Arsene Ugiraneza,61,Public,DOC0023,AB+,Muhanga
+P1469,Benjamin Munyaneza,71,GOV,DOC0005,B-,Muhanga
+P1328,Aurelie Byiringiro,79,None,DOC0010,AB-,Gisenyi
+P2196,joseph keza,56,GOV,DOC0016,O-,Musanze
+P2293,Immaculee Kayitare,82,privatte,DOC0006,A+,Rubavu
+P3047,Justine Byiringiro,73,privatte,DOC0008,AB+,Muhanga
+P1468,Nadege Dusingizimana,80,Govt,DOC0002,A-,Muhanga
+P0427,Gaspard Kamali,77,None,DOC0021,A-,Muhanga
+P2746,Denise Niyibizi,68,GOV,DOC0001,O-,Rubavu
+P2310,Celestin Ndacyayisenga,40,GOV,DOC0012,A-,Kigali
+P0245,Clementine Teta,90,None,DOC0017,O-,Musanze
+P0204,Arsene Teta,89,Private,DOC0021,O-,Musanze
+P1900,Ferdinand Nzabonimpa,71,GOV,DOC0019,A-,Muhanga
+P1908,Sylvere Nteziryayo,45,PUBLic,DOC0007,A-,Musanze
+P2617,Sylvain Ngendahimana,61,PUBLic,DOC0014,A+,Kigali
+P0771,Georges Kalisa,52,N/A,DOC0026,A-,Gisenyi
+P2147,Hubert Ruzindana,92,N/A,DOC0007,AB-,Rubavu
+P3030, Pierre Hakizimana ,57,None,DOC0010,O-,Rubavu
+P0520,Fanny Hirwa,52,Private,DOC0020,AB-,Muhanga
+P0653,Aurelie Kagame,90,Private,DOC0013,A-,Muhanga
+P0063,Aime Kabera,74,GOV,DOC0007,A-,Gisenyi
+P2220,Felix Teta,53,GOV,DOC0013,O+,Kigali
+P3168,Helene Dushimimana,82,Govt,DOC0018,B-,Rubavu
+P1635,Immaculee Rukundo,75,Private,DOC0021,AB-,Rubavu
+P1906,Doris Mwiza,72,N/A,DOC0026,A-,Musanze
+P2449,Jonas Ugiraneza,78,privatte,DOC0001,A+,Gisenyi
+P2731, Etienne Yankurije ,80,N/A,DOC0023,AB+,Muhanga
+P0120,Therese Kazungu,95,Govt,DOC0025,O-,Gisenyi
+P1831,Frank Uwimana,44,Public,DOC0015,AB+,Huye
+P2303,Eric Tuyisenge,63,PUBLic,DOC0013,B+,Kigali
+P2851,Nathalie Uwase,80,Public,DOC0001,A-,Rubavu
+P2178,David Gatabazi,86,PUBLic,DOC0018,B+,Muhanga
+P1100,Frederic Kazungu,95,N/A,DOC0012,AB-,Rubavu
+P1511,Ben Kabera,49,None,DOC0010,A-,Huye
+P1488,Rachel Murenzi,91,GOV,DOC0020,B+,Gisenyi
+P0388,Angelique Ndagijimana,95,PUBLic,DOC0016,B+,Muhanga
+P3019,Honorat Ndahimana,83,Private,DOC0019,O+,Gisenyi
+P2359,Lea Gashugi,67,GOV,DOC0007,O+,Rubavu
+P2607,Jacqueline Nsabimana,95,Govt,DOC0019,B+,Kigali
+P2758,Julien Habimana,46,PUBLic,DOC0010,B-,Muhanga
+P0869,Aline Dushimimana,41,GOV,DOC0023,A+,Huye
+P1552,Claudine Mugisha,70,PUBLic,DOC0013,O+,Musanze
+P2266, Irene Ruzindana ,53,None,DOC0004,AB-,Gisenyi
+P0853,Marc Dusabe,78,privatte,DOC0016,AB+,Kigali
+P1859, Bosco Mazimpaka ,46,Govt,DOC0011,A+,Kigali
+P2709,Guillaume Dusabe,85,GOV,DOC0008,O+,Kigali
+P1875,Christine Nzaramba,66,None,DOC0007,O+,Musanze
+P0959,Denise Umuhoza,92,PUBLic,DOC0013,B+,Kigali
+P2338,Christine Ndagijimana,94,N/A,DOC0006,B+,Gisenyi
+P0758,Jules Kalisa,60,Govt,DOC0003,B+,Muhanga
+P0774,Olivier Kayiranga,79,GOV,DOC0001,B-,Rubavu
+P1943,Angelique Ishimwe,73,Govt,DOC0007,A+,Kigali
+P1156,Marguerite Niyigena,80,GOV,DOC0019,B-,Musanze
+P0101,dieudonne ugiraneza,94,PUBLic,DOC0005,AB-,Rubavu
+P0253,Roland Uwayo,89,privatte,DOC0015,B-,Muhanga
+P2544,christine ndahimana,81,GOV,DOC0013,O+,Muhanga
+P0931,Lucien Hirwa,77,N/A,DOC0004,O-,Kigali
+P0620,Juliette Yankurije,75,GOV,DOC0013,B-,Gisenyi
+P0913,DIVINE KABERA,59,N/A,DOC0008,O+,Rubavu
+P2495,Isaac Munyaneza,43,Private,DOC0014,AB+,Huye
+P3165,Didier Kabera,70,GOV,DOC0008,AB+,Muhanga
+P1592,Valens Rugamba,85,PUBLic,DOC0018,B-,Musanze
+P2163,Ferdinand Ishimwe,90,None,DOC0017,O+,Muhanga
+P1342,Marguerite Nshuti,67,GOV,DOC0009,AB-,Kigali
+P1227,Isidore Gatete,50,None,DOC0010,B-,Huye
+P0217, Honore Dushimimana ,91,PUBLic,DOC0012,O-,Rubavu
+P0019,Stephanie Bizimana,73,PUBLic,DOC0024,AB+,Kigali
+P2321, Georges Dusabe ,88,Public,DOC0024,O-,Rubavu
+P2290,SYLVAIN MUTESI,64,Private,DOC0010,O+,Kigali
+P1965,Simon Habyarimana,72,Private,DOC0003,A+,Musanze
+P2761,Etienne Rugamba,43,PUBLic,DOC0012,A+,Rubavu
+P0098,Cedric Ndacyayisenga,81,Public,DOC0020,B+,Musanze
+P0561,Denise Nzabonimpa,70,Govt,DOC0023,O-,Gisenyi
+P2540,Elias Dusingizimana,75,GOV,DOC0023,O-,Muhanga
+P2007,Divine Mwiza,88,Private,DOC0007,AB+,Huye
+P1828,Aline Tuyisenge,62,N/A,DOC0016,O+,Kigali
+P1201,Faustin Ntirushwa,72,Private,DOC0026,B-,Rubavu
+P1533,Florence Mutesi,46,privatte,DOC0008,A-,Rubavu
+P3031,SIMON MUTESI,44,N/A,DOC0022,O+,Kigali
+P1886,hubert ndacyayisenga,74,N/A,DOC0020,B+,Kigali
+P2125,Odette Dusingizimana,85,GOV,DOC0006,AB-,Kigali
+P2109,Ben Niyonsenga,76,Govt,DOC0015,B-,Musanze
+P1399,Therese Twahirwa,92,privatte,DOC0002,AB+,Musanze
+P2723,Divine Mutesi,90,privatte,DOC0001,AB+,Gisenyi
+P2468,jules ntirushwa,80,privatte,DOC0021,AB-,Huye
+P0432,Marine Byiringiro,63,GOV,DOC0004,B+,Huye
+P2680,Moise Uwamahoro,75,Public,DOC0005,AB-,Musanze
+P2277,Marine Nteziryayo,48,None,DOC0001,A+,Rubavu
+P1660,Vincent Dusingizimana,87,Public,DOC0015,O+,Huye
+P0938,Jules Mutesi,82,None,DOC0023,B-,Musanze
+P1402,remi ishimwe,78,Govt,DOC0020,O+,Kigali
+P1153,Jeanne Irankunda,86,GOV,DOC0006,A+,Huye
+P1295,Angelique Mugisha,73,GOV,DOC0009,AB-,Rubavu
+P3144,Nathalie Teta,76,Private,DOC0005,B-,Huye
+P0643,Athanase Ndayisenga,73,None,DOC0019,AB-,Muhanga
+P0048, Guillaume Kazungu ,43,N/A,DOC0024,A+,Rubavu
+P2949,Gaspard Hakizimana,75,Govt,DOC0020,O+,Rubavu
+P0845,Fanny Kabera,64,GOV,DOC0014,A-,Kigali
+P0763,Ferdinand Mugisha,65,Public,DOC0023,O-,Huye
+P2861,Sylvie Kamana,72,Govt,DOC0019,O+,Muhanga
+P0914,Serge Gatabazi,71,privatte,DOC0015,B-,Muhanga
+P0748,Fabien Twahirwa,71,privatte,DOC0026,O-,Musanze
+P0085,Guy Ndacyayisenga,91,Public,DOC0013,O+,Muhanga
+P0036,Francois Umuhoza,71,PUBLic,DOC0016,O+,Muhanga
+P0899,nicole murenzi,71,GOV,DOC0021,O+,Musanze
+P2380,elodie murenzi,71,None,DOC0019,A+,Kigali
+P0373,SOPHIE UMUTONI,81,None,DOC0010,O+,Huye
+P0110,Carine Dushimimana,88,None,DOC0005,A-,Rubavu
+P2421,Gaston Irankunda,82,Public,DOC0024,B-,Gisenyi
+P2580,hassan dushimimana,59,None,DOC0002,O+,Gisenyi
+P0652,Isaac Ugiraneza,44,Govt,DOC0021,O+,Musanze
+P1306,LAURENT UWAYO,54,PUBLic,DOC0023,B-,Gisenyi
+P1298,Marie Gatete,86,PUBLic,DOC0010,O+,Musanze
+P0391,Yvonne Nsabimana,84,N/A,DOC0025,B+,Kigali
+P1470,roger teta,75,Public,DOC0006,B+,Muhanga
+P1870,Sebastien Sebazungu,87,N/A,DOC0001,AB-,Gisenyi
+P2830,Lise Kagame,84,privatte,DOC0008,O+,Gisenyi
+P2645,ANAIS KAYIRANGA,77,Govt,DOC0019,B+,Kigali
+P3101,Luc Uwimana,71,Public,DOC0011,B-,Kigali
+P0282,Isidore Kamanzi,57,None,DOC0011,A+,Gisenyi
+P1719,Gaspard Nzabonimpa,94,Govt,DOC0011,A-,Muhanga
+P0440,Rose Sebazungu,88,None,DOC0007,B+,Kigali
+P2706,Augustin Uwase,91,None,DOC0022,AB-,Gisenyi
+P2898,Hassan Munyaneza,67,Public,DOC0021,O+,Muhanga
+P0560,Leonidas Tuyisenge,49,Public,DOC0003,O-,Musanze
+P1612,ROSE UWAYO,74,None,DOC0006,O+,Rubavu
+P2377,Suzanne Kalisa,88,privatte,DOC0025,O+,Rubavu
+P2741,CARINE GASHUGI,75,PUBLic,DOC0009,B+,Rubavu
+P1563,SYLVAIN UGIRANEZA,84,GOV,DOC0010,O-,Musanze
+P0596,Irene Ganza,49,None,DOC0015,B+,Gisenyi
+P0528,Athanase Uwayo,81,Govt,DOC0023,A-,Gisenyi
+P0533,josiane nsengimana,76,Public,DOC0013,AB+,Rubavu
+P0147, Eugene Gakire ,86,Private,DOC0003,O+,Kigali
+P0400,Guy Murenzi,79,None,DOC0008,A+,Huye
+P3149, Serge Shema ,75,Govt,DOC0004,B+,Musanze
+P1173,Theogene Irankunda,90,privatte,DOC0005,AB-,Kigali
+P0932,HONORE GATERA,45,Public,DOC0004,B+,Muhanga
+P2187,Ines Manirakiza,46,GOV,DOC0018,A+,Kigali
+P3184,Antoine Ngendahimana,80,Govt,DOC0007,B-,Gisenyi
+P2077,Marguerite Ndayisenga,93,GOV,DOC0024,B+,Kigali
+P1904,Frank Umutoni,93,GOV,DOC0013,AB+,Rubavu
+P2349,Luc Ugiraneza,76,Public,DOC0010,O-,Rubavu
+P0668,Elie Mutesi,87,GOV,DOC0017,O-,Rubavu
+P0949, Benjamin Imanishimwe ,83,Govt,DOC0006,B-,Rubavu
+P1429,Daniel Kayiranga,70,GOV,DOC0025,B-,Musanze
+P1265, Aurelie Dusingizimana ,73,N/A,DOC0010,O-,Muhanga
+P1041,martin gatera,53,privatte,DOC0022,A-,Rubavu
+P2328,isabelle twahirwa,55,PUBLic,DOC0026,AB-,Rubavu
+P0729,CEDRIC NDAHIMANA,40,Public,DOC0008,A+,Huye
+P2894,Lea Ntirushwa,56,Govt,DOC0001,O+,Huye
+P2087,Denise Mwiza,92,GOV,DOC0021,B-,Musanze
+P0001,Jonas Rugamba,77,N/A,DOC0016,O-,Musanze
+P0230, Hubert Cyusa ,74,Govt,DOC0017,B+,Muhanga
+P3104,jules rugamba,82,N/A,DOC0002,B-,Gisenyi
+P0153,Patrick Umuhoza,92,N/A,DOC0025,A+,Gisenyi
+P2895,Frederic Kagame,90,privatte,DOC0001,AB-,Rubavu
+P2933,Nadege Munyaneza,72,PUBLic,DOC0001,AB-,Muhanga
+P2800,Marie Ndahimana,53,Govt,DOC0023,B-,Huye
+P0130,THOMAS GANZA,73,GOV,DOC0010,AB+,Muhanga
+P0418,Isabelle Hakizimana,84,privatte,DOC0026,AB+,Gisenyi
+P2148,Fanny Ndagijimana,77,GOV,DOC0002,AB-,Huye
+P3124,Sandrine Nshuti,70,PUBLic,DOC0003,AB-,Kigali
+P2116,rene kayitare,86,Govt,DOC0009,O+,Rubavu
+P0193,Dieudonne Dusabe,77,privatte,DOC0020,A-,Gisenyi
+P2839,Aubin Dushimimana,94,Govt,DOC0002,B+,Rubavu
+P2547, Diane Kamanzi ,91,privatte,DOC0012,O-,Muhanga
+P2902,Anais Niyonsenga,91,GOV,DOC0009,AB+,Gisenyi
+P0703,Thomas Kamanzi,91,privatte,DOC0004,A-,Gisenyi
+P1967,mathieu dusingizimana,71,PUBLic,DOC0007,O-,Muhanga
+P2167,BERNARD MUGISHA,70,Private,DOC0022,AB-,Gisenyi
+P0148,louise rugamba,55,N/A,DOC0014,B-,Kigali
+P0854,Didier Gatera,63,Public,DOC0019,A+,Muhanga
+P2626,Valens Murenzi,62,Govt,DOC0009,AB+,Kigali
+P0143,Sophie Ruzindana,72,GOV,DOC0003,B-,Rubavu
+P2209,Edouard Mugisha,83,Govt,DOC0010,B-,Huye
+P0452,Yvette Kayitare,72,GOV,DOC0009,O-,Huye
+P0722,Omar Teta,86,privatte,DOC0001,B-,Musanze
+P1159,Leonce Kalisa,83,Govt,DOC0024,B+,Kigali
+P1296,HONORE GIRANEZA,74,None,DOC0002,AB-,Gisenyi
+P1052,Augustin Habyarimana,46,Govt,DOC0007,O+,Rubavu
+P3127,HUBERT DUSABE,84,None,DOC0005,AB-,Huye
+P2097,Gaspard Dushimimana,46,None,DOC0005,O+,Muhanga
+P0912,Anna Ndacyayisenga,95,Public,DOC0017,B-,Gisenyi
+P2191, Florence Dusabe ,70,Private,DOC0008,O+,Muhanga
+P3088,Jeanne Gashugi,77,N/A,DOC0015,B+,Muhanga
+P2679,AUBIN NTEZIRYAYO,73,privatte,DOC0008,AB-,Rubavu
+P2484,Denise Dusingizimana,93,PUBLic,DOC0008,B+,Kigali
+P3105,AUBIN HAKIZIMANA,48,GOV,DOC0020,AB+,Muhanga
+P0449,Sylvain Sebazungu,73,N/A,DOC0023,B+,Muhanga
+P1503, Yvette Nsengimana ,43,Govt,DOC0007,O+,Rubavu
+P0240,Elise Mutesi,45,GOV,DOC0024,O-,Huye
+P0670,Hubert Kazungu,70,PUBLic,DOC0016,O+,Musanze
+P1748, Anitha Umuhoza ,46,Private,DOC0024,AB-,Rubavu
+P0023,Elodie Tuyisenge,55,N/A,DOC0014,B-,Rubavu
+P1395,Charles Niyonsenga,70,GOV,DOC0002,A-,Musanze
+P2661,Claudine Ingabire,65,Public,DOC0006,AB-,Musanze
+P1466, Madeleine Habimana ,92,Govt,DOC0010,AB-,Gisenyi
+P1995,Jules Umutoni,44,PUBLic,DOC0011,O+,Rubavu
+P1069,Christophe Dusingizimana,51,N/A,DOC0011,AB-,Kigali
+P2614, Nadia Rukundo ,49,privatte,DOC0011,A+,Huye
+P2034,Joseph Teta,64,N/A,DOC0008,AB+,Muhanga
+P1604,Juliette Niyigena,48,N/A,DOC0010,O+,Kigali
+P0158,Thomas Nzaramba,45,Govt,DOC0013,A+,Kigali
+P2613,Theoneste Ndayisenga,80,privatte,DOC0003,A+,Gisenyi
+P2500,Eugenie Kabera,73,None,DOC0026,AB-,Gisenyi
+P2369,Madeleine Niyigena,78,PUBLic,DOC0004,AB-,Kigali
+P1187,IMMACULEE HABYARIMANA,74,Private,DOC0001,B+,Rubavu
+P0586,Janvier Karekezi,80,PUBLic,DOC0024,O-,Kigali
+P0933,Gilbert Kamanzi,70,PUBLic,DOC0020,B-,Kigali
+P0468,Marie Ingabire,71,Public,DOC0022,O+,Rubavu
+P0176,Desire Nzaramba,89,Govt,DOC0010,AB+,Rubavu
+P2026,Hubert Kayitare,73,Private,DOC0006,A-,Rubavu
+P3189,Marie Ufitinema,61,N/A,DOC0023,AB+,Musanze
+P2807,Eugene Kalisa,80,GOV,DOC0012,AB-,Huye
+P0865,Aubin Umutoni,74,N/A,DOC0015,B+,Huye
+P0756, Jacqueline Bimenyimana ,58,Private,DOC0019,AB-,Muhanga
+P1290,Leonidas Umuhoza,71,privatte,DOC0004,A+,Kigali
+P1597,Joseph Ganza,73,Govt,DOC0022,O+,Musanze
+P1514,Denise Dusabe,40,None,DOC0019,B+,Musanze
+P1327,Elias Umuhoza,65,GOV,DOC0008,A+,Huye
+P0291,Leonidas Habyarimana,79,Public,DOC0002,O+,Huye
+P2811,GASPARD UWAMAHORO,83,Govt,DOC0018,A+,Musanze
+P1709,Aline Byiringiro,82,None,DOC0016,O+,Musanze
+P2263,Athanase Nteziryayo,49,Public,DOC0017,B+,Huye
+P0999,PATRICK KALISA,70,privatte,DOC0020,O-,Rubavu
+P1010, Henri Gatabazi ,49,N/A,DOC0005,O+,Rubavu
+P2443,aurelie shema,94,GOV,DOC0011,AB-,Huye
+P0993,Felix Ndacyayisenga,83,N/A,DOC0013,B+,Huye
+P2370,Laurent Gatera,44,Public,DOC0004,AB-,Musanze
+P1659,Pierre Dusabe,56,privatte,DOC0011,AB+,Rubavu
+P1356,Laurent Manirakiza,73,N/A,DOC0013,AB-,Kigali
+P0315,Emmanuel Ntirushwa,77,GOV,DOC0014,O-,Musanze
+P2793,ismail mazimpaka,91,GOV,DOC0017,AB+,Kigali
+P1954,Aurelie Habimana,73,PUBLic,DOC0005,A+,Musanze
+P1988, Anna Kayiranga ,93,PUBLic,DOC0015,A+,Huye
+P0381,Theogene Rugamba,48,N/A,DOC0021,A-,Rubavu
+P3076,Regis Hakizimana,48,Public,DOC0010,AB+,Gisenyi
+P1927,hyacinthe keza,67,None,DOC0006,B+,Gisenyi
+P2181, Maxime Tuyisenge ,95,Govt,DOC0024,B-,Rubavu
+P1945,Josiane Ruzindana,40,GOV,DOC0018,B-,Musanze
+P2886,Rose Ganza,71,PUBLic,DOC0017,AB+,Kigali
+P1444,Christian Bimenyimana,66,None,DOC0019,O-,Rubavu
+P1240,Theoneste Tuyisenge,72,None,DOC0024,AB+,Huye
+P3032,Ivan Dusingizimana,74,PUBLic,DOC0015,AB-,Kigali
+P2945,Nicole Gashugi,89,Private,DOC0014,O+,Rubavu
+P2155, Olivier Rukundo ,44,privatte,DOC0015,O+,Muhanga
+P1762,Bernard Uwase,71,Private,DOC0001,B+,Rubavu
+P0274,Nadia Shema,76,N/A,DOC0025,AB-,Gisenyi
+P3003,Stephanie Kamanzi,92,None,DOC0008,B-,Muhanga
+P2458,Leonidas Nteziryayo,66,GOV,DOC0022,O-,Muhanga
+P0206,BEATRICE GATERA,70,None,DOC0022,A-,Rubavu
+P1796,LOUIS GASHUGI,86,Govt,DOC0010,B-,Muhanga
+P3095,CARINE KAGAME,84,N/A,DOC0014,A-,Musanze
+P0377, Valerie Umuhoza ,85,None,DOC0011,A-,Kigali
+P0395,Clementine Gakire,68,GOV,DOC0011,AB-,Musanze
+P2010,Michel Nsabimana,70,N/A,DOC0016,AB-,Kigali
+P3166,Leonce Byiringiro,94,PUBLic,DOC0019,O-,Gisenyi
+P3029,Rachel Uwase,84,None,DOC0016,AB+,Gisenyi
+P1979,DOMINIQUE GASANA,84,Govt,DOC0003,O+,Kigali
+P0209,Elise Ufitinema,65,N/A,DOC0013,A+,Rubavu
+P0302, Rose Uwamahoro ,79,privatte,DOC0002,O-,Rubavu
+P0390,luc kabera,76,GOV,DOC0025,AB+,Muhanga
+P0289,Isabelle Teta,48,privatte,DOC0018,O-,Musanze
+P1653,Paul Kayitare,50,privatte,DOC0002,AB-,Huye
+P1948,AUGUSTIN MUGISHA,75,Private,DOC0019,AB-,Gisenyi
+P3009,Ignace Kamana,60,None,DOC0019,O+,Kigali
+P0958,Pascal Uwayo,88,N/A,DOC0023,A-,Rubavu
+P1120,Simon Twahirwa,72,N/A,DOC0019,A-,Kigali
+P1062,Joel Ndayisenga,42,GOV,DOC0017,B+,Muhanga
+P1918,FELIX UWIZEYIMANA,76,Public,DOC0007,AB+,Huye
+P1223,Valerie Kagame,84,Public,DOC0012,AB-,Kigali
+P1970,Edith Uwayo,78,GOV,DOC0012,AB+,Muhanga
+P2401,Simon Rukundo,91,Private,DOC0008,AB+,Muhanga
+P1149,ROBERT MUNYANEZA,63,privatte,DOC0022,O-,Kigali
+P1433,Cedric Nzaramba,81,Govt,DOC0005,AB-,Gisenyi
+P0710,GEORGES BIMENYIMANA,71,privatte,DOC0001,AB-,Rubavu
+P1560,Jean Nsengimana,70,Public,DOC0008,B-,Kigali
+P0883,Gaspard Teta,87,PUBLic,DOC0003,AB+,Rubavu
+P0285,Sebastien Keza,57,N/A,DOC0016,AB+,Musanze
+P2968,Eugenie Mwiza,95,PUBLic,DOC0021,A+,Musanze
+P1897,Grace Kayiranga,75,None,DOC0003,O+,Kigali
+P0236,Athanase Rugamba,87,Govt,DOC0022,A-,Musanze
+P1103,Robert Kamali,90,Public,DOC0024,O-,Gisenyi
+P0516,Lea Kayitare,74,PUBLic,DOC0010,B+,Rubavu
+P1656,Fidele Ugiraneza,75,PUBLic,DOC0019,B+,Muhanga
+P2496,Fidele Keza,73,Public,DOC0005,AB+,Kigali
+P1224,Marcel Nzaramba,60,PUBLic,DOC0023,O+,Rubavu
+P2635,Ismail Yankurije,81,Public,DOC0003,O-,Rubavu
+P2900, Nadia Nzabonimpa ,81,None,DOC0018,O-,Huye
+P0118,JANVIER TUYISENGE,77,Govt,DOC0023,A+,Gisenyi
+P1330,nadia ishimwe,90,privatte,DOC0018,A-,Rubavu
+P0092,claire gasana,95,PUBLic,DOC0013,B-,Rubavu
+P0527,Joseph Uwamahoro,40,Private,DOC0011,B-,Musanze
+P0040,Claudine Byiringiro,93,N/A,DOC0016,B+,Kigali
+P2284,SANDRINE RUKUNDO,42,Public,DOC0002,A+,Musanze
+P1095,Valerie Ugiraneza,80,None,DOC0023,AB+,Muhanga
+P2172,Noella Giraneza,67,N/A,DOC0023,A+,Gisenyi
+P0425,Jules Ndayisenga,62,PUBLic,DOC0019,B+,Rubavu
+P2294,Joseph Gatabazi,93,GOV,DOC0010,AB-,Kigali
+P2316,Eliane Uwayo,79,privatte,DOC0002,A+,Muhanga
+P2628,Ignace Twahirwa,72,Public,DOC0009,A-,Gisenyi
+P2169,Bosco Keza,74,N/A,DOC0012,O+,Huye
+P0682,Arsene Nsengimana,93,Public,DOC0007,O-,Muhanga
+P0223,Alphonse Karekezi,95,None,DOC0020,A-,Muhanga
+P1044,Cedric Ntirushwa,73,privatte,DOC0019,AB+,Gisenyi
+P0630,Madeleine Bimenyimana,74,N/A,DOC0019,AB-,Rubavu
+P2413,CHANTAL DUSABE,81,Private,DOC0016,B+,Musanze
+P2857,Gaston Sebazungu,50,PUBLic,DOC0003,B-,Musanze
+P1212,Aime Ruzindana,84,N/A,DOC0019,A-,Rubavu
+P2207,Luc Gakire,70,privatte,DOC0002,AB+,Huye
+P2611,HASSAN UWASE,48,Govt,DOC0009,AB-,Rubavu
+P1415,Fidele Ishimwe,52,privatte,DOC0025,A-,Kigali
+P0639,MARC GIRANEZA,72,N/A,DOC0001,AB-,Gisenyi
+P2452,Eliane Shema,80,Public,DOC0008,O+,Muhanga
+P0482,Anna Ndagijimana,89,None,DOC0018,B+,Huye
+P0012,Venant Ugiraneza,71,GOV,DOC0023,AB-,Muhanga
+P1145,Emmanuel Shema,61,Govt,DOC0018,O-,Rubavu
+P3125,Alain Nsabimana,40,GOV,DOC0024,B-,Musanze
+P2384,Patrick Ndayisenga,61,Private,DOC0025,O+,Rubavu
+P1851,Joel Uwizeyimana,73,PUBLic,DOC0012,B-,Musanze
+P2337,Michel Niyonsenga,41,privatte,DOC0015,A+,Rubavu
+P0683,sylvie tuyisenge,74,N/A,DOC0012,O-,Gisenyi
+P1809,Nadia Dusingizimana,84,None,DOC0019,AB+,Muhanga
+P1672,Anna Rukundo,72,Private,DOC0017,A-,Muhanga
+P1121,Joel Mutesi,71,PUBLic,DOC0003,A-,Huye
+P2361,Benjamin Dusingizimana,86,N/A,DOC0026,A+,Gisenyi
+P0504, Kevin Nteziryayo ,79,None,DOC0009,B+,Muhanga
+P2465,Florence Kayitare,59,Public,DOC0018,B+,Huye
+P0625,Janvier Byiringiro,71,Govt,DOC0005,A+,Musanze
+P1616, Ferdinand Karangwa ,71,Govt,DOC0018,AB+,Rubavu
+P2424,Jacques Irakoze,66,N/A,DOC0012,A-,Musanze
+P2446,nadia mazimpaka,84,GOV,DOC0011,O-,Kigali
+P0321,Moise Twahirwa,76,Public,DOC0014,B-,Huye
+P1500, Marc Nsabimana ,88,N/A,DOC0009,O+,Musanze
+P2486,ignace gasana,71,privatte,DOC0024,O-,Rubavu
+P1353,Louis Nzaramba,89,privatte,DOC0021,AB-,Rubavu
+P1462,Bosco Kamali,43,Public,DOC0018,B+,Kigali
+P2255,Ismail Irankunda,89,N/A,DOC0002,A-,Huye
+P0571,Gaspard Niyonsenga,74,N/A,DOC0026,AB+,Kigali
+P2926,Emile Umutoni,92,Govt,DOC0011,B+,Rubavu
+P1833,Anais Gashugi,43,GOV,DOC0011,O+,Gisenyi
+P2715,laurent hakizimana,48,privatte,DOC0025,B+,Muhanga
+P2636,Sylvie Irankunda,53,N/A,DOC0013,A+,Huye
+P3051,FELICIEN KAMALI,77,GOV,DOC0009,B-,Muhanga
+P2730,felix gashugi,61,privatte,DOC0001,AB+,Huye
+P1648,Vincent Ndahimana,76,Private,DOC0019,B+,Kigali
+P0200,Irene Kamanzi,71,Govt,DOC0014,O-,Kigali
+P1049,Robert Giraneza,61,N/A,DOC0004,A+,Rubavu
+P1956,Sebastien Mugisha,82,N/A,DOC0023,B-,Muhanga
+P3042,DANIEL MURENZI,81,Public,DOC0015,AB-,Muhanga
+P2678,valerie uwase,89,Private,DOC0025,AB-,Huye
+P1319,GUILLAUME RUZINDANA,77,Govt,DOC0020,A+,Rubavu
+P0485,christian gatabazi,74,privatte,DOC0024,B+,Muhanga
+P1615,Paul Munyaneza,90,privatte,DOC0017,O+,Rubavu
+P0430,kevin dusingizimana,74,N/A,DOC0013,A-,Gisenyi
+P0863,CLEMENTINE KAMANA,45,GOV,DOC0010,AB+,Gisenyi
+P3148,Sophie Habyarimana,75,Private,DOC0012,B-,Rubavu
+P2537,marie irakoze,87,N/A,DOC0014,A-,Muhanga
+P2812,Gaston Mazimpaka,72,privatte,DOC0020,O+,Kigali
+P0997,SERGE GATERA,72,Public,DOC0021,AB-,Rubavu
+P1107,Clement Umuhoza,46,privatte,DOC0026,B-,Rubavu
+P1372,Robert Kazungu,71,None,DOC0001,A-,Gisenyi
+P0672,Isabelle Ndahimana,79,Govt,DOC0021,AB+,Gisenyi
+P2333,Valens Yankurije,60,Public,DOC0004,O-,Musanze
+P3235,Patrick Twahirwa,77,Govt,DOC0024,AB+,Huye
+P1346,CHANTAL UWASE,87,Private,DOC0006,O+,Huye
+P0675,Olivier Kagame,90,Govt,DOC0026,O-,Rubavu
+P0324, Marc Mazimpaka ,56,Govt,DOC0017,B-,Muhanga
+P1703,Simon Kamanzi,52,privatte,DOC0017,A+,Muhanga
+P1403, Nathalie Niyigena ,49,Public,DOC0013,A-,Musanze
+P1418,Aline Ndayisenga,80,N/A,DOC0008,O-,Gisenyi
+P2787,ETIENNE TETA,89,PUBLic,DOC0019,B+,Musanze
+P0977,roger gatete,70,Govt,DOC0013,O+,Muhanga
+P2693,Marine Gatete,57,PUBLic,DOC0002,B+,Huye
+P1168,Julien Gatera,62,N/A,DOC0020,A-,Huye
+P1065,Alphonse Uwase,90,Public,DOC0010,A-,Huye
+P1683,theogene mutesi,93,PUBLic,DOC0020,A-,Kigali
+P0250, Leonce Yankurije ,81,N/A,DOC0025,O-,Kigali
+P0494,Eric Rukundo,78,N/A,DOC0001,AB+,Kigali
+P0184,felicien nsabimana,74,privatte,DOC0005,AB-,Rubavu
+P0805,Mathieu Kamanzi,65,Public,DOC0004,B+,Huye
+P2906,Grace Tuyisenge,89,None,DOC0003,A-,Musanze
+P2698,isaac ishimwe,72,Private,DOC0021,O+,Kigali
+P2931,Ernest Hirwa,69,Govt,DOC0007,B+,Rubavu
+P2564, Helene Karekezi ,73,None,DOC0020,B-,Musanze
+P2528,Etienne Twahirwa,62,Public,DOC0010,O-,Musanze
+P2329,Pierre Keza,46,Public,DOC0007,A-,Rubavu
+P0539,MAURICE KAZUNGU,88,Public,DOC0002,A+,Rubavu
+P0540,PASCAL MURENZI,87,privatte,DOC0018,O-,Gisenyi
+P0956,Bernard Umutoni,55,N/A,DOC0016,AB-,Huye
+P1555,Gisele Umutoni,79,N/A,DOC0001,B+,Rubavu
+P2566,Jacques Niyonsenga,88,N/A,DOC0003,A-,Kigali
+P1364,GUY RUKUNDO,93,privatte,DOC0002,O-,Rubavu
+P1561,Serge Karekezi,89,Govt,DOC0026,A+,Musanze
+P0753,Christine Mutesi,74,Private,DOC0006,O+,Musanze
+P0962, Angelique Habimana ,77,Govt,DOC0011,B+,Gisenyi
+P1521,Valens Kamali,72,Public,DOC0011,A-,Huye
+P0141,Isabelle Ngendahimana,85,privatte,DOC0002,A+,Rubavu
+P0155,Clementine Kazungu,56,Private,DOC0013,A-,Muhanga
+P1183,Christian Irankunda,73,Govt,DOC0017,AB+,Huye
+P3142,Ben Karekezi,89,None,DOC0010,AB-,Kigali
+P2043,Yvette Tuyisenge,65,N/A,DOC0025,AB-,Gisenyi
+P1013,Yvette Gasana,73,N/A,DOC0026,O+,Musanze
+P2662, Odette Ingabire ,92,GOV,DOC0026,AB-,Rubavu
+P1234,Benoit Irakoze,76,None,DOC0004,O+,Rubavu
+P0272,Noella Cyusa,76,privatte,DOC0016,AB+,Muhanga
+P0498,Aurelie Yankurije,59,Private,DOC0006,A+,Huye
+P1308,FELIX KEZA,54,privatte,DOC0012,AB+,Muhanga
+P2633,Leonce Teta,93,Public,DOC0009,B+,Kigali
+P2423,Luc Ingabire,71,GOV,DOC0017,AB+,Musanze
+P2258,Eric Munyaneza,78,Public,DOC0014,A-,Musanze
+P2648,Martine Uwizeyimana,74,Govt,DOC0002,A-,Huye
+P2382,janvier gatabazi,90,Private,DOC0003,B-,Muhanga
+P2170,Vincent Gashugi,70,N/A,DOC0005,B+,Kigali
+P2996,Pascal Ganza,72,Public,DOC0022,A+,Rubavu
+P0152,Arsene Bizimana,68,GOV,DOC0025,B+,Kigali
+P0493,Bosco Ndagijimana,73,Govt,DOC0020,B-,Gisenyi
+P1164,Jules Karekezi,77,privatte,DOC0008,AB+,Kigali
+P0983,ANAIS UGIRANEZA,90,GOV,DOC0004,A+,Rubavu
+P3004,sandrine uwayo,91,N/A,DOC0014,AB-,Gisenyi
+P2139,Paul Umutoni,72,Govt,DOC0014,AB-,Muhanga
+P1221,SYLVIE CYUSA,84,N/A,DOC0019,B+,Muhanga
+P0199,Cedric Nteziryayo,81,Private,DOC0013,B-,Musanze
+P3114,Daniel Dusingizimana,73,Govt,DOC0026,B+,Musanze
+P2694,Irene Ndayisenga,50,PUBLic,DOC0024,O+,Kigali
+P1203, Sophie Nsabimana ,47,Public,DOC0002,B+,Gisenyi
+P1972, Bruno Yankurije ,94,N/A,DOC0023,O+,Huye
+P1548,Elias Mazimpaka,95,Govt,DOC0003,A-,Musanze
+P3018, Gabriel Shema ,81,privatte,DOC0021,B-,Muhanga
+P2267, Marcel Gasana ,93,Govt,DOC0026,AB-,Huye
+P2340,LEA KALISA,88,Govt,DOC0010,B+,Muhanga
+P0005,Athanase Gakire,83,GOV,DOC0019,B+,Gisenyi
+P1754,anais umutoni,44,Private,DOC0004,AB-,Musanze
+P0301,Maurice Umutoni,94,GOV,DOC0003,AB-,Musanze
+P0900,Thomas Munyaneza,82,Public,DOC0022,A+,Rubavu
+P2671,Antoine Ugiraneza,79,Public,DOC0001,O-,Huye
+P2192, Angelique Nshuti ,95,Public,DOC0026,AB-,Kigali
+P0442, Ismail Niyonsenga ,71,None,DOC0022,A+,Musanze
+P2702,Xavier Nsengimana,57,Private,DOC0017,A+,Huye
+P1352, Remi Nzabonimpa ,78,Public,DOC0001,A-,Huye
+P2014,Grace Ruzindana,44,GOV,DOC0013,B-,Gisenyi
+P2834,Claude Umutoni,84,privatte,DOC0014,B-,Muhanga
+P0201,Daniel Nzaramba,76,GOV,DOC0024,O-,Muhanga
+P1740,Sylvain Umutoni,93,Private,DOC0004,AB+,Rubavu
+P0160,Michel Ndagijimana,63,GOV,DOC0020,O+,Rubavu
+P2160,Michel Manirakiza,85,N/A,DOC0006,O-,Kigali
+P0068,Diane Byiringiro,56,PUBLic,DOC0024,O-,Huye
+P1691,Celestin Uwayo,70,None,DOC0006,AB-,Musanze
+P0714,Felicien Mazimpaka,88,PUBLic,DOC0002,O+,Rubavu
+P2498,Elie Manirakiza,83,Public,DOC0005,A-,Kigali
+P1620,Ernest Niyibizi,71,Govt,DOC0006,AB+,Kigali
+P0735, Florence Dushimimana ,72,PUBLic,DOC0026,O+,Musanze
+P2242,Rene Giraneza,74,N/A,DOC0005,O-,Huye
+P0295,Faustin Kayitare,88,Private,DOC0014,O-,Huye
+P2161,Claire Gatabazi,94,GOV,DOC0021,AB-,Kigali
+P0403,Ferdinand Tuyisenge,41,None,DOC0006,B-,Rubavu
+P0243,Felicien Ndagijimana,74,N/A,DOC0024,A-,Rubavu
+P1688,LOUIS UWIZEYIMANA,89,privatte,DOC0024,AB-,Rubavu
+P3057,Gaspard Mazimpaka,79,Govt,DOC0009,B+,Muhanga
+P1217,Yvonne Twahirwa,94,N/A,DOC0023,B+,Huye
+P2669,Raymond Dusingizimana,61,None,DOC0003,B+,Huye
+P2462,Germain Bizimana,83,Public,DOC0001,O-,Muhanga
+P0344,Janvier Dusingizimana,77,GOV,DOC0018,A+,Musanze
+P0266,ATHANASE GANZA,84,None,DOC0015,AB-,Kigali
+P1668,AIME KARANGWA,84,N/A,DOC0003,B+,Kigali
+P2174,Simon Niyigena,92,N/A,DOC0024,B-,Musanze
+P0075,Lise Gashugi,80,Public,DOC0008,O+,Huye
+P0413,Esther Hakizimana,90,Public,DOC0020,O+,Musanze
+P2594,Omar Kabera,73,Govt,DOC0003,A-,Gisenyi
+P2126,Fabien Irakoze,59,N/A,DOC0017,B-,Rubavu
+P1471, Maurice Ndayisenga ,89,Govt,DOC0026,O+,Gisenyi
+P1048,Isidore Uwamahoro,91,None,DOC0005,O+,Musanze
+P0296, Aubin Gatabazi ,80,Public,DOC0001,B-,Musanze
+P0723,rene murenzi,78,GOV,DOC0005,O+,Gisenyi
+P1525,Rachel Mwiza,86,Private,DOC0014,A+,Gisenyi
+P0532, Jean Uwizeyimana ,88,privatte,DOC0012,O-,Kigali
+P2588,guillaume imanishimwe,52,Govt,DOC0008,AB-,Huye
+P0004,Michel Uwimana,74,Govt,DOC0020,O-,Muhanga
+P1348,Elise Nzabonimpa,85,None,DOC0007,A+,Muhanga
+P1957,Bertrand Teta,58,N/A,DOC0023,O-,Musanze
+P0454,Claude Irakoze,47,GOV,DOC0012,AB-,Gisenyi
+P1759,Edith Ndagijimana,81,Govt,DOC0025,AB-,Kigali
+P2938,clement uwizeyimana,91,N/A,DOC0005,AB-,Gisenyi
+P2216, Bosco Cyusa ,57,GOV,DOC0013,A-,Rubavu
+P0011,Ange Mugisha,88,Govt,DOC0017,AB+,Huye
+P2726,Joseph Karangwa,82,Govt,DOC0023,B+,Rubavu
+P0183,Sylvie Kamanzi,73,privatte,DOC0007,AB-,Gisenyi
+P2992,Leonce Imanishimwe,43,Private,DOC0015,B-,Kigali
+P0952,Bosco Ishimwe,65,GOV,DOC0001,B-,Muhanga
+P1885,ange keza,91,Govt,DOC0004,O+,Musanze
+P1393,sebastien byiringiro,93,None,DOC0017,AB+,Kigali
+P2110, Martin Habyarimana ,42,N/A,DOC0009,AB-,Kigali
+P0372,bertrand kayitare,42,Govt,DOC0002,O-,Musanze
+P1799, Nathalie Rugamba ,58,Govt,DOC0014,B-,Gisenyi
+P2736,Nadege Gakire,59,privatte,DOC0007,O+,Musanze
+P0043,Cedric Mwiza,86,None,DOC0002,A-,Huye
+P0424,Alphonse Ntirushwa,86,None,DOC0014,AB-,Rubavu
+P0615,David Hirwa,71,privatte,DOC0006,AB+,Rubavu
+P2642,IRENE BIZIMANA,51,Govt,DOC0015,O+,Huye
+P1665,Anitha Dushimimana,89,None,DOC0023,A-,Gisenyi
+P0911,noel rugamba,68,N/A,DOC0026,B+,Gisenyi
+P0600,Aurelie Kamana,80,GOV,DOC0010,AB+,Huye
+P2103, Marine Umutoni ,72,Govt,DOC0003,A+,Musanze
+P2158,Yvette Hirwa,65,Private,DOC0011,O-,Huye
+P1084,Louise Yankurije,86,N/A,DOC0024,A+,Musanze
+P0609,THEOGENE HABYARIMANA,52,Public,DOC0017,AB-,Huye
+P1198,Thierry Niyigena,79,None,DOC0016,A+,Rubavu
+P1090, Denise Uwizeyimana ,72,None,DOC0022,B+,Gisenyi
+P1512,Jeanne Hirwa,54,PUBLic,DOC0003,AB+,Rubavu
+P1966,Marguerite Mwiza,85,N/A,DOC0026,O-,Gisenyi
+P0921,Felix Umutoni,95,None,DOC0024,O+,Muhanga
+P1150,Madeleine Kamanzi,68,None,DOC0006,A-,Huye
+P2925,Divine Irakoze,55,Private,DOC0025,AB+,Huye
+P3106,XAVIER GATERA,79,None,DOC0019,B+,Huye
+P1702,anna kamanzi,85,Public,DOC0009,O+,Musanze
+P3116,Antoine Gatabazi,77,Public,DOC0004,B+,Huye
+P3036,MARC RUZINDANA,71,PUBLic,DOC0007,B-,Gisenyi
+P0610, Rachel Teta ,90,GOV,DOC0020,B-,Kigali
+P0348,Thierry Nsabimana,93,None,DOC0003,O-,Rubavu
+P2567,Xavier Murenzi,77,privatte,DOC0021,B+,Kigali
+P1242,Gisele Ndacyayisenga,77,N/A,DOC0022,A+,Huye
+P2079,Felix Kamali,51,GOV,DOC0024,AB+,Muhanga
+P1880,Samuel Uwizeyimana,69,Private,DOC0009,A-,Kigali
+P2288,Raymond Nsengimana,87,None,DOC0013,A+,Kigali
+P3146,Julien Ndahimana,67,PUBLic,DOC0007,A+,Gisenyi
+P2576,Kevin Twahirwa,81,Private,DOC0024,A+,Muhanga
+P0439,Benjamin Mazimpaka,90,Public,DOC0016,B+,Rubavu
+P2959,Fabrice Gatera,79,GOV,DOC0020,A-,Gisenyi
+P2492,Fidele Murenzi,75,Private,DOC0001,B-,Rubavu
+P1499,GUY UGIRANEZA,86,Private,DOC0017,A+,Musanze
+P2505,Edouard Kagame,72,Govt,DOC0019,B-,Gisenyi
+P0860,Louise Uwimana,75,Private,DOC0008,A+,Kigali
+P1339,martine uwamahoro,41,GOV,DOC0020,AB+,Huye
+P2515,Desire Ntirushwa,86,Govt,DOC0009,O+,Rubavu
+P1241,Claudine Giraneza,93,PUBLic,DOC0013,B+,Huye
+P2659,Emmanuel Hakizimana,91,PUBLic,DOC0017,A+,Huye
+P1143,Charles Ruzindana,59,N/A,DOC0016,B-,Muhanga
+P0119,Edouard Uwizeyimana,74,Private,DOC0017,O+,Muhanga
+P0576,Eric Ngendahimana,83,Public,DOC0025,B+,Musanze
+P2056,Anitha Nsengimana,93,N/A,DOC0011,AB+,Kigali
+P0394,Guy Kazungu,93,Private,DOC0004,B+,Muhanga
+P3006,Fanny Bimenyimana,68,privatte,DOC0009,O-,Huye
+P1139,Anitha Kabanda,88,N/A,DOC0022,B+,Gisenyi
+P0053,Hugues Kagame,89,N/A,DOC0006,A+,Kigali
+P0466,lea gasana,72,N/A,DOC0006,A-,Musanze
+P1976,Francois Nsengimana,70,PUBLic,DOC0021,B+,Kigali
+P2590,Eric Gasana,84,Private,DOC0001,AB+,Gisenyi
+P1154,Honorat Hakizimana,71,N/A,DOC0014,A+,Rubavu
+P2803,grace nsabimana,85,Govt,DOC0013,B-,Musanze
+P0995,Celestin Kayitare,76,Govt,DOC0008,O-,Muhanga
+P0210,Rene Gatete,47,PUBLic,DOC0005,B-,Gisenyi
+P0719,Gaspard Uwase,82,privatte,DOC0015,B-,Musanze
+P3158,Fabrice Tuyisenge,75,None,DOC0014,AB+,Kigali
+P0050,Therese Hirwa,62,Private,DOC0009,O+,Rubavu
+P1435,emmanuel murenzi,84,PUBLic,DOC0026,O-,Gisenyi
+P2348, Lucien Dusingizimana ,61,None,DOC0015,B+,Musanze
+P0872,Thomas Nteziryayo,64,Private,DOC0014,A+,Muhanga
+P2789,Celestin Manirakiza,94,GOV,DOC0005,B-,Rubavu
+P0697,Joel Ruzindana,52,Public,DOC0015,A-,Musanze
+P1200,Yves Manirakiza,81,PUBLic,DOC0012,AB+,Kigali
+P2374,Thomas Kabera,77,N/A,DOC0023,B+,Huye
+P2366,Bertrand Ruzindana,82,None,DOC0005,O-,Musanze
+P1421,Nicole Byiringiro,88,privatte,DOC0014,B+,Huye
+P1928,Denise Kamali,72,PUBLic,DOC0016,AB-,Musanze
+P0972,Felix Murenzi,78,Private,DOC0008,O+,Muhanga
+P0380,Angelique Hakizimana,95,None,DOC0025,AB-,Rubavu
+P0676,VERONIQUE MUTESI,71,Private,DOC0018,A-,Gisenyi
+P1892,Gisele Habimana,70,PUBLic,DOC0012,AB-,Muhanga
+P1816, Sylvie Gatete ,75,None,DOC0014,A+,Gisenyi
+P0225,venant sebazungu,80,GOV,DOC0025,AB+,Gisenyi
+P3177,Emile Murenzi,47,Govt,DOC0013,O+,Gisenyi
+P1671,Juliette Ntirushwa,91,Public,DOC0006,A+,Huye
+P2202,Eric Kamana,81,PUBLic,DOC0013,A-,Huye
+P0051,Stephanie Nsabimana,74,PUBLic,DOC0023,O-,Musanze
+P1565,Mathieu Ishimwe,54,GOV,DOC0009,O+,Musanze
+P2299,Jacques Habyarimana,57,Public,DOC0021,AB+,Musanze
+P0162,Faustin Umutoni,45,Private,DOC0002,O-,Gisenyi
+P2067,Odette Ndagijimana,72,GOV,DOC0003,B+,Gisenyi
+P2668,Robert Hakizimana,87,PUBLic,DOC0008,O+,Kigali
+P2117,Madeleine Ndagijimana,79,privatte,DOC0022,A+,Huye
+P0222,Louise Imanishimwe,55,Private,DOC0006,B-,Kigali
+P3200,Serge Ganza,86,privatte,DOC0006,A+,Musanze
+P2651,Theoneste Sebazungu,79,None,DOC0010,AB+,Musanze
+P2428,Victor Munyaneza,63,Public,DOC0021,O-,Kigali
+P2735,Doris Ufitinema,86,None,DOC0011,A-,Huye
+P1554,michel bimenyimana,85,GOV,DOC0002,A+,Huye
+P1696,Olivier Ufitinema,83,None,DOC0021,O+,Rubavu
+P0750,Vincent Gatete,85,privatte,DOC0006,AB-,Gisenyi
+P1314,Eugenie Habyarimana,59,PUBLic,DOC0001,O+,Huye
+P2275, Jeanne Ugiraneza ,93,Govt,DOC0011,AB-,Musanze
+P1819,Joel Byiringiro,59,GOV,DOC0006,A+,Rubavu
+P1622,Nathalie Gatera,81,GOV,DOC0001,AB-,Kigali
+P2127,Marcel Nteziryayo,91,PUBLic,DOC0006,AB-,Muhanga
+P0142,Gaston Nsabimana,68,GOV,DOC0013,O+,Gisenyi
+P0252,Ignace Cyusa,85,Private,DOC0023,A+,Musanze
+P0094,Athanase Habyarimana,70,Private,DOC0009,O+,Rubavu
+P1765,Gaspard Byiringiro,70,Public,DOC0015,B+,Rubavu
+P0384,Joel Kamali,61,GOV,DOC0021,A-,Huye
+P1317,Edouard Irakoze,60,None,DOC0024,A+,Huye
+P1950,Alain Hakizimana,81,PUBLic,DOC0009,A+,Kigali
+P0456,Dieudonne Giraneza,56,None,DOC0006,AB+,Rubavu
+P2408,Benjamin Gatete,76,GOV,DOC0020,A+,Rubavu
+P2378,Claudine Kalisa,79,GOV,DOC0017,AB+,Muhanga
+P0813, Fanny Ishimwe ,83,N/A,DOC0012,O+,Huye
+P2420,Stephanie Kalisa,70,privatte,DOC0019,AB-,Kigali
+P2951,Bertrand Habimana,44,Govt,DOC0007,AB-,Muhanga
+P0918,Chantal Nsengimana,82,Govt,DOC0006,A-,Huye
+P1680,daniel munyaneza,58,Public,DOC0011,O-,Huye
+P1614, Juliette Gatete ,73,Govt,DOC0023,B-,Gisenyi
+P2582,THEOGENE KAYIRANGA,82,Public,DOC0006,O+,Rubavu
+P2663,Edith Nzabonimpa,73,privatte,DOC0019,A-,Rubavu
+P0279,noel karekezi,76,Public,DOC0009,O-,Gisenyi
+P2435,Maurice Mutesi,94,N/A,DOC0015,A+,Musanze
+P0671,NOEL IRANKUNDA,94,privatte,DOC0022,A-,Rubavu
+P1390,Martin Kazungu,85,Private,DOC0017,A-,Kigali
+P1637,Nicole Mugisha,71,None,DOC0006,A+,Musanze
+P1598,Christine Niyigena,82,privatte,DOC0019,AB+,Huye
+P0589,Maurice Mugisha,84,Govt,DOC0016,B+,Gisenyi
+P1767,Dieudonne Gakire,45,N/A,DOC0011,AB-,Gisenyi
+P3234,Marie Gatabazi,80,Govt,DOC0014,B+,Musanze
+P1695,Cedric Dushimimana,40,Public,DOC0008,B-,Gisenyi
+P1745,Serge Bizimana,58,Public,DOC0011,O+,Gisenyi
+P0065,ISAAC HABIMANA,80,Private,DOC0024,AB-,Huye
+P1368,Bertrand Ndacyayisenga,82,privatte,DOC0026,A-,Gisenyi
+P2543,Bruno Imanishimwe,80,Private,DOC0007,A+,Rubavu
+P0145,Michel Gakire,64,Govt,DOC0021,B+,Muhanga
+P3115,Jonas Manirakiza,83,Public,DOC0003,O+,Rubavu
+P0044,Beatrice Ishimwe,41,Govt,DOC0001,A+,Musanze
+P2615,Anna Dushimimana,41,None,DOC0003,B-,Musanze
+P0089,rachel rugamba,70,PUBLic,DOC0004,O+,Kigali
+P0364,Athanase Uwamahoro,47,N/A,DOC0002,A+,Rubavu
+P2411,BOSCO GATERA,68,Govt,DOC0022,AB+,Rubavu
+P2840,Charles Nshuti,75,None,DOC0018,A+,Muhanga
+P1938,Philippe Ugiraneza,92,N/A,DOC0004,A+,Musanze
+P0099,RICHARD NDACYAYISENGA,93,Public,DOC0008,B+,Rubavu
+P2235,gabriel kabanda,71,GOV,DOC0011,A+,Kigali
+P1714,SANDRINE NIYIGENA,70,None,DOC0012,A+,Muhanga
+P1692,Christian Kabanda,71,Public,DOC0001,O-,Huye
+P0879,Maurice Murenzi,88,GOV,DOC0013,B-,Gisenyi
+P2842,leonce niyonsenga,52,N/A,DOC0018,AB+,Muhanga
+P1191,Sebastien Ruzindana,92,Private,DOC0026,B-,Musanze
+P2801,Luc Shema,90,N/A,DOC0021,O+,Gisenyi
+P1075, Therese Manirakiza ,80,None,DOC0023,AB-,Muhanga
+P1783,Bruno Karekezi,71,GOV,DOC0026,AB-,Kigali
+P0795,Omar Umuhoza,93,None,DOC0023,AB-,Muhanga
+P0369,Frank Mutesi,76,None,DOC0010,AB+,Gisenyi
+P0564,Xavier Sebazungu,52,privatte,DOC0005,A+,Kigali
+P3082,ELISE YANKURIJE,93,GOV,DOC0004,B+,Muhanga
+P1279,Rene Uwizeyimana,72,Public,DOC0010,O+,Muhanga
+P2821,Luc Keza,73,None,DOC0017,AB-,Muhanga
+P2872,LOUISE RUZINDANA,91,privatte,DOC0013,O+,Musanze
+P1980,edouard shema,70,GOV,DOC0018,O-,Musanze
+P0327,EUGENE NGENDAHIMANA,73,privatte,DOC0020,B+,Gisenyi
+P1377,Beatrice Bizimana,87,PUBLic,DOC0018,O+,Kigali
+P0035,MARTIN IRANKUNDA,86,Private,DOC0016,A-,Huye
+P1627,Maurice Gatera,78,N/A,DOC0011,B+,Gisenyi
+P1842, Therese Karangwa ,72,N/A,DOC0008,O+,Muhanga
+P3086,Victor Habyarimana,52,GOV,DOC0010,A+,Rubavu
+P2419,Benoit Ufitinema,82,GOV,DOC0012,A-,Musanze
+P0641,Guy Kagame,85,None,DOC0010,O-,Kigali
+P2373,Ben Gasana,85,N/A,DOC0020,AB+,Kigali
+P2044,Dominique Mugisha,50,privatte,DOC0016,A-,Kigali
+P0905,David Dushimimana,41,N/A,DOC0021,A-,Huye
+P2743,GERMAIN GASANA,44,privatte,DOC0023,AB-,Gisenyi
+P0139,Lea Teta,91,N/A,DOC0017,A+,Musanze
+P2676,Ben Uwizeyimana,45,PUBLic,DOC0025,O+,Kigali
+P0545,thomas niyonsenga,87,GOV,DOC0015,O+,Muhanga
+P1068,LUC GATETE,89,Public,DOC0019,A+,Kigali
+P2707,Christophe Kabera,60,N/A,DOC0002,O-,Muhanga
+P1523,valerie ishimwe,47,GOV,DOC0025,A-,Rubavu
+P2892,Louis Kazungu,94,Govt,DOC0004,B+,Rubavu
+P2165,Xavier Ganza,67,GOV,DOC0024,AB+,Kigali
+P1074,Bertrand Umuhoza,47,Private,DOC0021,O-,Rubavu
+P0731,Daniel Ndayisenga,61,PUBLic,DOC0005,AB+,Muhanga
+P1487,Helene Karangwa,89,GOV,DOC0019,AB-,Rubavu
+P2551,Marine Gakire,63,PUBLic,DOC0006,AB+,Muhanga
+P2184, Veronique Dushimimana ,80,Govt,DOC0008,AB-,Gisenyi
+P1940,Xavier Twahirwa,80,Private,DOC0017,AB-,Rubavu
+P1907,Sylvain Ndacyayisenga,88,Private,DOC0005,AB+,Kigali
+P2214, Ben Kazungu ,52,GOV,DOC0024,B-,Muhanga
+P1408,Robert Kabanda,58,Private,DOC0003,A+,Huye
+P2387,carine umuhoza,64,Public,DOC0026,A+,Muhanga
+P0013,nathalie nsabimana,71,Public,DOC0022,A-,Gisenyi
+P1116,mathieu niyigena,78,PUBLic,DOC0002,O-,Muhanga
+P1358,Venant Kagame,80,None,DOC0012,B-,Rubavu
+P1316,Bertrand Uwayo,52,privatte,DOC0026,A-,Huye
+P3236, Frederic Tuyisenge ,63,Govt,DOC0008,O+,Gisenyi
+P1638,Georges Keza,71,Private,DOC0023,B-,Rubavu
+P2539,Gaetan Tuyisenge,64,GOV,DOC0026,AB+,Gisenyi
+P0607,JOSEPH KAMALI,79,GOV,DOC0014,B+,Huye
+P2682,Grace Karangwa,62,GOV,DOC0021,A-,Muhanga
+P0659,Isabelle Giraneza,41,PUBLic,DOC0014,AB-,Kigali
+P1542,Charles Habimana,84,None,DOC0003,A-,Gisenyi
+P1811,Maxime Bizimana,75,Govt,DOC0020,AB+,Huye
+P2749, Fabrice Gashugi ,90,privatte,DOC0025,B+,Kigali
+P1737,Lise Nzaramba,92,Private,DOC0008,A-,Musanze
+P0809,Eliane Ndayisenga,75,None,DOC0002,B-,Gisenyi
+P1823,Denise Gakire,65,Govt,DOC0024,A+,Kigali
+P0374,leonidas ishimwe,78,PUBLic,DOC0012,AB-,Huye
+P2608,Stephanie Dushimimana,65,privatte,DOC0019,B+,Kigali
+P2621,Sebastien Karangwa,93,Public,DOC0011,B-,Muhanga
+P1677,thierry habimana,71,PUBLic,DOC0025,A+,Huye
+P1136,Monique Karekezi,94,Public,DOC0018,O-,Kigali
+P0328,Clement Nsengimana,65,None,DOC0001,A+,Rubavu
+P2511,Lucien Gatete,57,Public,DOC0009,A+,Kigali
+P0111,KEVIN KABERA,51,Private,DOC0020,B-,Muhanga
+P0166,Frederic Bizimana,81,privatte,DOC0022,B+,Kigali
+P1747,Grace Ndayisenga,71,N/A,DOC0026,AB+,Musanze
+P2011,Leonce Karangwa,73,privatte,DOC0017,A+,Rubavu
+P2278,Serge Kamali,66,Govt,DOC0004,O-,Gisenyi
+P1589,Georges Kazungu,84,Govt,DOC0010,B-,Huye
+P2146,Claire Nzaramba,80,GOV,DOC0006,AB+,Musanze
+P1815,Maxime Ufitinema,73,PUBLic,DOC0025,B+,Rubavu
+P1207,Augustin Gakire,91,None,DOC0023,AB+,Muhanga
+P1186,Anais Shema,89,None,DOC0018,B-,Musanze
+P3024,Moise Kayitare,84,None,DOC0025,AB-,Muhanga
+P0346, Simon Teta ,54,privatte,DOC0022,O-,Musanze
+P2963,Yvette Kalisa,42,Public,DOC0005,AB+,Gisenyi
+P0219,Jacqueline Nzabonimpa,93,N/A,DOC0007,AB-,Kigali
+P0542,Yvette Ntirushwa,90,PUBLic,DOC0026,AB-,Gisenyi
+P1036,Josiane Ntirushwa,75,Public,DOC0004,AB-,Muhanga
+P2005, Sylvain Umuhoza ,90,Private,DOC0018,A-,Musanze
+P2631, Regis Yankurije ,81,privatte,DOC0026,O-,Huye
+P1169,Martin Imanishimwe,76,privatte,DOC0012,O+,Kigali
+P1257,Theoneste Kayitare,72,None,DOC0016,A-,Gisenyi
+P0420,Valerie Giraneza,78,Public,DOC0012,O-,Musanze
+P2031,Joel Giraneza,72,None,DOC0016,A+,Kigali
+P1253,Julien Umutoni,44,GOV,DOC0025,A-,Huye
+P2710,Immaculee Uwayo,88,None,DOC0014,B-,Gisenyi
+P3141,Veronique Gatete,63,PUBLic,DOC0016,O+,Kigali
+P1392,Guillaume Bizimana,55,GOV,DOC0013,O+,Gisenyi
+P2189,Juliette Kayiranga,91,Private,DOC0005,B+,Huye
+P3111,Aime Ngendahimana,74,PUBLic,DOC0022,B-,Muhanga
+P0751, Eugene Habimana ,42,None,DOC0017,B+,Muhanga
+P0519,Eric Uwamahoro,68,privatte,DOC0006,AB+,Huye
+P1245,Cedric Murenzi,50,privatte,DOC0022,AB+,Muhanga
+P1337,Stephanie Nzabonimpa,50,None,DOC0025,B-,Muhanga
+P0165,Ariane Kabanda,89,Govt,DOC0014,O+,Kigali
+P0487,Felix Kayitare,86,Govt,DOC0007,A-,Rubavu
+P0766,GERMAIN NZABONIMPA,62,N/A,DOC0018,B-,Kigali
+P1727,Hugues Byiringiro,75,privatte,DOC0017,A-,Rubavu
+P2734, Remi Habimana ,52,privatte,DOC0005,AB-,Muhanga
+P2755,Moise Ingabire,81,Private,DOC0017,B-,Muhanga
+P2646,claire manirakiza,82,Govt,DOC0021,B+,Huye
+P2325,Thomas Ufitinema,72,N/A,DOC0019,O-,Kigali
+P1795,Clement Ishimwe,80,GOV,DOC0015,B+,Kigali
+P1451,Esther Niyibizi,85,PUBLic,DOC0016,A-,Musanze
+P1932,doris uwayo,73,privatte,DOC0019,O-,Kigali
+P2439,Hubert Murenzi,82,GOV,DOC0017,AB+,Rubavu
+P1384,Ferdinand Kabanda,88,N/A,DOC0010,A-,Rubavu
+P1282,Janvier Dusabe,74,Govt,DOC0011,AB+,Huye
+P1758, Suzanne Mutesi ,76,Private,DOC0021,B-,Musanze
+P2217,VALERIE KABERA,73,privatte,DOC0022,AB+,Muhanga
+P0133,Yvette Dushimimana,76,None,DOC0005,O+,Musanze
+P3230,Immaculee Kagame,88,Public,DOC0021,B-,Musanze
+P0508, Claude Uwase ,90,PUBLic,DOC0018,O+,Gisenyi
+P0512,Chantal Uwimana,69,Public,DOC0015,A+,Musanze
+P0783,moise gakire,73,None,DOC0011,O+,Gisenyi
+P0234,Monique Gashugi,56,GOV,DOC0013,B-,Kigali
+P0479,Ivan Murenzi,73,PUBLic,DOC0021,O-,Rubavu
+P1340,Sophie Habimana,95,GOV,DOC0007,A-,Muhanga
+P1655, Valens Mazimpaka ,64,Public,DOC0007,AB-,Muhanga
+P1586, Honorat Mugisha ,93,Public,DOC0025,B-,Muhanga
+P1993,Augustin Kayiranga,94,Govt,DOC0001,B+,Gisenyi
+P0770,Gaston Hakizimana,85,privatte,DOC0016,AB-,Kigali
+P0033, Elodie Gatete ,89,N/A,DOC0019,O-,Gisenyi
+P0941,Maxime Gakire,87,N/A,DOC0002,A-,Rubavu
+P0924,Beatrice Habyarimana,81,Private,DOC0009,O+,Musanze
+P1744,Beatrice Bimenyimana,77,GOV,DOC0006,A+,Kigali
+P0884,Gabriel Gakire,76,privatte,DOC0005,AB-,Kigali
+P0888,Fabien Uwamahoro,76,PUBLic,DOC0023,B-,Rubavu
+P2404,Elise Munyaneza,66,PUBLic,DOC0018,O+,Rubavu
+P2021,sylvain cyusa,86,Govt,DOC0016,AB-,Musanze
+P2129,Pierre Nsabimana,82,GOV,DOC0010,A+,Huye
+P0622,Arsene Uwayo,47,PUBLic,DOC0021,AB+,Huye
+P0707,Roger Manirakiza,74,None,DOC0009,AB+,Huye
+P2292,ALAIN HIRWA,95,Private,DOC0025,A+,Musanze
+P2914,Ernest Ruzindana,42,privatte,DOC0011,AB+,Musanze
+P0601,Lea Niyigena,84,None,DOC0024,B-,Musanze
+P1844,Solange Niyigena,90,None,DOC0012,B+,Rubavu
+P2550,Christian Munyaneza,75,None,DOC0005,A+,Kigali
+P2667,Carine Ugiraneza,73,Govt,DOC0023,AB+,Gisenyi
+P0948,Nicole Sebazungu,76,N/A,DOC0024,O-,Musanze
+P0333,Helene Niyigena,73,Public,DOC0011,A-,Gisenyi
+P1766,CLEMENT HAKIZIMANA,40,PUBLic,DOC0001,AB+,Gisenyi
+P1626,Christine Karangwa,61,Govt,DOC0026,O+,Kigali
+P1975,olivier mwiza,68,Govt,DOC0001,AB-,Gisenyi
+P1845,Rene Bizimana,83,PUBLic,DOC0010,A+,Rubavu
+P1455,Noel Mwiza,80,N/A,DOC0010,O+,Huye
+P2358,hubert uwizeyimana,75,GOV,DOC0014,O+,Rubavu
+P0937,Dieudonne Kalisa,93,GOV,DOC0021,AB-,Musanze
+P2835,Lucien Dusabe,80,Private,DOC0017,A+,Kigali
+P3190,Immaculee Manirakiza,57,Govt,DOC0012,O-,Huye
+P0221,marine nzabonimpa,50,Govt,DOC0007,O-,Muhanga
+P3096,Solange Nzaramba,46,Private,DOC0024,AB+,Gisenyi
+P1532,ALPHONSE MURENZI,55,privatte,DOC0003,B-,Musanze
+P2664,ISIDORE MUNYANEZA,93,None,DOC0008,B-,Huye
+P0585,Charles Ufitinema,45,PUBLic,DOC0011,AB+,Kigali
+P0194,Francois Kayitare,72,Govt,DOC0022,O+,Huye
+P1038,Justine Tuyisenge,88,privatte,DOC0021,O-,Muhanga
+P2088,Bertrand Nsengimana,80,GOV,DOC0002,AB+,Rubavu
+P1963,Odette Mutesi,73,PUBLic,DOC0002,B+,Muhanga
+P1277, Gisele Cyusa ,70,Public,DOC0009,B+,Gisenyi
+P1969,Isabelle Byiringiro,62,Govt,DOC0023,A+,Huye
+P0435, Richard Bizimana ,73,None,DOC0020,O+,Gisenyi
+P1857,gabriel kamali,74,privatte,DOC0009,A-,Rubavu
+P2960,Jeanne Kabera,91,privatte,DOC0018,A-,Huye
+P3202,Hubert Niyibizi,86,None,DOC0021,O-,Rubavu
+P2683,VALENS MUTESI,75,GOV,DOC0009,A+,Kigali
+P0578,Grace Shema,94,N/A,DOC0024,AB-,Musanze
+P2064,CLAUDE NDAYISENGA,76,privatte,DOC0003,A-,Gisenyi
+P0953,Claudine Shema,84,N/A,DOC0016,AB-,Huye
+P2750,Desire Ingabire,92,Public,DOC0001,O-,Muhanga
+P2363,GASTON INGABIRE,54,Private,DOC0022,AB-,Muhanga
+P0717,honore habyarimana,85,None,DOC0009,O+,Musanze
+P0987,EDITH MURENZI,71,None,DOC0018,O-,Rubavu
+P1427,THEOGENE TUYISENGE,77,GOV,DOC0007,A+,Musanze
+P2775,Denise Hirwa,80,PUBLic,DOC0004,A+,Muhanga
+P2000,Louis Ndayisenga,85,Public,DOC0018,A+,Gisenyi
+P1272,DOMINIQUE DUSHIMIMANA,54,Public,DOC0011,A-,Musanze
+P0472,Hyacinthe Karekezi,81,None,DOC0018,A-,Musanze
+P0798,Martine Ndagijimana,71,GOV,DOC0019,A-,Musanze
+P0815, Ernest Manirakiza ,90,privatte,DOC0008,A+,Gisenyi
+P2508,JANVIER RUZINDANA,41,Govt,DOC0006,A-,Rubavu
+P1716,SUZANNE NSENGIMANA,85,Private,DOC0023,B-,Muhanga
+P2018, Anna Ganza ,83,Private,DOC0010,B-,Muhanga
+P2175,gisele nsengimana,83,N/A,DOC0008,AB-,Gisenyi
+P2453,VERONIQUE TUYISENGE,86,Private,DOC0016,O+,Rubavu
+P0857,Christophe Murenzi,94,Public,DOC0007,B+,Muhanga
+P0982,Diane Shema,75,Govt,DOC0016,A-,Gisenyi
+P1685,Carine Irankunda,75,None,DOC0011,AB-,Rubavu
+P3219,Fanny Munyaneza,75,privatte,DOC0006,B-,Kigali
+P2306,Eliane Ishimwe,76,Govt,DOC0021,AB-,Musanze
+P0595, Christine Gatabazi ,79,PUBLic,DOC0017,O+,Rubavu
+P2765,Bernard Kazungu,71,GOV,DOC0019,B-,Rubavu
+P2312,Josiane Mwiza,73,Public,DOC0026,O-,Musanze
+P2330,Julien Kabera,82,N/A,DOC0014,AB+,Rubavu
+P2908,Diane Gatete,51,Govt,DOC0004,AB-,Kigali
+P0046,Luc Manirakiza,85,Govt,DOC0019,O+,Huye
+P0423,SANDRINE MUNYANEZA,75,GOV,DOC0012,O-,Kigali
+P0473,Marguerite Giraneza,72,Public,DOC0018,B+,Kigali
+P1876, Laurent Habimana ,42,PUBLic,DOC0021,A-,Musanze
+P2245,Sophie Kabanda,55,Govt,DOC0011,B-,Muhanga
+P0917,EMMANUEL HABIMANA,78,PUBLic,DOC0010,O-,Musanze
+P1919,Marguerite Ndahimana,92,Public,DOC0011,O-,Rubavu
+P2622, Jean Kayiranga ,91,N/A,DOC0025,O-,Musanze
+P1409,Faustin Rukundo,79,privatte,DOC0021,O-,Rubavu
+P1309,justine ufitinema,57,N/A,DOC0025,AB-,Rubavu
+P0739,Vincent Kamanzi,87,Private,DOC0003,B+,Rubavu
+P1934, Remi Ndagijimana ,72,None,DOC0005,B+,Gisenyi
+P1996,HUGUES HAKIZIMANA,60,Public,DOC0019,A+,Muhanga
+P2276,Omar Sebazungu,94,privatte,DOC0020,A+,Kigali
+P1480,ROLAND GIRANEZA,94,N/A,DOC0022,B-,Muhanga
+P0074,Nadege Irakoze,88,Govt,DOC0021,O+,Kigali
+P2065,Joel Rugamba,71,N/A,DOC0017,B-,Rubavu
+P1305,elias twahirwa,81,Govt,DOC0003,AB+,Kigali
+P1805,Elie Karekezi,88,Private,DOC0020,AB+,Kigali
+P3143,Bernard Ngendahimana,42,None,DOC0008,O-,Muhanga
+P2643,monique umuhoza,84,Public,DOC0015,B+,Rubavu
+P1114,LAURENT NSHUTI,75,N/A,DOC0008,A-,Gisenyi
+P2313,Lea Imanishimwe,85,privatte,DOC0012,AB-,Musanze
+P0800,Gisele Twahirwa,75,Public,DOC0023,O+,Huye
+P2556,Regis Gatera,85,Private,DOC0022,O+,Gisenyi
+P1573,Gabriel Teta,94,GOV,DOC0004,B-,Kigali
+P2008,Arsene Ngendahimana,69,GOV,DOC0010,AB+,Gisenyi
+P1585,Honore Munyaneza,52,None,DOC0021,O+,Rubavu
+P2128,Claire Mutesi,75,GOV,DOC0002,B+,Rubavu
+P2964, Gaston Umutoni ,87,N/A,DOC0012,AB+,Huye
+P2298,Noel Uwase,83,Private,DOC0015,AB+,Rubavu
+P2405,Benjamin Shema,71,GOV,DOC0026,AB+,Huye
+P2287,Josiane Ngendahimana,68,None,DOC0017,A-,Rubavu
+P0385,Felix Mazimpaka,82,GOV,DOC0010,B+,Muhanga
+P2603,DESIRE IRANKUNDA,76,Public,DOC0001,O-,Musanze
+P2081,Gaetan Uwizeyimana,91,privatte,DOC0012,A-,Kigali
+P1416,stephanie nzaramba,66,Public,DOC0005,O+,Musanze
+P2383, Grace Uwase ,93,privatte,DOC0004,O-,Musanze
+P0775,Nadege Rukundo,46,Govt,DOC0025,AB+,Huye
+P0788,Aubin Mugisha,89,Govt,DOC0023,AB-,Musanze
+P0407,SUZANNE NSABIMANA,67,Public,DOC0017,AB+,Rubavu
+P2878,Gabriel Gatabazi,56,GOV,DOC0015,A-,Kigali
+P2639,JANVIER IMANISHIMWE,90,Public,DOC0024,AB+,Huye
+P2506,Gaetan Nshuti,82,N/A,DOC0017,B-,Gisenyi
+P0275,Jacqueline Kayitare,74,Public,DOC0021,A-,Musanze
+P0021,immaculee ganza,92,Public,DOC0018,O+,Kigali
+P2586,Germain Twahirwa,40,PUBLic,DOC0009,O-,Muhanga
+P0262,GUILLAUME GASANA,87,Private,DOC0025,AB+,Huye
+P2262,Pascal Ndayisenga,42,privatte,DOC0020,AB-,Huye
+P2893,Dominique Manirakiza,40,privatte,DOC0025,A-,Musanze
+P1071,Jacques Umuhoza,81,GOV,DOC0003,O+,Gisenyi
+P3198,JEAN NSABIMANA,83,privatte,DOC0016,B-,Muhanga
+P1729,Clementine Kabanda,72,GOV,DOC0022,AB-,Huye
+P0124, Serge Niyigena ,59,Private,DOC0018,AB+,Muhanga
+P3186,Emmanuel Uwamahoro,78,PUBLic,DOC0008,O-,Rubavu
+P2151, Aubin Kamanzi ,90,GOV,DOC0019,B-,Kigali
+P2112,Ernest Mwiza,83,Govt,DOC0021,A-,Kigali
+P0762,Serge Kalisa,45,PUBLic,DOC0013,AB+,Muhanga
+P1452,EMMANUEL NSABIMANA,90,N/A,DOC0020,AB-,Rubavu
+P2986,Emile Gatera,47,privatte,DOC0025,A+,Kigali
+P2376,Martine Gatete,85,PUBLic,DOC0021,AB+,Huye
+P0170,Charles Twahirwa,81,Public,DOC0001,O-,Huye
+P1817, Celestin Munyaneza ,75,Govt,DOC0011,B-,Huye
+P0097,Louis Byiringiro,84,Public,DOC0002,AB+,Huye
+P1292,Yves Uwamahoro,85,Govt,DOC0024,B+,Huye
+P0833,Eugene Byiringiro,86,privatte,DOC0017,B-,Kigali
+P2302,Edouard Bimenyimana,77,Govt,DOC0005,A-,Kigali
+P2967,CELESTIN UFITINEMA,86,privatte,DOC0011,AB+,Huye
+P0076,sylvere giraneza,69,GOV,DOC0014,B+,Rubavu
+P2019,Victor Sebazungu,57,PUBLic,DOC0007,O+,Gisenyi
+P3243,Hubert Nzabonimpa,94,privatte,DOC0023,O+,Musanze
+P1391,Georges Irankunda,59,Private,DOC0002,AB+,Gisenyi
+P0821,Guillaume Hirwa,75,PUBLic,DOC0008,B-,Huye
+P3077,Elise Ndayisenga,83,PUBLic,DOC0004,A-,Huye
+P0490,Guillaume Kamana,77,None,DOC0013,AB-,Rubavu
+P1733,Maurice Teta,75,N/A,DOC0010,O+,Musanze
+P0247,Maurice Nsengimana,40,PUBLic,DOC0016,O+,Muhanga
+P1583,bernard ntirushwa,93,PUBLic,DOC0014,O+,Gisenyi
+P0779,olivier hirwa,87,Govt,DOC0009,AB+,Musanze
+P2656,Anna Hirwa,82,N/A,DOC0018,O-,Muhanga
+P0524,LOUISE KALISA,76,Private,DOC0010,O+,Muhanga
+P2874,Moise Irakoze,74,N/A,DOC0020,B-,Huye
+P2640,Theoneste Cyusa,54,Private,DOC0025,B+,Huye
+P2943,chantal karangwa,70,None,DOC0015,O+,Rubavu
+P3110,Leonce Sebazungu,54,Private,DOC0021,B+,Kigali
+P3167,Anna Cyusa,72,Private,DOC0024,B+,Muhanga
+P2233,Ferdinand Gatera,88,privatte,DOC0025,B-,Huye
+P0598,Martine Ngendahimana,84,GOV,DOC0008,B+,Musanze
+P3227,Antoine Kabanda,75,Govt,DOC0004,A-,Rubavu
+P0916,Felix Shema,71,Private,DOC0023,AB+,Gisenyi
+P1108,Isaac Imanishimwe,73,N/A,DOC0012,B-,Muhanga
+P2372,Gaston Kabera,62,PUBLic,DOC0002,A+,Muhanga
+P2474,Celestin Byiringiro,52,Public,DOC0019,B-,Huye
+P1539,ARSENE GASHUGI,84,N/A,DOC0001,O+,Gisenyi
+P0908,Gaetan Giraneza,84,Public,DOC0016,O+,Muhanga
+P1515,SIMON GIRANEZA,82,Govt,DOC0021,AB-,Gisenyi
+P1955,sylvie karangwa,90,None,DOC0023,AB+,Gisenyi
+P2561,thierry sebazungu,51,Private,DOC0013,O+,Rubavu
+P2649,Nadege Gatete,71,N/A,DOC0010,AB+,Gisenyi
+P1122,HASSAN NZABONIMPA,82,None,DOC0020,O+,Gisenyi
+P0410,Eugene Hakizimana,78,Private,DOC0010,B+,Musanze
+P0337,Jacques Nzaramba,68,PUBLic,DOC0003,A+,Huye
+P2720,Grace Uwayo,91,N/A,DOC0017,AB-,Rubavu
+P3132,moise nzaramba,89,None,DOC0015,AB-,Huye
+P2532,Hyacinthe Irakoze,77,Public,DOC0006,O+,Kigali
+P0491,veronique imanishimwe,83,N/A,DOC0014,B-,Huye
+P2831,Doris Gatera,87,PUBLic,DOC0018,A+,Muhanga
+P3012,Roger Ufitinema,91,GOV,DOC0002,B+,Rubavu
+P1613,ISAAC HIRWA,70,Public,DOC0021,A-,Muhanga
+P1839,Eliane Bizimana,59,Govt,DOC0024,O+,Muhanga
+P1619,Honorat Kabanda,74,N/A,DOC0026,O+,Huye
+P1362,Beatrice Keza,79,Private,DOC0006,AB+,Gisenyi
+P1486,DANIEL UMUHOZA,89,PUBLic,DOC0001,O+,Musanze
+P2073,Didier Karangwa,82,GOV,DOC0008,AB+,Musanze
+P0575,MONIQUE HABYARIMANA,86,None,DOC0023,AB-,Gisenyi
+P0808,Joseph Ngendahimana,79,N/A,DOC0002,A+,Gisenyi
+P0294,Ines Habimana,68,N/A,DOC0014,AB-,Gisenyi
+P1546,emmanuel nsengimana,61,Private,DOC0011,O-,Gisenyi
+P1701,Justine Umuhoza,79,None,DOC0011,B-,Huye
+P2295,Leonidas Bimenyimana,76,N/A,DOC0012,A+,Rubavu
+P0850,Elie Uwayo,92,GOV,DOC0016,A+,Huye
+P1160,Noella Mutesi,76,N/A,DOC0010,B+,Musanze
+P2848,Nathalie Ishimwe,48,Private,DOC0010,O+,Muhanga
+P0744,Nadege Giraneza,89,privatte,DOC0023,A+,Gisenyi
+P2427,Clement Uwamahoro,70,GOV,DOC0004,B+,Huye
+P2997,Nicole Nshuti,93,GOV,DOC0015,O+,Rubavu
+P0591,Suzanne Gatete,72,N/A,DOC0025,B+,Rubavu
+P1601,Theogene Kayitare,93,N/A,DOC0013,B-,Kigali
+P1872,Divine Tuyisenge,48,N/A,DOC0019,O-,Gisenyi
+P3238,edith irakoze,46,N/A,DOC0018,O+,Huye
+P2469,Esther Kamana,71,Govt,DOC0013,B+,Musanze
+P1603,FELICIEN HABIMANA,87,Govt,DOC0018,O-,Huye
+P3063,Emile Nzaramba,73,None,DOC0008,AB+,Musanze
+P2301, Venant Kamanzi ,72,GOV,DOC0009,O+,Huye
+P1651,Vincent Rukundo,66,PUBLic,DOC0023,B-,Rubavu
+P0786,Yves Uwase,83,Govt,DOC0011,A+,Muhanga
+P1846,Claire Gatete,59,PUBLic,DOC0008,O-,Muhanga
+P3080,Felix Kabanda,75,None,DOC0002,O-,Kigali
+P1209,Ignace Kayitare,71,Private,DOC0003,AB+,Kigali
+P0565,thierry hirwa,76,Private,DOC0022,B-,Rubavu
+P0500, Leonce Kamanzi ,83,None,DOC0004,B-,Gisenyi
+P2961,ANAIS NIYIBIZI,81,N/A,DOC0012,AB+,Muhanga
+P2993, Lise Gatete ,81,Private,DOC0004,B-,Gisenyi
+P0260,Clementine Kabera,89,Govt,DOC0013,O+,Kigali
+P3145, Sylvain Uwizeyimana ,82,N/A,DOC0007,B+,Gisenyi
+P0716, Philippe Gashugi ,56,GOV,DOC0021,A+,Gisenyi
+P3151,Chantal Bizimana,95,Private,DOC0016,O+,Musanze
+P2367,Dieudonne Uwayo,61,None,DOC0004,B-,Musanze
+P1410,ISABELLE UMUHOZA,89,GOV,DOC0018,A-,Huye
+P3207,Henri Niyibizi,76,None,DOC0021,O+,Muhanga
+P2790,Gabriel Uwimana,75,Public,DOC0014,O-,Huye
+P3002,thomas kamali,50,PUBLic,DOC0011,B+,Huye
+P2860,Rose Kamana,94,N/A,DOC0001,A-,Kigali
+P1974,Marc Munyaneza,84,N/A,DOC0019,B-,Musanze
+P0486, Theoneste Giraneza ,84,Govt,DOC0010,O-,Kigali
+P0365,Felicien Nsengimana,42,GOV,DOC0001,A-,Huye
+P1915,OMAR GANZA,89,PUBLic,DOC0005,A-,Gisenyi
+P2969, Georges Nsengimana ,52,N/A,DOC0012,O+,Kigali
+P2119,Sylvain Teta,70,Public,DOC0020,AB+,Muhanga
+P2879,Ernest Niyigena,93,Private,DOC0008,B+,Rubavu
+P2434,jonas niyonsenga,81,Public,DOC0008,AB+,Muhanga
+P0819,Raymond Bimenyimana,95,PUBLic,DOC0012,AB-,Gisenyi
+P3185, Felicien Uwayo ,81,Private,DOC0010,O-,Muhanga
+P2250,MARCEL NZABONIMPA,57,None,DOC0020,B-,Muhanga
+P1167,Elie Tuyisenge,90,PUBLic,DOC0007,O+,Rubavu
+P1322,Elias Kalisa,70,GOV,DOC0011,A-,Gisenyi
+P0875,Isabelle Ufitinema,74,N/A,DOC0019,B+,Huye
+P0032,Eric Irankunda,87,Private,DOC0020,A-,Rubavu
+P2460,Valens Tuyisenge,89,GOV,DOC0004,A-,Rubavu
+P3059,yves teta,90,None,DOC0019,B+,Rubavu
+P1713,Monique Gasana,79,privatte,DOC0002,B-,Gisenyi
+P1889,ines mutesi,53,Public,DOC0003,A+,Rubavu
+P2483,Roger Giraneza,70,Public,DOC0015,AB+,Rubavu
+P2249, Faustin Ruzindana ,85,Public,DOC0026,A+,Musanze
+P1119,Clementine Umuhoza,61,PUBLic,DOC0005,AB-,Gisenyi
+P0664,Antoine Niyibizi,80,Govt,DOC0024,B-,Huye
+P1629,Bernard Dusingizimana,82,None,DOC0022,O+,Kigali
+P0393,elodie umutoni,79,PUBLic,DOC0011,AB+,Muhanga
+P1914,Felicien Uwizeyimana,76,PUBLic,DOC0021,O-,Kigali
+P0720,Alain Kamana,92,Private,DOC0012,B-,Muhanga
+P1239,LEA UWASE,49,GOV,DOC0007,A+,Musanze
+P2854,HASSAN HABYARIMANA,93,Private,DOC0015,B-,Rubavu
+P0696,Elias Ndahimana,88,PUBLic,DOC0025,A+,Gisenyi
+P1155,Ange Ndacyayisenga,78,Private,DOC0021,AB-,Gisenyi
+P2625,DOMINIQUE MUNYANEZA,82,N/A,DOC0005,O-,Kigali
+P0018,Regis Sebazungu,70,GOV,DOC0001,B-,Gisenyi
+P1386,Doris Gasana,75,None,DOC0008,B+,Huye
+P2899, Roland Karangwa ,94,Public,DOC0020,O-,Huye
+P0614,Robert Hirwa,82,Govt,DOC0024,O+,Gisenyi
+P1406,Eugene Nsengimana,63,privatte,DOC0015,AB-,Rubavu
+P1513,Yves Gatera,80,N/A,DOC0006,B+,Kigali
+P1059,Augustin Giraneza,73,Govt,DOC0013,AB+,Rubavu
+P1237,Valens Nsengimana,91,privatte,DOC0026,B-,Gisenyi
+P3123,Aubin Gasana,63,Govt,DOC0014,O+,Huye
+P2677,Justine Hakizimana,69,Public,DOC0008,B-,Huye
+P0330, Fabien Uwizeyimana ,55,GOV,DOC0026,B-,Rubavu
+P2718,Xavier Niyonsenga,73,GOV,DOC0012,B-,Gisenyi
+P0926, Theogene Uwimana ,55,N/A,DOC0001,B+,Kigali
+P1484, Omar Kayiranga ,87,Public,DOC0013,A-,Gisenyi
+P0029,aline hakizimana,59,Govt,DOC0004,AB-,Rubavu
+P2510,Solange Karangwa,78,Public,DOC0024,O-,Musanze
+P2229,Richard Ngendahimana,82,GOV,DOC0024,AB-,Huye
+P2509,Michel Karekezi,70,None,DOC0006,AB+,Rubavu
+P0764,Clementine Karangwa,40,privatte,DOC0013,O-,Gisenyi
+P1752,edouard nsengimana,87,Private,DOC0005,B+,Kigali
+P1294, Philippe Murenzi ,56,None,DOC0003,AB+,Gisenyi
+P1730,Elie Dusingizimana,66,Govt,DOC0012,A-,Muhanga
+P1756,Therese Rugamba,78,GOV,DOC0004,B+,Rubavu
+P1129,Lise Ntirushwa,42,GOV,DOC0014,B+,Rubavu
+P2512,ELIAS NIYIGENA,83,PUBLic,DOC0001,O-,Muhanga
+P0431,edith ishimwe,75,GOV,DOC0016,AB+,Muhanga
+P2371,Nicole Karekezi,84,privatte,DOC0018,AB+,Kigali
+P0208,Jean Nshuti,89,PUBLic,DOC0011,AB+,Huye
+P2397,Aubin Imanishimwe,72,PUBLic,DOC0024,B+,Kigali
+P1432,Yvette Uwimana,73,None,DOC0008,A-,Rubavu
+P0157, Arsene Nzabonimpa ,55,privatte,DOC0003,B+,Kigali
+P0370,Chantal Irankunda,75,privatte,DOC0006,O-,Huye
+P0695,Francois Manirakiza,86,Public,DOC0017,B-,Huye
+P1643,florence niyibizi,93,None,DOC0014,O-,Musanze
+P0409, Helene Tuyisenge ,72,Private,DOC0003,A-,Huye
+P0906,Jerome Kabera,92,None,DOC0008,AB-,Muhanga
+P0976,Marcel Sebazungu,78,N/A,DOC0019,B-,Kigali
+P2690,Henri Dushimimana,92,Govt,DOC0015,B-,Kigali
+P2786,Beatrice Hakizimana,42,privatte,DOC0022,O+,Kigali
+P1275,Nadege Kamanzi,75,None,DOC0007,A+,Rubavu
+P2728,Chantal Ufitinema,85,Private,DOC0021,A-,Kigali
+P2197,Grace Umuhoza,76,N/A,DOC0017,O-,Huye
+P0445,pierre twahirwa,56,PUBLic,DOC0008,B+,Musanze
+P2004,Cedric Twahirwa,76,Private,DOC0024,AB+,Rubavu
+P0132,Etienne Tuyisenge,93,Private,DOC0007,AB+,Rubavu
+P1477,Emmanuel Irankunda,93,Private,DOC0024,B+,Rubavu
+P1463,Athanase Manirakiza,75,PUBLic,DOC0005,B-,Huye
+P2674,Sandrine Rugamba,41,privatte,DOC0015,AB+,Musanze
+P0721,Marcel Ruzindana,89,Public,DOC0002,O-,Huye
+P3066,Raymond Mutesi,87,N/A,DOC0021,AB-,Kigali
+P2513,ignace dusingizimana,88,N/A,DOC0006,B-,Gisenyi
+P1182,SEBASTIEN UWAMAHORO,79,GOV,DOC0010,A-,Gisenyi
+P2618,Marine Dushimimana,42,privatte,DOC0005,O-,Gisenyi
+P2722,Lise Mazimpaka,88,N/A,DOC0011,A-,Gisenyi
+P0896, Fidele Imanishimwe ,89,Govt,DOC0015,AB-,Musanze
+P2727,Anais Dusabe,73,None,DOC0022,AB+,Musanze
+P1018,Juliette Umutoni,78,Govt,DOC0009,B-,Muhanga
+P2389,FIDELE KAYITARE,78,None,DOC0011,A-,Rubavu
+P0128,Emile Uwayo,82,Private,DOC0016,B+,Gisenyi
+P2987,Omar Uwamahoro,72,N/A,DOC0022,A-,Muhanga
+P0794,Aime Dusingizimana,83,Private,DOC0022,O-,Kigali
+P0169,Sylvain Imanishimwe,42,privatte,DOC0002,AB+,Gisenyi
+P2713,Louise Irakoze,63,Public,DOC0015,B+,Muhanga
+P0570,Felix Nsengimana,68,Govt,DOC0017,AB-,Kigali
+P2149, Hubert Kamali ,92,privatte,DOC0003,AB+,Rubavu
+P0814,Eliane Ingabire,89,privatte,DOC0017,AB-,Huye
+P3223,Valerie Munyaneza,70,GOV,DOC0003,AB+,Musanze
+P1176,Dominique Kabanda,41,PUBLic,DOC0009,B+,Muhanga
+P0846,Anais Bimenyimana,85,Private,DOC0019,O+,Huye
+P2130,Clementine Ishimwe,73,Private,DOC0005,O-,Muhanga
+P2461,HENRI KAYIRANGA,54,PUBLic,DOC0020,B+,Musanze
+P1363,David Dusabe,47,None,DOC0001,A-,Musanze
+P2347,Ange Munyaneza,66,GOV,DOC0021,B+,Huye
+P0878,NADEGE MWIZA,69,N/A,DOC0006,B-,Musanze
+P2291,Theogene Uwizeyimana,89,Govt,DOC0007,B-,Gisenyi
+P2251,Omar Ntirushwa,55,GOV,DOC0014,A+,Musanze
+P0891,Ivan Umutoni,77,privatte,DOC0022,AB-,Muhanga
+P2386,Anitha Nzaramba,74,None,DOC0020,AB-,Muhanga
+P0450,Benoit Nzabonimpa,78,GOV,DOC0017,A-,Gisenyi
+P2393,Gilbert Gashugi,94,Govt,DOC0013,O-,Musanze
+P0922,NADEGE KARANGWA,63,None,DOC0002,B-,Huye
+P2265,Gaston Habyarimana,82,None,DOC0015,AB-,Kigali
+P2966,arsene mazimpaka,94,Public,DOC0014,A+,Gisenyi
+P0249,Jules Ufitinema,88,privatte,DOC0024,B+,Muhanga
+P1085, Elodie Kagame ,52,None,DOC0016,O+,Kigali
+P0881,Kevin Gatera,63,Public,DOC0005,B-,Kigali
+P2701, Anais Kazungu ,50,privatte,DOC0011,O-,Gisenyi
+P1990,Hubert Gashugi,59,Private,DOC0005,O+,Kigali
+P2346,Fanny Twahirwa,65,None,DOC0016,AB+,Kigali
+P2038,Mathieu Habyarimana,75,PUBLic,DOC0022,A+,Musanze
+P0804,Janvier Ingabire,71,Private,DOC0002,AB+,Huye
+P1992,monique imanishimwe,74,Govt,DOC0022,AB+,Gisenyi
+P2124,NADIA KAREKEZI,92,privatte,DOC0015,B-,Muhanga
+P0297,Gaspard Shema,69,PUBLic,DOC0002,O-,Musanze
+P0309,Bosco Habimana,72,Public,DOC0013,B+,Rubavu
+P0271, Isidore Irakoze ,89,Govt,DOC0013,B-,Rubavu
+P1640, Fabrice Mutesi ,73,Govt,DOC0020,A+,Huye
+P1849,Fanny Kamanzi,83,Public,DOC0022,AB-,Rubavu
+P2759,Aurelie Gashugi,87,GOV,DOC0008,A-,Gisenyi
+P1952,Sylvain Nteziryayo,69,None,DOC0013,A+,Muhanga
+P3121,Josiane Niyonsenga,90,GOV,DOC0017,O+,Muhanga
+P2271,Daniel Hakizimana,55,Govt,DOC0020,O+,Muhanga
+P1016,Odette Ntirushwa,95,Govt,DOC0012,AB+,Huye
+P0553,Angelique Habyarimana,51,N/A,DOC0004,B+,Rubavu
+P1787,Lucien Gakire,89,GOV,DOC0017,O-,Gisenyi
+P1556,HENRI DUSABE,81,privatte,DOC0007,A-,Musanze
+P2012,Simon Kayiranga,88,None,DOC0020,B-,Gisenyi
+P2696,Noel Kazungu,64,Govt,DOC0019,O+,Muhanga
+P2948,Valerie Niyigena,62,Private,DOC0003,A-,Gisenyi
+P0828,Gilbert Uwayo,75,PUBLic,DOC0017,A-,Huye
+P0619,Roland Tuyisenge,67,None,DOC0013,A-,Gisenyi
+P1973,Hugues Tuyisenge,70,PUBLic,DOC0010,B-,Kigali
+P3054, Benjamin Kamana ,85,PUBLic,DOC0020,B+,Rubavu
+P1916,Theoneste Manirakiza,95,GOV,DOC0001,O+,Huye
+P2418,Frederic Gatete,77,privatte,DOC0004,B+,Kigali
+P3087,Juliette Irakoze,82,Public,DOC0015,A-,Huye
+P2307,Sebastien Hakizimana,81,GOV,DOC0023,B-,Musanze
+P0332,Marcel Byiringiro,71,N/A,DOC0002,B+,Huye
+P0635,Robert Murenzi,75,Public,DOC0009,B-,Muhanga
+P0416,Marc Irakoze,80,Private,DOC0017,B-,Rubavu
+P2156,louis ndahimana,40,GOV,DOC0024,AB-,Gisenyi
+P2751,regis manirakiza,59,Public,DOC0016,O+,Rubavu
+P2351,Nicole Irankunda,70,Govt,DOC0008,AB+,Muhanga
+P0685,Nadege Ufitinema,73,PUBLic,DOC0025,O+,Kigali
+P1040,Veronique Manirakiza,86,Private,DOC0004,AB-,Muhanga
+P1473,Isidore Nteziryayo,70,PUBLic,DOC0020,A-,Rubavu
+P2691,elise ngendahimana,42,Govt,DOC0020,A-,Rubavu
+P2473,Philippe Kayitare,80,Public,DOC0017,AB-,Huye
+P1825, Isabelle Niyonsenga ,77,Govt,DOC0021,B+,Rubavu
+P2598,GUILLAUME GATABAZI,86,privatte,DOC0006,B+,Huye
+P1625,Felix Ndahimana,90,None,DOC0010,O+,Huye
+P1820,Isaac Nsengimana,80,PUBLic,DOC0017,B-,Huye
+P2574,Sylvain Ingabire,40,Public,DOC0021,B+,Muhanga
+P0088,Helene Dusabe,60,privatte,DOC0014,O+,Musanze
+P2798, Honore Ntirushwa ,78,None,DOC0005,B-,Muhanga
+P1781,Irene Hirwa,83,None,DOC0015,B-,Kigali
+P1527, Aline Nsengimana ,77,GOV,DOC0007,AB-,Musanze
+P2463,Lea Gakire,66,Public,DOC0003,O-,Gisenyi
+P1255,Luc Mwiza,44,None,DOC0012,AB-,Gisenyi
+P0991,Christine Ingabire,74,Public,DOC0018,AB-,Huye
+P2259,Claire Sebazungu,44,None,DOC0002,AB+,Musanze
+P2794,Marc Ugiraneza,58,Public,DOC0015,AB+,Gisenyi
+P2867,THERESE GASANA,84,PUBLic,DOC0018,B+,Huye
+P0355,Helene Sebazungu,44,PUBLic,DOC0023,O+,Muhanga
+P1080,Honorat Dushimimana,72,Public,DOC0011,B+,Muhanga
+P3021,Marguerite Kamana,80,GOV,DOC0003,AB+,Rubavu
+P0960,Doris Nzaramba,95,Public,DOC0006,O-,Huye
+P0396,Charles Byiringiro,65,None,DOC0019,B+,Huye
+P2954,Justine Ngendahimana,70,GOV,DOC0025,AB-,Rubavu
+P2828,Ivan Gatete,44,Govt,DOC0019,A+,Rubavu
+P0755,Emmanuel Nzabonimpa,63,Govt,DOC0023,A-,Gisenyi
+P0644,Martin Umutoni,48,None,DOC0026,AB-,Gisenyi
+P2884,SYLVIE KAZUNGU,87,privatte,DOC0020,A-,Musanze
+P2281,Roland Keza,88,GOV,DOC0001,O+,Muhanga
+P2978,Aubin Mutesi,59,None,DOC0016,O+,Musanze
+P0058, Arsene Nsabimana ,76,None,DOC0012,A+,Gisenyi
+P2231,Jacqueline Umuhoza,89,Govt,DOC0008,AB+,Kigali
+P1608,Felicien Habyarimana,68,Govt,DOC0022,AB+,Rubavu
+P2982,Denise Ugiraneza,72,Public,DOC0016,B+,Musanze
+P0757,Luc Niyibizi,92,Private,DOC0006,B-,Rubavu
+P1687, Moise Shema ,75,privatte,DOC0001,AB+,Kigali
+P0782,Nathalie Ntirushwa,74,PUBLic,DOC0026,B+,Gisenyi
+P1244,GUY UWAMAHORO,74,Private,DOC0021,A-,Musanze
+P2776,Rachel Twahirwa,92,None,DOC0017,B-,Gisenyi
+P0322,christine bimenyimana,95,N/A,DOC0009,A-,Musanze
+P1866,Athanase Ugiraneza,86,N/A,DOC0011,A+,Gisenyi
+P2274,Florence Rugamba,78,GOV,DOC0004,A-,Muhanga
+P2221, Theoneste Umuhoza ,73,Govt,DOC0005,O-,Huye
+P2995, Marguerite Mugisha ,71,Govt,DOC0020,A+,Kigali
+P1230,marguerite kalisa,94,privatte,DOC0022,AB-,Kigali
+P1098, Joseph Gatete ,74,privatte,DOC0015,O+,Musanze
+P2256, Ernest Kabera ,64,Private,DOC0019,A+,Musanze
+P2403,Henri Ntirushwa,76,GOV,DOC0006,B-,Muhanga
+P3160,Mathieu Irakoze,64,Public,DOC0009,O+,Kigali
+P2747,Veronique Mazimpaka,76,N/A,DOC0010,A+,Huye
+P0574,bertrand ishimwe,64,N/A,DOC0006,B-,Musanze
+P3180,Faustin Ndahimana,59,GOV,DOC0011,O+,Muhanga
+P3078,remi bizimana,41,Private,DOC0022,O-,Huye
+P2343, Samuel Hirwa ,93,GOV,DOC0012,AB+,Gisenyi
+P0554,Martine Kalisa,50,Govt,DOC0002,AB+,Gisenyi
+P2311,Moise Uwizeyimana,59,PUBLic,DOC0012,B+,Musanze
+P1022,Faustin Nsengimana,75,Private,DOC0002,O-,Muhanga
+P0661, Henri Murenzi ,95,None,DOC0024,O-,Kigali
+P2218,Leonidas Hakizimana,90,Govt,DOC0010,B+,Musanze
+P1141,lea kagame,75,Private,DOC0001,O+,Kigali
+P0356,Esther Kayitare,72,Govt,DOC0021,B-,Musanze
+P1540,Carine Ruzindana,75,Private,DOC0001,O+,Muhanga
+P1127, Noel Gasana ,56,PUBLic,DOC0005,AB-,Kigali
+P2098,CHRISTIAN IRAKOZE,82,N/A,DOC0026,B-,Kigali
+P2920,julien munyaneza,84,Private,DOC0012,B+,Kigali
+P2880,Maxime Dusabe,74,Public,DOC0011,AB+,Kigali
+P0419,Elise Kalisa,57,None,DOC0023,AB-,Muhanga
+P1891,Ernest Ugiraneza,86,N/A,DOC0001,O+,Gisenyi
+P1664,ETIENNE NIYIBIZI,89,None,DOC0014,B+,Rubavu
+P2020,Maxime Irankunda,47,Govt,DOC0026,AB+,Gisenyi
+P0909,esther nsengimana,69,N/A,DOC0011,O-,Musanze
+P1008,Gaston Dushimimana,82,GOV,DOC0001,B+,Huye
+P3163, Sylvie Mazimpaka ,78,Govt,DOC0013,AB+,Huye
+P3023,claire tuyisenge,90,Public,DOC0022,B+,Rubavu
+P1102,Irene Rugamba,67,Govt,DOC0021,B-,Musanze
+P0180,denise kamana,94,None,DOC0015,O+,Gisenyi
+P0781,jacques hakizimana,93,Private,DOC0011,AB+,Kigali
+P2145,Hubert Bimenyimana,40,GOV,DOC0016,A-,Musanze
+P1516,Honorat Kabera,92,N/A,DOC0013,B+,Gisenyi
+P1051, Joel Kalisa ,86,Public,DOC0016,AB+,Rubavu
+P1530,Helene Ngendahimana,95,GOV,DOC0021,B+,Huye
+P0190,gaspard gatera,42,N/A,DOC0025,AB-,Rubavu
+P0654,marine niyibizi,89,Public,DOC0011,A-,Kigali
+P2569,Christine Ndacyayisenga,92,Public,DOC0004,O-,Rubavu
+P1761, Ivan Twahirwa ,80,N/A,DOC0009,AB+,Rubavu
+P0855,Serge Twahirwa,60,Private,DOC0013,A-,Gisenyi
+P0503,Simon Ufitinema,71,privatte,DOC0009,O+,Rubavu
+P0927,Nicole Nteziryayo,71,Private,DOC0002,AB+,Rubavu
+P3037, Aime Niyibizi ,89,N/A,DOC0008,B+,Kigali
+P0547,Leonidas Bizimana,75,N/A,DOC0024,AB-,Huye
+P2882,Gaetan Ntirushwa,77,PUBLic,DOC0005,AB-,Huye
+P1017,JOSIANE TWAHIRWA,72,Public,DOC0012,AB+,Gisenyi
+P0701,Claude Ndagijimana,78,Govt,DOC0011,O+,Muhanga
+P2253,Serge Umuhoza,68,GOV,DOC0018,B-,Musanze
+P2085, Bruno Mugisha ,46,PUBLic,DOC0004,AB+,Muhanga
+P1175,Alain Gatete,50,None,DOC0025,AB+,Gisenyi
+P3179,marine ishimwe,65,Govt,DOC0003,A+,Muhanga
+P1189,yvonne mutesi,90,privatte,DOC0014,B-,Kigali
+P2641,Ignace Uwimana,87,Private,DOC0020,AB+,Huye
+P1190, Guy Mugisha ,88,Private,DOC0010,AB-,Muhanga
+P2841,Bosco Kabera,86,GOV,DOC0023,O+,Musanze
+P2916,Augustin Habimana,85,Public,DOC0001,B-,Rubavu
+P2975,Lucien Sebazungu,89,None,DOC0014,AB-,Rubavu
+P2476, Thomas Karekezi ,46,Govt,DOC0026,AB+,Muhanga
+P3075,Vincent Giraneza,80,Private,DOC0022,O-,Muhanga
+P1283,Veronique Dusingizimana,86,Private,DOC0005,AB-,Kigali
+P2881,Omar Dusabe,83,Govt,DOC0004,B+,Gisenyi
+P2395,Maurice Kayiranga,77,Govt,DOC0003,O+,Musanze
+P0820,Frank Bizimana,95,PUBLic,DOC0012,O-,Gisenyi
+P1387,Jerome Gatabazi,88,Govt,DOC0018,AB-,Huye
+P1458,regis bimenyimana,77,privatte,DOC0013,AB-,Gisenyi
+P0446,Sebastien Ingabire,81,PUBLic,DOC0023,AB-,Kigali
+P1371,benoit niyonsenga,71,None,DOC0023,O-,Muhanga
+P0557,Jeanne Munyaneza,84,None,DOC0008,A-,Rubavu
+P0834,Athanase Nshuti,70,PUBLic,DOC0014,B+,Musanze
+P1577,jacques kabanda,90,PUBLic,DOC0006,O-,Muhanga
+P2466,Valens Kamanzi,84,Govt,DOC0015,A+,Musanze
+P0806, Eric Ndagijimana ,89,N/A,DOC0009,O-,Muhanga
+P2224,Theoneste Nzaramba,72,N/A,DOC0013,AB-,Muhanga
+P2108,Michel Kamali,71,Public,DOC0015,O-,Kigali
+P1033,Sebastien Gakire,78,Public,DOC0022,B+,Rubavu
+P1096,Pierre Kamanzi,85,privatte,DOC0022,B+,Muhanga
+P2201,Antoine Kayiranga,86,None,DOC0006,B+,Rubavu
+P3226,Beatrice Umutoni,77,None,DOC0017,B+,Huye
+P1359,Rose Nshuti,76,GOV,DOC0016,O-,Kigali
+P1584,Valerie Kayiranga,88,privatte,DOC0002,B-,Kigali
+P1251,nadia kabanda,94,privatte,DOC0017,A-,Rubavu
+P0231,hubert ndahimana,45,None,DOC0015,O-,Musanze
+P1931,Honorat Karangwa,82,N/A,DOC0026,B-,Huye
+P2729,Regis Byiringiro,70,Govt,DOC0023,A-,Kigali
+P1939,Gaston Murenzi,71,PUBLic,DOC0017,O-,Huye
+P3055,Lucien Kamanzi,41,Public,DOC0020,O-,Gisenyi
+P2362, Antoine Imanishimwe ,88,Public,DOC0006,A-,Rubavu
+P0637,Arsene Kamana,85,GOV,DOC0005,B-,Gisenyi
+P3191,Hassan Bimenyimana,71,N/A,DOC0007,AB-,Kigali
+P0326,Sylvain Ndagijimana,92,Govt,DOC0026,B-,Gisenyi
+P2320,Elise Ndacyayisenga,81,N/A,DOC0017,A-,Kigali
+P1058,Kevin Hakizimana,82,PUBLic,DOC0005,AB+,Gisenyi
+P1165,ISIDORE SEBAZUNGU,88,N/A,DOC0018,A-,Gisenyi
+P0740,Ernest Twahirwa,48,None,DOC0009,B+,Rubavu
+P0728,Daniel Uwimana,70,privatte,DOC0001,O-,Kigali
+P0577, Ferdinand Dushimimana ,95,None,DOC0026,O+,Muhanga
+P1856,veronique ndagijimana,80,Public,DOC0017,B-,Huye
+P3217,Faustin Rugamba,55,None,DOC0001,O-,Musanze
+P0563,JOSIANE KAZUNGU,86,N/A,DOC0008,B+,Huye
+P0002,Eugenie Nsengimana,78,PUBLic,DOC0026,O-,Kigali
+P0599,SERGE NIYIBIZI,85,PUBLic,DOC0010,O+,Rubavu
+P1394, Doris Uwimana ,74,N/A,DOC0019,AB-,Huye
+P1942,David Kabera,72,None,DOC0019,B-,Rubavu
+P2063,Claude Kabera,88,GOV,DOC0014,AB+,Huye
+P0366,Theoneste Imanishimwe,57,None,DOC0011,AB-,Muhanga
+P1658,Antoine Hirwa,74,privatte,DOC0012,O-,Muhanga
+P0935,Elias Hakizimana,76,GOV,DOC0008,B+,Gisenyi
+P0039,Odette Gatete,83,Govt,DOC0002,B-,Gisenyi
+P2444, Gaston Gasana ,70,GOV,DOC0020,B-,Rubavu
+P2725,Marine Uwase,79,privatte,DOC0017,B+,Rubavu
+P2610, Valens Ndahimana ,58,Private,DOC0015,O-,Rubavu
+P0851,Louis Nzabonimpa,85,privatte,DOC0011,O-,Kigali
+P0151,Pierre Rukundo,65,Govt,DOC0004,A-,Musanze
+P1254,Diane Ntirushwa,71,privatte,DOC0016,O+,Gisenyi
+P0320,marguerite rukundo,74,Private,DOC0004,A-,Muhanga
+P0299, Ben Kamana ,77,GOV,DOC0009,A-,Huye
+P0174,Elise Umutoni,76,Private,DOC0001,A-,Rubavu
+P1115,Aubin Kabanda,79,Private,DOC0016,A+,Rubavu
+P2357,Rose Umuhoza,56,Govt,DOC0025,AB-,Kigali
+P0188,Elise Gatabazi,81,PUBLic,DOC0013,B+,Musanze
+P2319,Valens Ndagijimana,86,None,DOC0003,A+,Huye
+P1964,GISELE KALISA,80,Govt,DOC0025,O+,Rubavu
+P1631,doris gatete,74,PUBLic,DOC0001,B+,Huye
+P1014,Victor Kayiranga,57,privatte,DOC0004,A-,Rubavu
+P2111,Noella Keza,90,Govt,DOC0017,B-,Huye
+P2991,Augustin Sebazungu,73,Govt,DOC0008,O+,Huye
+P0558, Pascal Ntirushwa ,95,Govt,DOC0024,B-,Rubavu
+P2075,Therese Rukundo,69,PUBLic,DOC0024,AB-,Kigali
+P2204, Lise Murenzi ,87,PUBLic,DOC0008,B-,Rubavu
+P3089,Alain Cyusa,71,privatte,DOC0017,AB-,Huye
+P1063, Etienne Kalisa ,91,privatte,DOC0020,A+,Gisenyi
+P0552,Ernest Bimenyimana,52,GOV,DOC0008,B+,Musanze
+P1422,Etienne Karangwa,86,Govt,DOC0008,AB-,Kigali
+P1032,Joseph Gatera,86,Public,DOC0003,B+,Kigali
+P1760,olivier imanishimwe,88,None,DOC0011,O+,Muhanga
+P1001,Martine Sebazungu,76,Private,DOC0012,A+,Huye
+P0226, Jonas Uwizeyimana ,87,PUBLic,DOC0018,A-,Rubavu
+P0859, Guillaume Sebazungu ,92,Public,DOC0001,A+,Rubavu
+P2657,Patrick Gatabazi,58,GOV,DOC0001,B-,Huye
+P1152,Marcel Gatabazi,77,privatte,DOC0005,B+,Kigali
+P1887,Marie Gakire,73,Public,DOC0001,A-,Kigali
+P1682,germain yankurije,76,GOV,DOC0015,O-,Gisenyi
+P2106,Irene Nsabimana,95,Govt,DOC0019,B-,Gisenyi
+P1567,Ferdinand Dusabe,40,Public,DOC0019,B-,Gisenyi
+P1344,Isidore Twahirwa,52,Govt,DOC0009,A-,Rubavu
+P1869,Faustin Kabanda,41,Govt,DOC0008,AB-,Kigali
+P1288, Pascal Gatete ,69,None,DOC0002,O-,Kigali
+P0363,Jules Munyaneza,85,N/A,DOC0004,B+,Muhanga
+P1323,Irene Giraneza,70,privatte,DOC0022,A+,Huye
+P1690,Ines Karangwa,63,Private,DOC0015,AB+,Huye
+P1933,MARC KARANGWA,72,None,DOC0005,B-,Rubavu
+P2687,Simon Dusingizimana,73,PUBLic,DOC0009,A-,Gisenyi
+P2324,josiane dushimimana,60,Public,DOC0006,O-,Kigali
+P2972, Emile Kagame ,67,PUBLic,DOC0003,O-,Muhanga
+P1858,Charles Kalisa,61,GOV,DOC0020,B+,Musanze
+P0339,Clementine Rugamba,71,GOV,DOC0006,A+,Gisenyi
+P2792,Henri Karangwa,92,N/A,DOC0023,O+,Gisenyi
+P2375,Aline Umuhoza,93,privatte,DOC0015,AB-,Muhanga
+P3035,Louise Sebazungu,83,GOV,DOC0005,B+,Musanze
+P1202,MICHEL KEZA,86,N/A,DOC0017,B-,Rubavu
+P1086,david uwase,68,privatte,DOC0012,AB+,Musanze
+P3195,Aime Tuyisenge,89,Public,DOC0005,AB+,Muhanga
+P2724,odette ruzindana,57,privatte,DOC0015,O+,Musanze
+P2658,bertrand kazungu,90,Private,DOC0022,O-,Gisenyi
+P3094,Roger Ruzindana,57,None,DOC0019,A+,Huye
+P2542,PHILIPPE GIRANEZA,81,Public,DOC0005,B-,Kigali
+P2062,Anais Keza,61,PUBLic,DOC0005,O-,Muhanga
+P2415,Yvonne Rugamba,88,Govt,DOC0008,O+,Musanze
+P0902,Louise Byiringiro,95,Public,DOC0001,AB-,Huye
+P0090,INES TETA,84,Govt,DOC0025,AB+,Huye
+P1273,JACQUELINE HIRWA,77,GOV,DOC0006,AB+,Gisenyi
+P0071,Benjamin Giraneza,63,N/A,DOC0020,O+,Muhanga
+P2768,Beatrice Gashugi,76,Govt,DOC0008,AB+,Gisenyi
+P2716,Georges Umutoni,71,PUBLic,DOC0021,AB+,Kigali
+P2923, Marine Dusabe ,70,Public,DOC0005,O+,Huye
+P2928,Carine Teta,74,Private,DOC0022,O-,Huye
+P2101,Aubin Karekezi,41,Public,DOC0012,B+,Kigali
+P0022,Maurice Gatete,85,N/A,DOC0026,O+,Rubavu
+P2535,marc kalisa,67,None,DOC0026,A+,Musanze
+P0467,Isaac Murenzi,86,Public,DOC0026,B-,Rubavu
+P1137,Omar Imanishimwe,71,N/A,DOC0010,B-,Muhanga
+P2407,claudine uwayo,76,Govt,DOC0009,B+,Rubavu
+P0669,FIDELE UFITINEMA,73,N/A,DOC0024,B-,Musanze
+P3221,Bernard Byiringiro,74,Public,DOC0023,B-,Musanze
+P1913,bertrand gashugi,73,Public,DOC0021,O+,Kigali
+P1472,Jules Twahirwa,66,N/A,DOC0022,O+,Kigali
+P1260,paul kayiranga,43,GOV,DOC0018,A-,Gisenyi
+P1434,Immaculee Umutoni,76,PUBLic,DOC0012,A+,Gisenyi
+P2520, Noella Ishimwe ,71,Public,DOC0010,A+,Rubavu
+P1438,Hugues Dusingizimana,75,privatte,DOC0007,A+,Rubavu
+P0129,SYLVERE BIMENYIMANA,88,Public,DOC0025,B-,Kigali
+P0765,Josiane Uwizeyimana,74,privatte,DOC0015,A-,Muhanga
+P1215,Robert Bizimana,63,GOV,DOC0005,O+,Muhanga
+P0235, Marcel Uwizeyimana ,41,Private,DOC0014,O+,Musanze
+P0666,ALINE NZABONIMPA,75,Public,DOC0025,B+,Gisenyi
+P2572,Chantal Nzaramba,71,GOV,DOC0005,A-,Rubavu
+P2137,Bosco Uwizeyimana,93,GOV,DOC0001,B+,Huye
+P1994,Benjamin Dushimimana,95,Public,DOC0016,O-,Gisenyi
+P0715,Ines Hakizimana,56,Private,DOC0004,A+,Rubavu
+P1854,Arsene Niyigena,45,privatte,DOC0024,A+,Gisenyi
+P1835,Patrick Kayiranga,89,N/A,DOC0018,AB+,Rubavu
+P2341,Diane Ishimwe,56,privatte,DOC0012,A+,Gisenyi
+P0178,Felicien Rugamba,48,N/A,DOC0017,AB-,Huye
+P0862,Pierre Gatete,93,N/A,DOC0024,AB-,Kigali
+P1834,JONAS HAKIZIMANA,70,privatte,DOC0007,B-,Huye
+P2942,honore cyusa,69,None,DOC0012,A-,Gisenyi
+P2072,LAURENT NDAHIMANA,94,GOV,DOC0006,AB+,Gisenyi
+P1593,Celestin Teta,47,GOV,DOC0001,B+,Kigali
+P3188,Madeleine Ugiraneza,91,Public,DOC0009,AB-,Rubavu
+P1558, Sebastien Irakoze ,71,privatte,DOC0026,AB-,Huye
+P3228,Nicole Ingabire,58,N/A,DOC0024,O-,Gisenyi
+P1199,Marguerite Byiringiro,74,Public,DOC0005,A+,Muhanga
+P0818, Yvette Hakizimana ,77,None,DOC0011,O-,Gisenyi
+P0313,Martine Uwase,90,None,DOC0025,O-,Muhanga
+P3214,Madeleine Gashugi,69,Private,DOC0024,B-,Musanze
+P1335,sandrine ugiraneza,89,PUBLic,DOC0020,AB+,Huye
+P3038,Jacqueline Kabera,72,privatte,DOC0005,A-,Huye
+P2360, Esther Uwamahoro ,79,None,DOC0019,B+,Huye
+P2050,Patrick Byiringiro,73,Private,DOC0005,B+,Muhanga
+P1267,Marine Karekezi,66,None,DOC0013,O-,Rubavu
+P0954,Samuel Tuyisenge,73,GOV,DOC0018,AB+,Musanze
+P0618,CELESTIN KAMALI,83,None,DOC0004,AB+,Rubavu
+P1600,ALAIN UMUTONI,72,Govt,DOC0021,AB-,Muhanga
+P0945,Nadege Uwayo,73,Govt,DOC0018,AB-,Huye
+P0020,carine kayitare,70,Govt,DOC0011,AB-,Musanze
+P2973,veronique giraneza,75,Govt,DOC0005,B-,Muhanga
+P1750,Ines Kamali,75,Govt,DOC0011,O+,Kigali
+P0086,Hassan Mugisha,72,Public,DOC0009,B+,Muhanga
+P0229,Ignace Ufitinema,64,None,DOC0013,A+,Huye
+P1909,Christian Gashugi,77,N/A,DOC0020,B-,Musanze
+P1566,pascal uwase,76,Public,DOC0019,A+,Rubavu
+P0780,maurice kamanzi,74,GOV,DOC0002,O-,Gisenyi
+P3212, Xavier Shema ,70,N/A,DOC0002,B+,Kigali
+P0537,Desire Kamana,72,Govt,DOC0018,AB-,Muhanga
+P1181,Sylvain Kamali,54,Govt,DOC0001,O+,Musanze
+P1666,Grace Bimenyimana,55,Private,DOC0021,AB+,Muhanga
+P2844,Ernest Dusabe,58,privatte,DOC0026,AB+,Huye
+P0985,EMILE HAKIZIMANA,50,Public,DOC0007,B-,Gisenyi
+P0645,Rose Nzaramba,72,Public,DOC0020,O-,Kigali
+P1285,Odette Niyigena,74,PUBLic,DOC0026,B-,Gisenyi
+P0897,Bernard Keza,74,PUBLic,DOC0008,A-,Gisenyi
+P1318,Georges Ntirushwa,50,GOV,DOC0016,A-,Gisenyi
+P2745,Clement Karangwa,79,PUBLic,DOC0021,A+,Rubavu
+P2976, Sylvere Karekezi ,52,Govt,DOC0011,A+,Gisenyi
+P0379,HASSAN BIZIMANA,90,PUBLic,DOC0009,A+,Muhanga
+P0319, Remi Mugisha ,74,None,DOC0026,O+,Kigali
+P2068,Elodie Ugiraneza,47,privatte,DOC0005,A+,Rubavu
+P2205,Martin Dushimimana,75,GOV,DOC0011,A-,Musanze
+P1581, Gisele Uwayo ,87,N/A,DOC0021,O-,Muhanga
+P1097,Paul Ndayisenga,95,Public,DOC0017,O-,Muhanga
+P0974,Anitha Yankurije,94,PUBLic,DOC0016,A-,Muhanga
+P2480,Christine Ngendahimana,47,Govt,DOC0005,AB+,Kigali
+P3072,joel niyonsenga,86,N/A,DOC0018,O-,Huye
+P3064,Juliette Tuyisenge,83,PUBLic,DOC0015,A+,Kigali
+P2541,Roger Hirwa,94,Govt,DOC0022,O+,Musanze
+P1779, Hubert Twahirwa ,82,Govt,DOC0017,AB-,Huye
+P1332,IRENE MUTESI,50,Govt,DOC0023,AB+,Gisenyi
+P2334,Ben Kabanda,93,None,DOC0011,AB+,Musanze
+P0688,Ferdinand Niyigena,90,privatte,DOC0025,A+,Kigali
+P1606,GEORGES GIRANEZA,82,Govt,DOC0006,A-,Rubavu
+P3062,Ferdinand Mazimpaka,71,Public,DOC0006,AB-,Muhanga
+P3010,dominique rugamba,76,Private,DOC0007,AB+,Rubavu
+P2553, Christophe Rukundo ,40,Govt,DOC0001,AB+,Musanze
+P1222,Marcel Kabanda,68,privatte,DOC0005,B+,Muhanga
+P2339,Eliane Ganza,86,Private,DOC0023,B+,Gisenyi
+P3137,Elodie Dusabe,83,privatte,DOC0022,B-,Muhanga
+P0156,Janvier Ishimwe,82,GOV,DOC0003,AB-,Huye
+P1517,Nicole Kamana,88,PUBLic,DOC0013,O+,Musanze
+P2036,PASCAL KABANDA,91,privatte,DOC0016,O-,Kigali
+P1053, Nadege Nzaramba ,74,N/A,DOC0011,AB+,Rubavu
+P2606,Bosco Bimenyimana,74,GOV,DOC0017,AB+,Kigali
+P0290, Thomas Irankunda ,95,None,DOC0004,A+,Kigali
+P2738,Sophie Ishimwe,93,GOV,DOC0020,AB+,Musanze
+P0743,Edith Ngendahimana,92,GOV,DOC0016,B-,Gisenyi
+P2788,Serge Manirakiza,56,GOV,DOC0021,B+,Kigali
+P1535,Luc Kalisa,55,privatte,DOC0012,AB+,Huye
+P0362,Madeleine Ndacyayisenga,86,Private,DOC0007,O+,Gisenyi
+P2228,thomas bizimana,71,None,DOC0018,A-,Musanze
+P1373,Theoneste Ingabire,66,Govt,DOC0005,B+,Muhanga
+P1483,Venant Karekezi,64,PUBLic,DOC0025,A-,Rubavu
+P1355,Esther Kabera,44,PUBLic,DOC0023,O+,Rubavu
+P2211,Theoneste Nsabimana,67,None,DOC0008,B+,Rubavu
+P2190, Janvier Ndahimana ,47,privatte,DOC0008,B-,Huye
+P2858,Aurelie Ntirushwa,62,GOV,DOC0006,A-,Rubavu
+P2254,Aime Ugiraneza,72,GOV,DOC0023,B-,Rubavu
+P1998,Florence Nshuti,89,Govt,DOC0007,A+,Muhanga
+P1675, Fidele Teta ,87,privatte,DOC0021,A-,Huye
+P1888,Claudine Gatera,86,N/A,DOC0018,A-,Huye
+P2922,Roland Sebazungu,61,Public,DOC0017,B+,Musanze
+P0874,Valerie Gashugi,86,N/A,DOC0008,O-,Gisenyi
+P3192,Hubert Nsabimana,88,Public,DOC0005,A-,Muhanga
+P1774,Nathalie Ndagijimana,83,Govt,DOC0001,AB-,Rubavu
+P1896,Raymond Rukundo,80,Private,DOC0012,O+,Huye
+P0261,Augustin Uwamahoro,50,Private,DOC0016,B-,Huye
+P1981,Antoine Ganza,75,Public,DOC0017,O+,Musanze
+P0940,Maxime Rugamba,73,Govt,DOC0024,O+,Musanze
+P3209, Desire Hirwa ,76,N/A,DOC0016,O+,Rubavu
+P0627,Moise Manirakiza,40,Govt,DOC0010,B+,Huye
+P2416,Omar Rugamba,91,privatte,DOC0007,B-,Rubavu
+P2069,Louise Munyaneza,55,None,DOC0005,B+,Rubavu
+P2499,Beatrice Kagame,49,GOV,DOC0004,B+,Rubavu
+P2785,Frederic Ganza,58,N/A,DOC0015,O+,Muhanga
+P1751,Jean Niyibizi,76,PUBLic,DOC0017,B+,Rubavu
+P3201, Joseph Kabanda ,88,None,DOC0008,O+,Huye
+P1706,Victor Dusingizimana,84,None,DOC0010,AB-,Muhanga
+P2176,Irene Gasana,47,GOV,DOC0018,A+,Muhanga
+P3175,nicole ndayisenga,93,Govt,DOC0006,B-,Muhanga
+P1148,regis nteziryayo,88,N/A,DOC0023,B-,Muhanga
+P1793,Hugues Niyigena,59,None,DOC0003,O+,Musanze
+P1457,Joseph Bizimana,59,GOV,DOC0016,AB+,Kigali
+P2859,Elise Rukundo,69,None,DOC0020,B-,Gisenyi
+P3216,Jacques Uwamahoro,71,None,DOC0025,A+,Huye
+P0551,carine nshuti,53,privatte,DOC0001,AB-,Huye
+P1396, Simon Dusabe ,71,None,DOC0018,A+,Rubavu
+P2269,bertrand uwase,82,Private,DOC0013,O+,Rubavu
+P1936,Omar Nzabonimpa,93,PUBLic,DOC0015,O+,Musanze
+P2905,Therese Kabanda,88,GOV,DOC0020,B+,Rubavu
+P2015,Anitha Uwase,67,Public,DOC0026,AB+,Rubavu
+P0246,Samuel Kalisa,84,PUBLic,DOC0020,A-,Rubavu
+P2212, Ignace Imanishimwe ,49,PUBLic,DOC0017,B+,Rubavu
+P2504,faustin uwayo,91,N/A,DOC0025,A-,Kigali
+P3112,Theoneste Gatera,87,None,DOC0022,A+,Muhanga
+P1034,Florence Tuyisenge,71,Govt,DOC0016,O-,Muhanga
+P2047,Benoit Nshuti,84,Govt,DOC0010,A+,Musanze
+P2538,Irene Teta,72,Private,DOC0018,A-,Musanze
+P1428,marie nshuti,83,Private,DOC0010,B-,Gisenyi
+P0121, Justine Nshuti ,65,privatte,DOC0019,O+,Huye
+P2123,Frank Nzabonimpa,68,PUBLic,DOC0012,A+,Kigali
+P0167, Odette Hirwa ,79,N/A,DOC0007,O-,Gisenyi
+P2684,Yvette Habyarimana,76,Govt,DOC0002,B+,Muhanga
+P0024,Louise Cyusa,59,N/A,DOC0023,O+,Muhanga
+P0265,SANDRINE IRAKOZE,47,None,DOC0017,B+,Huye
+P3033,ROGER DUSABE,81,N/A,DOC0020,A+,Muhanga
+P1580,Elodie Gatabazi,64,Govt,DOC0001,A-,Gisenyi
+P0376,EUGENIE MANIRAKIZA,64,privatte,DOC0003,B-,Rubavu
+P2409,IRENE KABERA,86,PUBLic,DOC0009,A+,Muhanga
+P2753,jacques kamana,73,Public,DOC0025,B+,Musanze
+P2757,Theoneste Ntirushwa,41,Public,DOC0021,B-,Huye
+P2637,Joseph Ndahimana,47,Govt,DOC0018,AB-,Huye
+P2153,Ines Ndayisenga,78,None,DOC0009,A+,Rubavu
+P1731,hyacinthe kamana,83,PUBLic,DOC0002,B+,Gisenyi
+P0154,Faustin Giraneza,73,N/A,DOC0017,A-,Kigali
+P1575,Guillaume Uwizeyimana,95,Govt,DOC0009,AB+,Rubavu
+P1578,Xavier Ndahimana,74,privatte,DOC0019,AB-,Gisenyi
+P2115,Germain Keza,75,Private,DOC0016,AB-,Huye
+P1757,RACHEL IRAKOZE,40,GOV,DOC0005,AB+,Musanze
+P2877, Arsene Habyarimana ,65,Private,DOC0001,O-,Kigali
+P1496,Janvier Kamana,76,GOV,DOC0005,O-,Muhanga
+P0433,Georges Uwayo,70,N/A,DOC0022,O+,Rubavu
+P0761,Honore Niyigena,69,N/A,DOC0004,O-,Huye
+P1118,Regis Rukundo,74,None,DOC0003,AB+,Huye
+P1576,GUY IRANKUNDA,92,PUBLic,DOC0022,B+,Musanze
+P1026, Henri Nzabonimpa ,50,PUBLic,DOC0018,B-,Muhanga
+P1078,Joseph Uwizeyimana,73,None,DOC0009,O+,Muhanga
+P1226,Remi Kazungu,84,privatte,DOC0001,B-,Muhanga
+P3206,samuel ishimwe,80,Public,DOC0017,B-,Musanze
+P1989,HASSAN UWIZEYIMANA,70,Private,DOC0020,AB-,Musanze
+P0186,chantal kayitare,70,None,DOC0024,AB-,Muhanga
+P1111,Justine Ndahimana,46,Private,DOC0020,A-,Muhanga
+P0693,Ange Kamanzi,85,PUBLic,DOC0023,B+,Gisenyi
+P0725,Aline Shema,89,GOV,DOC0023,A+,Rubavu
+P3027,Simon Ndacyayisenga,95,GOV,DOC0009,B+,Rubavu
+P2436,GRACE NZARAMBA,69,privatte,DOC0017,B-,Huye
+P1698,Eric Umutoni,56,GOV,DOC0015,B+,Muhanga
+P0386,aubin uwayo,76,N/A,DOC0014,A+,Rubavu
+P2457,Honorat Mwiza,68,N/A,DOC0022,O+,Rubavu
+P0408,ANGELIQUE NIYONSENGA,73,Public,DOC0009,O-,Kigali
+P1206,Alain Nshuti,49,None,DOC0003,O+,Musanze
+P0824,DAVID YANKURIJE,84,PUBLic,DOC0026,A-,Rubavu
+P0992,Thomas Ndahimana,47,Public,DOC0025,A-,Kigali
+P1686, Gisele Ngendahimana ,86,Govt,DOC0024,B-,Kigali
+P0951,vincent dushimimana,57,Private,DOC0005,O-,Gisenyi
+P2213,irene mazimpaka,70,Private,DOC0002,AB-,Muhanga
+P1135,Sandrine Niyibizi,80,Private,DOC0015,AB-,Huye
+P0579,Luc Habimana,93,PUBLic,DOC0010,AB+,Musanze
+P1495,Eric Manirakiza,41,N/A,DOC0010,A-,Kigali
+P1246,JULIETTE IRANKUNDA,91,None,DOC0002,A-,Muhanga
+P2400,Juliette Dusingizimana,78,Private,DOC0024,A+,Muhanga
+P0067,celestin habyarimana,70,PUBLic,DOC0005,O-,Huye
+P3102,leonidas mugisha,72,Govt,DOC0010,A-,Musanze
+P0656,Gabriel Ingabire,63,None,DOC0002,O+,Gisenyi
+P0550,Olivier Dushimimana,64,Private,DOC0005,A-,Muhanga
+P3140,Frederic Gatabazi,71,N/A,DOC0015,B+,Muhanga
+P2531,Luc Mutesi,72,PUBLic,DOC0019,O-,Huye
+P1193,Emile Ufitinema,72,None,DOC0015,O-,Kigali
+P0474, Patrick Uwamahoro ,77,PUBLic,DOC0026,B+,Huye
+P0835,MOISE NTEZIRYAYO,42,GOV,DOC0012,B-,Musanze
+P1847,Marie Sebazungu,94,Govt,DOC0015,A+,Huye
+P2042,Odette Kayitare,71,None,DOC0006,O+,Huye
+P2605, Louis Habyarimana ,88,Public,DOC0010,O-,Huye
+P1538,BENJAMIN ISHIMWE,72,GOV,DOC0020,O+,Huye
+P1790,ESTHER UWASE,76,GOV,DOC0001,AB-,Kigali
+P2850,Marc Irankunda,75,Private,DOC0010,O+,Kigali
+P2028,marguerite dushimimana,78,GOV,DOC0017,A+,Gisenyi
+P0919,Marcel Murenzi,57,Private,DOC0010,A+,Rubavu
+P0113,CLAUDE DUSINGIZIMANA,75,Govt,DOC0020,B+,Musanze
+P0844,Theogene Ngendahimana,79,N/A,DOC0015,AB+,Rubavu
+P2675,Victor Nteziryayo,84,Public,DOC0026,AB+,Musanze
+P2477,Serge Nteziryayo,70,GOV,DOC0021,AB-,Muhanga
+P3048,Charles Kayitare,74,PUBLic,DOC0007,A-,Muhanga
+P2780,Felicien Ganza,95,None,DOC0017,O+,Kigali
+P1853,Aline Munyaneza,81,GOV,DOC0011,B+,Rubavu
+P2711,Jonas Murenzi,41,GOV,DOC0018,A-,Musanze
+P2994,THIERRY UMUHOZA,70,GOV,DOC0002,AB-,Kigali
+P1448,Gaetan Irakoze,75,Govt,DOC0019,B+,Huye
+P0061,Christian Umutoni,84,Private,DOC0012,O+,Rubavu
+P1755,DIEUDONNE SHEMA,48,Private,DOC0016,A-,Gisenyi
+P0980,Mathieu Rukundo,73,GOV,DOC0005,A-,Kigali
+P2247,Vincent Uwizeyimana,48,Public,DOC0001,O+,Huye
+P0687,Divine Kabanda,56,PUBLic,DOC0011,AB+,Musanze
+P0237,Pascal Teta,56,None,DOC0021,AB-,Rubavu
+P0677, Isaac Bimenyimana ,74,PUBLic,DOC0020,O-,Huye
+P0772, Beatrice Twahirwa ,70,Private,DOC0001,O-,Huye
+P2947,Sebastien Twahirwa,58,Private,DOC0025,O-,Rubavu
+P2029,Sylvie Habimana,65,N/A,DOC0025,O-,Musanze
+P1004,Edouard Ngendahimana,44,None,DOC0005,O+,Musanze
+P0488, Julien Gatete ,73,GOV,DOC0002,A-,Kigali
+P2283,Thomas Teta,82,N/A,DOC0006,AB+,Kigali
+P2762, Diane Imanishimwe ,75,N/A,DOC0024,O-,Muhanga
+P1236,Noella Mazimpaka,50,GOV,DOC0021,AB-,Huye
+P1401,Noel Uwizeyimana,74,GOV,DOC0023,A+,Kigali
+P0026, Hugues Sebazungu ,94,GOV,DOC0008,B-,Kigali
+P2980,Bosco Ufitinema,92,privatte,DOC0002,O-,Muhanga
+P1971,Xavier Tuyisenge,93,None,DOC0003,AB+,Muhanga
+P0238,Bruno Ishimwe,75,Private,DOC0020,B+,Rubavu
+P0876,Anna Rugamba,89,None,DOC0026,O-,Gisenyi
+P2485, Martine Irankunda ,76,Private,DOC0008,A-,Huye
+P0436,Florence Rukundo,86,GOV,DOC0009,A-,Muhanga
+P0336,Louise Kamanzi,76,None,DOC0012,AB-,Kigali
+P3091,Ivan Gakire,79,Private,DOC0025,AB-,Kigali
+P3005,cedric ngendahimana,75,Public,DOC0002,O+,Huye
+P0840,MOISE NIYIGENA,63,Public,DOC0004,AB+,Rubavu
+P2864,Faustin Ganza,41,N/A,DOC0013,A-,Musanze
+P2855,helene kazungu,71,Govt,DOC0017,B-,Kigali
+P2314,HENRI KAREKEZI,83,Govt,DOC0006,AB-,Kigali
+P0965,Xavier Kazungu,79,None,DOC0006,B+,Musanze
+P2808,Nadia Kabera,74,PUBLic,DOC0008,B+,Kigali
+P0429,Fanny Irankunda,75,GOV,DOC0019,AB+,Gisenyi
+P2066, Sylvie Dusabe ,78,Public,DOC0003,A+,Kigali
+P1104, Aline Ruzindana ,49,Public,DOC0023,O-,Rubavu
+P0461,Thomas Habyarimana,83,PUBLic,DOC0011,AB+,Rubavu
+P0698,Germain Kamanzi,74,Govt,DOC0002,O-,Huye
+P0055,Rachel Kayiranga,93,PUBLic,DOC0023,AB-,Muhanga
+P2280,germain nsengimana,73,GOV,DOC0026,B+,Huye
+P1768,gilbert nsengimana,73,None,DOC0025,AB-,Huye
+P1142,ATHANASE BIMENYIMANA,87,None,DOC0020,B+,Musanze
+P1105, Jules Sebazungu ,85,privatte,DOC0010,A+,Kigali
+P0605,Bertrand Murenzi,73,Govt,DOC0010,A+,Huye
+P2120,divine uwamahoro,84,Private,DOC0003,AB-,Huye
+P0523,Therese Irakoze,56,PUBLic,DOC0012,B+,Huye
+P0150, Patrick Niyonsenga ,48,PUBLic,DOC0002,A-,Musanze
+P0007,ISMAIL GATABAZI,77,N/A,DOC0013,B-,Kigali
+P1343,Claire Uwase,58,privatte,DOC0009,AB-,Musanze
+P1208,Claire Murenzi,59,Govt,DOC0023,AB+,Muhanga
+P0254,Ismail Ingabire,41,Private,DOC0001,O-,Gisenyi
+P0745,Georges Kabera,86,privatte,DOC0018,A+,Rubavu
+P2282, Maurice Dusabe ,41,PUBLic,DOC0012,B+,Gisenyi
+P0934,Aline Uwayo,66,Public,DOC0003,O+,Muhanga
+P1836,Raymond Ishimwe,91,N/A,DOC0005,B-,Muhanga
+P0665,Cedric Umuhoza,59,privatte,DOC0001,A+,Muhanga
+P0505,Joseph Bimenyimana,49,GOV,DOC0006,O+,Musanze
+P0617,theogene murenzi,70,Public,DOC0023,B+,Muhanga
+P1803,thierry ndagijimana,76,PUBLic,DOC0010,B+,Gisenyi
+P1307,Mathieu Nteziryayo,60,PUBLic,DOC0022,A-,Rubavu
+P2437,Isidore Giraneza,83,GOV,DOC0006,O-,Muhanga
+P0521,Julien Niyonsenga,42,privatte,DOC0012,O+,Gisenyi
+P3119,Justine Gashugi,66,Private,DOC0023,AB-,Rubavu
+P2154,Theogene Keza,76,None,DOC0009,O+,Muhanga
+P1667,Felicien Dusabe,93,Private,DOC0010,A-,Rubavu
+P0434,fabien ganza,78,Public,DOC0009,AB+,Muhanga
+P1785,Desire Ndagijimana,72,Private,DOC0007,O+,Huye
+P1646,Maxime Gashugi,77,Govt,DOC0019,AB-,Kigali
+P0541,Yves Ntirushwa,89,Public,DOC0026,A+,Gisenyi
+P2647,Guillaume Ndacyayisenga,74,Private,DOC0012,A+,Gisenyi
+P0785,regis mwiza,79,PUBLic,DOC0015,B-,Kigali
+P0497,Isidore Gakire,95,Govt,DOC0024,AB-,Kigali
+P1867,Xavier Mugisha,91,privatte,DOC0004,AB-,Huye
+P1657,SEBASTIEN MAZIMPAKA,49,privatte,DOC0006,B+,Rubavu
+P0056,gaetan sebazungu,87,Private,DOC0009,B+,Muhanga
+P1930,Louis Nsabimana,82,N/A,DOC0007,AB-,Huye
+P1621,Paul Gatete,71,PUBLic,DOC0009,B+,Rubavu
+P2143,Aurelie Kayiranga,92,Govt,DOC0002,B+,Rubavu
+P1559,Therese Umuhoza,55,Govt,DOC0008,B+,Gisenyi
+P3015,Suzanne Gatabazi,59,Public,DOC0003,B-,Rubavu
+P2157,Clement Niyibizi,87,GOV,DOC0021,AB-,Muhanga
+P3007,Eugenie Uwase,61,Public,DOC0011,A-,Musanze
+P0405,ETIENNE KABANDA,40,PUBLic,DOC0003,AB-,Musanze
+P1977,Isidore Tuyisenge,77,Public,DOC0009,O-,Rubavu
+P2489,eugene dushimimana,77,PUBLic,DOC0016,AB-,Muhanga
+P0544,Anais Sebazungu,74,None,DOC0009,O-,Gisenyi
+P2323,Antoine Giraneza,90,Public,DOC0024,A+,Musanze
+P1389,Bernard Nzaramba,71,N/A,DOC0002,O-,Gisenyi
+P2823,Charles Kamali,84,N/A,DOC0026,A+,Muhanga
+P1607,Ismail Nzabonimpa,92,None,DOC0015,B+,Huye
+P2261, Stephanie Shema ,48,Govt,DOC0004,B+,Gisenyi
+P0406, Nicole Gakire ,55,Govt,DOC0025,B-,Musanze
+P2721,Marcel Rugamba,80,N/A,DOC0004,AB-,Musanze
+P0986,Frank Ngendahimana,47,GOV,DOC0004,O+,Huye
+P1649,Ariane Yankurije,71,N/A,DOC0007,AB+,Kigali
+P0205,Roger Ugiraneza,70,Private,DOC0007,B+,Huye
+P0495,diane kamana,77,N/A,DOC0008,AB-,Musanze
+P2441,Desire Rukundo,94,Public,DOC0022,A+,Huye
+P3196,Nadia Umutoni,64,Public,DOC0001,O-,Gisenyi
+P3172,Fidele Nsengimana,94,None,DOC0019,AB-,Rubavu
+P1243,kevin kamali,87,Public,DOC0022,B+,Kigali
+P1195,Etienne Dusingizimana,76,PUBLic,DOC0026,A+,Rubavu
+P1179,Vincent Niyonsenga,89,Public,DOC0022,A-,Rubavu
+P1024, Claude Ntirushwa ,77,privatte,DOC0011,O+,Rubavu
+P2223,Martin Kamana,57,Govt,DOC0012,O-,Muhanga
+P3197,Yves Habimana,83,Public,DOC0023,B-,Gisenyi
+P0218, Jacqueline Murenzi ,51,GOV,DOC0023,AB+,Rubavu
+P3181, Lise Ngendahimana ,91,N/A,DOC0010,B+,Musanze
+P2868,Sebastien Irankunda,83,privatte,DOC0020,B+,Kigali
+P3126,Edith Ntirushwa,79,None,DOC0013,AB+,Gisenyi
+P1188,Fidele Giraneza,94,N/A,DOC0011,B-,Muhanga
+P1679,emile rukundo,82,None,DOC0007,A-,Gisenyi
+P0034,Fidele Kamana,77,privatte,DOC0010,O-,Muhanga
+P3199,Janvier Mazimpaka,72,N/A,DOC0010,A-,Huye
+P2591, Esther Nsabimana ,91,PUBLic,DOC0009,AB+,Gisenyi
+P1479,BOSCO MUGISHA,66,PUBLic,DOC0003,AB-,Gisenyi
+P3013,Desire Kazungu,68,None,DOC0020,O+,Huye
+P0257,raymond munyaneza,77,privatte,DOC0012,AB+,Rubavu
+P2297,Honorat Ruzindana,74,Private,DOC0026,AB-,Muhanga
+P1383, Felicien Ntirushwa ,64,N/A,DOC0001,B+,Rubavu
+P0460,Richard Gasana,82,Public,DOC0018,A+,Rubavu
+P0886,Sylvere Ndagijimana,59,Public,DOC0002,AB+,Kigali
+P2771,Marguerite Gatabazi,43,Public,DOC0026,A-,Kigali
+P2573,Monique Niyibizi,82,Private,DOC0014,A-,Gisenyi
+P1959,Kevin Kazungu,91,privatte,DOC0005,B-,Rubavu
+P0185, Claudine Rukundo ,47,Private,DOC0015,O+,Muhanga
+P2796,Bernard Dusabe,74,None,DOC0012,O-,Musanze
+P0463,divine bizimana,82,Private,DOC0020,O-,Gisenyi
+P2913,Lise Dushimimana,87,privatte,DOC0002,B-,Rubavu
+P2425,Bruno Ruzindana,84,PUBLic,DOC0020,B+,Musanze
+P0402,Helene Nsengimana,48,privatte,DOC0014,AB+,Huye
+P0457,Ariane Cyusa,76,privatte,DOC0023,A-,Muhanga
+P2318,Eugenie Niyigena,78,Public,DOC0005,O+,Gisenyi
+P2526,HONORE BIZIMANA,93,None,DOC0018,O+,Huye
+P0308,Angelique Nsengimana,79,None,DOC0026,A+,Huye
+P1569,Clement Twahirwa,87,GOV,DOC0021,AB+,Rubavu
+P1456,Ben Mwiza,89,Private,DOC0012,A+,Gisenyi
+P1423,Justine Ndacyayisenga,57,N/A,DOC0009,AB+,Muhanga
+P2225,Emile Tuyisenge,82,Public,DOC0016,B+,Rubavu
+P1905,ANGE HAKIZIMANA,44,None,DOC0019,O+,Kigali
+P0629, Martine Habyarimana ,70,GOV,DOC0020,O+,Huye
+P2756,Gabriel Nsabimana,91,Private,DOC0008,A-,Musanze
+P0105,lea dusingizimana,89,GOV,DOC0018,A-,Muhanga
+P1715,bruno kabera,73,Public,DOC0001,AB+,Gisenyi
+P1652,Sylvere Ishimwe,82,N/A,DOC0025,O+,Kigali
+P0514,David Giraneza,46,privatte,DOC0010,AB-,Huye
+P1837,suzanne gasana,66,Govt,DOC0012,B+,Huye
+P1843, Jacques Kazungu ,68,Govt,DOC0002,O+,Gisenyi
+P0310,Martin Shema,63,N/A,DOC0016,A-,Rubavu
+P0087,DESIRE KEZA,84,None,DOC0013,O+,Huye
+P2530,Jerome Hirwa,88,privatte,DOC0012,O-,Huye
+P0292,MONIQUE DUSINGIZIMANA,67,Govt,DOC0017,AB+,Kigali
+P0045,isabelle yankurije,49,Private,DOC0003,B-,Kigali
+P0359,Ines Imanishimwe,94,N/A,DOC0005,A-,Muhanga
+P2581,Honore Tuyisenge,93,None,DOC0002,O-,Kigali
+P1072, Ferdinand Uwimana ,62,Private,DOC0022,O+,Gisenyi
+P1941, Maurice Ntirushwa ,68,PUBLic,DOC0008,O-,Gisenyi
+P0873,Janvier Bimenyimana,73,Private,DOC0023,B+,Huye
+P1350,Valerie Karangwa,50,privatte,DOC0013,A+,Musanze
+P0973,Luc Uwamahoro,73,PUBLic,DOC0020,B-,Musanze
+P1764,felicien irankunda,77,Govt,DOC0007,B-,Rubavu
+P2315,Odette Uwase,56,GOV,DOC0012,B+,Musanze
+P2236, Rose Niyigena ,81,GOV,DOC0002,A+,Huye
+P1827,Janvier Teta,72,Govt,DOC0004,B+,Muhanga
+P2784,Germain Ngendahimana,75,GOV,DOC0002,O-,Rubavu
+P0769,Patrick Bimenyimana,86,N/A,DOC0001,B-,Gisenyi
+P0584,Yves Uwizeyimana,88,Private,DOC0024,B-,Kigali
+P0318, Juliette Shema ,63,GOV,DOC0014,AB+,Gisenyi
+P2199,Sophie Ndacyayisenga,58,N/A,DOC0025,A-,Kigali
+P2772, Christophe Rugamba ,74,privatte,DOC0012,B+,Musanze
+P1497,Nathalie Irankunda,80,N/A,DOC0001,B-,Muhanga
+P2058,Didier Habyarimana,48,GOV,DOC0012,B-,Muhanga
+P0079,HUBERT UWASE,72,Public,DOC0009,O+,Gisenyi
+P1670,David Hakizimana,49,PUBLic,DOC0015,O+,Rubavu
+P2889, Jerome Mwiza ,87,GOV,DOC0002,O-,Muhanga
+P3074,dominique hirwa,85,Public,DOC0024,AB-,Gisenyi
+P3070,hassan rugamba,90,Govt,DOC0021,B-,Gisenyi
+P2243,Gaetan Karekezi,49,None,DOC0008,A-,Muhanga
+P0511,Emmanuel Rukundo,47,GOV,DOC0016,B-,Kigali
+P2345,Gilbert Ingabire,87,Public,DOC0018,A+,Musanze
+P0777,FELIX CYUSA,67,Public,DOC0021,B+,Muhanga
+P3233,Veronique Ingabire,71,N/A,DOC0002,AB+,Huye
+P0525,christine imanishimwe,94,Govt,DOC0022,A+,Kigali
+P2388, Bertrand Niyigena ,75,PUBLic,DOC0026,AB-,Rubavu
+P0633,Emile Niyonsenga,58,None,DOC0013,B-,Kigali
+P2134,Rose Ishimwe,87,privatte,DOC0021,AB+,Gisenyi
+P0027,IRENE GATERA,91,None,DOC0010,O+,Musanze
+P1079,Fabrice Twahirwa,84,GOV,DOC0020,A-,Rubavu
+P1742,Isaac Manirakiza,71,Private,DOC0012,B+,Gisenyi
+P1003,Nathalie Twahirwa,95,privatte,DOC0020,AB+,Gisenyi
+P1367,Noel Nzabonimpa,71,privatte,DOC0014,AB+,Muhanga
+P0102,Hassan Keza,74,privatte,DOC0018,B+,Musanze
+P0868,Thomas Twahirwa,94,Public,DOC0004,B-,Rubavu
+P1840,Pascal Umutoni,84,N/A,DOC0006,B-,Kigali
+P1529,claire kabera,95,None,DOC0024,B+,Kigali
+P1341,Vincent Ruzindana,74,privatte,DOC0015,AB+,Musanze
+P2946,Felix Niyonsenga,67,Private,DOC0015,A+,Kigali
+P0640,Thomas Gakire,74,Private,DOC0026,AB-,Rubavu
+P0566,HONORAT UMUTONI,80,None,DOC0017,B+,Gisenyi
+P0070,benjamin niyonsenga,73,Public,DOC0007,B+,Huye
+P1424,Jeanne Rugamba,65,Govt,DOC0024,AB+,Muhanga
+P1678,Nadia Mutesi,95,privatte,DOC0011,B+,Muhanga
+P1312, Hubert Teta ,44,N/A,DOC0011,O-,Musanze
+P2917,Lucien Nzabonimpa,88,PUBLic,DOC0024,B+,Kigali
+P0939,Martin Dusingizimana,70,Public,DOC0013,B-,Kigali
+P1522,Ange Kamana,62,privatte,DOC0010,B+,Kigali
+P1738,Claire Kagame,52,PUBLic,DOC0015,AB-,Kigali
+P0471,Carine Uwayo,61,Public,DOC0016,A-,Musanze
+P1445,Eugene Kamanzi,85,Private,DOC0023,A+,Rubavu
+P0612,Germain Ndacyayisenga,89,Public,DOC0006,AB-,Musanze
+P0791,Theoneste Gashugi,42,Public,DOC0012,AB+,Musanze
+P2921,Venant Gakire,86,None,DOC0017,B+,Rubavu
+P3014,Joseph Cyusa,45,PUBLic,DOC0015,A+,Muhanga
+P2833, David Niyigena ,43,privatte,DOC0007,B+,Musanze
+P1705,Emmanuel Uwase,53,None,DOC0025,A+,Musanze
+P2027,aline bizimana,93,Public,DOC0019,A+,Kigali
+P0273,Ines Nzaramba,45,N/A,DOC0004,B+,Musanze
+P0008,Claire Dusingizimana,69,None,DOC0026,AB+,Muhanga
+P0890, Martine Ndacyayisenga ,87,Govt,DOC0019,AB+,Gisenyi
+P1414,VALENS GATABAZI,90,GOV,DOC0017,O+,Muhanga
+P0080,Therese Byiringiro,51,N/A,DOC0010,AB-,Musanze
+P1042,Helene Niyonsenga,46,privatte,DOC0002,B+,Gisenyi
+P2958,Marine Tuyisenge,71,Private,DOC0022,B-,Gisenyi
+P0401,Olivier Kabanda,89,None,DOC0005,AB+,Muhanga
+P0196,Christophe Keza,61,privatte,DOC0022,AB-,Rubavu
+P3028,Aubin Ngendahimana,87,Private,DOC0007,B+,Rubavu
+P0437,Madeleine Gakire,79,GOV,DOC0019,O+,Rubavu
+P1689,Etienne Ndacyayisenga,72,Public,DOC0004,O+,Muhanga
+P2455,Elise Gatera,77,privatte,DOC0013,AB+,Kigali
+P0538,Venant Mutesi,49,Private,DOC0023,B-,Rubavu
+P2616,Yvonne Bizimana,93,N/A,DOC0003,O+,Kigali
+P1893,Gaston Cyusa,47,Public,DOC0003,O-,Huye
+P1056,Philippe Mugisha,71,PUBLic,DOC0018,A+,Gisenyi
+P2140,Claire Ndayisenga,76,Govt,DOC0009,A+,Gisenyi
+P1313,Anna Nsengimana,53,None,DOC0019,B-,Kigali
+P2402, Rose Mazimpaka ,78,Private,DOC0013,O+,Musanze
+P0967,Marcel Ndacyayisenga,63,Public,DOC0018,O+,Muhanga
+P1510,PATRICK SHEMA,74,Govt,DOC0011,B+,Muhanga
+P1491,DIANE GIRANEZA,45,Public,DOC0014,O+,Rubavu
+P0796,Eugene Dusingizimana,85,privatte,DOC0023,A-,Huye
+P0957,Irene Kabanda,47,GOV,DOC0001,B-,Kigali
+P2681,Doris Dusingizimana,79,Public,DOC0001,O-,Kigali
+P1674,edouard ndahimana,92,Govt,DOC0016,B+,Musanze
+P0968,Lea Nshuti,72,privatte,DOC0022,O-,Gisenyi
+P2177,Sylvere Gatabazi,64,N/A,DOC0012,O+,Rubavu
+P0768,Victor Gashugi,94,N/A,DOC0016,O-,Muhanga
+P1228,Arsene Keza,62,Public,DOC0023,A+,Kigali
+P1374,Honore Bimenyimana,74,N/A,DOC0009,A+,Kigali
+P1707,Eric Niyonsenga,70,N/A,DOC0026,B-,Huye
+P1430,ELIAS BIZIMANA,75,privatte,DOC0009,A+,Rubavu
+P1128,justine umutoni,92,N/A,DOC0008,B-,Huye
+P1797,Raymond Ndagijimana,72,PUBLic,DOC0008,AB+,Kigali
+P3085,SERGE MUNYANEZA,66,GOV,DOC0022,B+,Muhanga
+P1890,Etienne Gatete,74,Private,DOC0022,O+,Rubavu
+P1962,MOISE TUYISENGE,61,GOV,DOC0013,A+,Huye
+P2308,Omar Ndayisenga,70,N/A,DOC0009,B+,Kigali
+P1262,francois ngendahimana,87,PUBLic,DOC0008,AB+,Kigali
+P0117,Aime Ndahimana,72,Public,DOC0014,AB+,Kigali
+P3117,venant uwamahoro,58,None,DOC0011,AB-,Gisenyi
+P0096,NADIA CYUSA,95,privatte,DOC0022,O-,Gisenyi
+P1650,Immaculee Kayiranga,88,N/A,DOC0014,AB-,Rubavu
+P0587,Noella Habyarimana,45,privatte,DOC0024,B-,Rubavu
+P3092,Henri Kamana,65,Govt,DOC0002,A-,Gisenyi
+P1133,benoit nteziryayo,67,N/A,DOC0001,O-,Gisenyi
+P2456,fanny habyarimana,82,privatte,DOC0007,B-,Rubavu
+P2200,Emile Bizimana,73,Private,DOC0013,O-,Huye
+P0303,Louis Kamanzi,61,None,DOC0026,O+,Muhanga
+P0028,bernard niyibizi,81,Public,DOC0002,O+,Gisenyi
+P0864,desire gasana,67,Public,DOC0013,B+,Muhanga
+P2670,Beatrice Nzaramba,93,Public,DOC0023,A+,Musanze
+P2472,Mathieu Karangwa,53,Private,DOC0021,A+,Gisenyi
+P0108, Leonidas Umutoni ,42,GOV,DOC0018,O-,Gisenyi
+P2194,Fabien Mugisha,52,N/A,DOC0019,AB-,Kigali
+P3016,Kevin Bimenyimana,47,Govt,DOC0023,B+,Huye
+P2070,ALPHONSE GATETE,88,Private,DOC0011,A-,Huye
+P2003,felix bizimana,74,Govt,DOC0005,O+,Musanze
+P1770,Jules Dusingizimana,94,Private,DOC0009,AB+,Muhanga
+P1937,Richard Nshuti,95,PUBLic,DOC0007,A-,Rubavu
+P3060,Fabrice Gakire,74,N/A,DOC0012,A+,Huye
+P0251,Joseph Byiringiro,82,Govt,DOC0016,B-,Musanze
+P1147,Julien Kamanzi,88,Govt,DOC0022,B-,Huye
+P2099,Gilbert Nteziryayo,85,Public,DOC0004,O-,Musanze
+P1673,Isidore Rukundo,86,GOV,DOC0013,A+,Rubavu
+P2865,Charles Kagame,59,Private,DOC0015,AB-,Huye
+P1902,Suzanne Kabanda,71,Private,DOC0014,AB-,Muhanga
+P2392,Christophe Mazimpaka,65,N/A,DOC0012,A+,Musanze
+P0104,Felicien Yankurije,90,privatte,DOC0016,O+,Gisenyi
+P2601,Chantal Gasana,91,Private,DOC0024,AB-,Muhanga
+P1131,Aubin Kalisa,70,None,DOC0007,O-,Rubavu
+P2653,Serge Kayiranga,48,Govt,DOC0020,B+,Gisenyi
+P1329,Claire Irakoze,80,Public,DOC0020,B-,Musanze
+P0858, Jerome Kamanzi ,83,GOV,DOC0023,AB-,Musanze
+P2208,Olivier Karekezi,80,GOV,DOC0003,A-,Muhanga
+P2891,Laurent Ganza,69,Public,DOC0024,AB-,Muhanga
+P2818,Christophe Nzaramba,70,None,DOC0024,AB-,Muhanga
+P1628,Faustin Ndagijimana,50,PUBLic,DOC0021,B-,Rubavu
+P0136,Mathieu Mwiza,55,PUBLic,DOC0002,B+,Rubavu
+P0736,Honorat Habimana,79,privatte,DOC0017,AB-,Muhanga
+P2052,Hyacinthe Ngendahimana,85,Private,DOC0015,O-,Rubavu
+P0826,GASTON GATERA,47,privatte,DOC0014,AB-,Kigali
+P0095,Ferdinand Rukundo,69,privatte,DOC0007,O-,Huye
+P0325,Ariane Rukundo,76,Public,DOC0016,B+,Rubavu
+P1177,Marcel Kalisa,83,Private,DOC0006,O-,Huye
+P0451,Louise Ugiraneza,86,Private,DOC0008,A-,Muhanga
+P1123,VALERIE MURENZI,89,Private,DOC0003,AB-,Musanze
+P1266,Daniel Uwamahoro,89,Govt,DOC0016,AB+,Kigali
+P0621,Leonce Uwayo,79,Private,DOC0004,AB+,Gisenyi
+P1861,Marie Niyigena,63,Public,DOC0006,B-,Rubavu
+P2549,Anais Nsabimana,95,Public,DOC0008,A-,Muhanga
+P1818,ELIE KAMANA,76,Private,DOC0004,O+,Huye
+P2686,FERDINAND BYIRINGIRO,84,Private,DOC0003,B-,Rubavu
+P1524,Vincent Uwase,57,None,DOC0007,AB+,Rubavu
+P2238,Gaston Kalisa,95,None,DOC0015,A+,Kigali
+P1270,Diane Karekezi,57,PUBLic,DOC0004,O+,Musanze
+P1694, Gabriel Byiringiro ,77,N/A,DOC0018,A-,Rubavu
+P1782,thierry ndahimana,84,N/A,DOC0013,B+,Gisenyi
+P2769, Clementine Bimenyimana ,90,None,DOC0010,A+,Gisenyi
+P2398,VENANT GATABAZI,94,Govt,DOC0002,O-,Musanze
+P0737,Honore Nzabonimpa,88,Govt,DOC0002,B+,Musanze
+P0803,Thierry Ugiraneza,79,Private,DOC0013,AB+,Musanze
+P0534,Noella Nzabonimpa,71,N/A,DOC0025,AB-,Rubavu
+P2774,CLAUDE TUYISENGE,83,None,DOC0003,B+,Musanze
+P0345,venant hakizimana,78,Govt,DOC0006,O+,Muhanga
+P1476,Grace Mugisha,92,Public,DOC0016,A+,Muhanga
+P3090,Helene Shema,66,Private,DOC0017,A-,Huye
+P0414,Augustin Gasana,94,N/A,DOC0006,B-,Huye
+P0556, Valerie Nsengimana ,70,Private,DOC0010,B-,Muhanga
+P2846,Bertrand Twahirwa,83,None,DOC0013,A+,Kigali
+P2866,Isabelle Uwase,70,PUBLic,DOC0001,O+,Kigali
+P1946,Maxime Uwizeyimana,79,N/A,DOC0015,O+,Rubavu
+P0996,Christine Sebazungu,86,GOV,DOC0021,O-,Huye
+P0848,Michel Ndayisenga,70,N/A,DOC0019,B+,Huye
+P2481, Nadege Dushimimana ,95,N/A,DOC0007,A-,Kigali
+P2791,Emmanuel Rugamba,76,Private,DOC0025,B-,Huye
+P1447,Celestin Kazungu,73,privatte,DOC0010,O-,Musanze
+P2619,venant shema,70,GOV,DOC0001,A-,Kigali
+P2764,Dieudonne Karekezi,52,N/A,DOC0020,AB-,Rubavu
+P0083,ROGER MWIZA,78,Private,DOC0010,AB+,Gisenyi
+P1925, Louise Umuhoza ,88,Private,DOC0006,B+,Rubavu
+P1214,Jonas Giraneza,68,None,DOC0013,AB+,Rubavu
+P0415,isidore kagame,73,Govt,DOC0015,AB+,Huye
+P3218,Olivier Nteziryayo,69,privatte,DOC0009,B+,Huye
+P2326, Nadia Byiringiro ,91,privatte,DOC0015,B+,Rubavu
+P1412,Alphonse Ingabire,74,GOV,DOC0003,B-,Rubavu
+P0662,aubin kamali,70,privatte,DOC0018,AB-,Muhanga
+P1982,emmanuel manirakiza,82,Govt,DOC0026,AB+,Muhanga
+P0981,FLORENCE KALISA,43,Private,DOC0006,A+,Gisenyi
+P0727,Stephanie Imanishimwe,45,GOV,DOC0009,AB+,Musanze
+P1449,Odette Shema,95,Govt,DOC0008,A-,Gisenyi
+P0510,Alain Mwiza,56,N/A,DOC0014,B+,Rubavu
+P2379,Joseph Umutoni,91,Private,DOC0003,A+,Huye
+P0732,Benjamin Nsabimana,71,Public,DOC0020,A-,Musanze
+P0784, Christine Gatete ,83,Govt,DOC0022,B+,Rubavu
+P1057,Hugues Niyonsenga,73,N/A,DOC0023,AB-,Huye
+P1802,Sylvere Gatete,73,privatte,DOC0002,B-,Muhanga
+P1641,DAVID NDAGIJIMANA,70,GOV,DOC0019,A-,Kigali
+P0979,Claude Gatabazi,70,N/A,DOC0022,B+,Muhanga
+P2022,Sophie Hirwa,54,N/A,DOC0005,B+,Muhanga
+P0650,Joel Gakire,95,GOV,DOC0016,AB+,Huye
+P1205, Antoine Rugamba ,75,N/A,DOC0022,B-,Kigali
+P0464,desire habyarimana,71,Private,DOC0007,A+,Musanze
+P2046,Diane Irankunda,90,GOV,DOC0004,B+,Rubavu
+P1780, Veronique Niyonsenga ,75,N/A,DOC0005,B+,Rubavu
+P2883,Honorat Sebazungu,75,Public,DOC0006,AB+,Musanze
+P3025,Florence Kamana,44,Private,DOC0017,B+,Gisenyi
+P0971,Josiane Dusingizimana,87,Govt,DOC0022,AB-,Rubavu
+P1293,Athanase Nzaramba,58,PUBLic,DOC0009,B-,Muhanga
+P1378,CHRISTINE NZABONIMPA,70,privatte,DOC0007,O+,Musanze
+P3034,Elias Gashugi,78,PUBLic,DOC0012,B+,Kigali
+P1791,Noella Niyibizi,70,privatte,DOC0025,O+,Musanze
+P0484, Valerie Twahirwa ,74,privatte,DOC0018,B-,Gisenyi
+P2863,Beatrice Ntirushwa,73,PUBLic,DOC0015,AB+,Rubavu
+P0343,ariane nteziryayo,64,Private,DOC0007,B-,Kigali
+P1633,Alain Uwimana,70,None,DOC0012,B-,Rubavu
+P2809,ANAIS RUZINDANA,76,Govt,DOC0012,AB+,Gisenyi
+P3053,Rene Kazungu,85,Public,DOC0005,B-,Musanze
+P3213,CHRISTINE KAMALI,83,Private,DOC0011,O+,Huye
+P3225, Mathieu Mutesi ,71,Govt,DOC0017,AB-,Rubavu
+P0994,Omar Mugisha,72,None,DOC0013,O-,Musanze
+P1924, Paul Uwayo ,84,PUBLic,DOC0021,A+,Musanze
+P3161,David Ishimwe,91,None,DOC0017,A+,Muhanga
+P0823,Jacques Ngendahimana,93,PUBLic,DOC0018,B+,Gisenyi
+P0172,Roger Umutoni,82,Public,DOC0019,O+,Gisenyi
+P2871,Celestin Gatete,80,PUBLic,DOC0012,AB+,Musanze
+P2332,Celestin Yankurije,88,PUBLic,DOC0012,AB+,Huye
+P2822,Divine Niyibizi,87,privatte,DOC0015,O-,Rubavu
+P2941,ATHANASE RUZINDANA,44,Govt,DOC0004,B+,Rubavu
+P1570,Bernard Ganza,79,Public,DOC0026,O+,Musanze
+P2478,Guillaume Kabera,53,None,DOC0025,O-,Muhanga
+P2454,Ariane Sebazungu,77,None,DOC0024,B-,Muhanga
+P1531,Stephanie Rugamba,80,Private,DOC0004,O-,Musanze
+P1700, Victor Uwamahoro ,74,Govt,DOC0023,B+,Muhanga
+P0569, Cedric Munyaneza ,84,Private,DOC0001,O+,Rubavu
+P1855,Frederic Twahirwa,92,PUBLic,DOC0014,O+,Musanze
+P2703,Laurent Gatabazi,49,None,DOC0022,B+,Rubavu
+P1789,GAETAN KEZA,88,Govt,DOC0022,AB+,Musanze
+P2227,Jeanne Gakire,70,Govt,DOC0020,B+,Gisenyi
+P0475, Martine Rukundo ,95,None,DOC0021,O-,Kigali
+P1211,Carine Gatete,93,Private,DOC0003,A+,Kigali
+P1281, Ivan Mwiza ,78,privatte,DOC0020,O+,Kigali
+P2748,Guillaume Ndagijimana,80,N/A,DOC0003,O+,Muhanga
+P0017,Philippe Tuyisenge,57,Govt,DOC0018,B+,Huye
+P1741,DONAT KAYIRANGA,84,N/A,DOC0010,AB-,Kigali
+P1235,Therese Ugiraneza,84,PUBLic,DOC0001,O+,Rubavu
+P2479,Solange Ndayisenga,92,Public,DOC0007,O-,Huye
+P1006,Theoneste Niyibizi,87,GOV,DOC0014,O-,Muhanga
+P1684,kevin imanishimwe,63,privatte,DOC0023,A-,Gisenyi
+P2023,Divine Kayitare,67,PUBLic,DOC0006,B+,Kigali
+P2583, Marine Nshuti ,56,Public,DOC0017,A-,Musanze
+P2487,Desire Uwayo,93,GOV,DOC0025,AB-,Musanze
+P0116,Noel Ruzindana,76,privatte,DOC0011,A-,Kigali
+P1743,Jacques Niyigena,95,privatte,DOC0011,O+,Gisenyi
+P1775, Immaculee Irankunda ,44,Private,DOC0020,AB-,Muhanga
+P2296,Ignace Uwayo,93,Private,DOC0020,B-,Musanze
+P1099,emmanuel habyarimana,60,N/A,DOC0001,B+,Musanze
+P0426,Aurelie Sebazungu,95,Public,DOC0003,O-,Rubavu
+P1717,HUGUES DUSHIMIMANA,68,PUBLic,DOC0023,AB+,Rubavu
+P2695,noella ndayisenga,85,None,DOC0018,AB-,Kigali
+P1536,Claudine Karekezi,93,GOV,DOC0001,O+,Rubavu
+P1508,Emmanuel Giraneza,90,Govt,DOC0014,B-,Rubavu
+P0211,Benjamin Ntirushwa,66,None,DOC0010,A+,Rubavu
+P2862,GASPARD GASHUGI,89,Public,DOC0017,O+,Gisenyi
+P3068,Alain Uwizeyimana,80,N/A,DOC0016,A+,Rubavu
+P2507,Sylvain Uwamahoro,94,Public,DOC0013,O+,Huye
+P2272,Irene Ndagijimana,71,privatte,DOC0001,B-,Rubavu
+P2555,Frank Ndagijimana,86,GOV,DOC0004,AB+,Rubavu
+P0648,Venant Keza,83,None,DOC0019,B+,Musanze
+P3081,Roger Byiringiro,72,Govt,DOC0025,A+,Huye
+P2433,Irene Ngendahimana,85,PUBLic,DOC0004,AB-,Musanze
+P3153,Elodie Giraneza,55,privatte,DOC0005,AB-,Rubavu
+P3173,Philippe Irakoze,70,Govt,DOC0014,A+,Muhanga
+P3103,Ange Umutoni,89,N/A,DOC0009,AB+,Gisenyi
+P1944,Xavier Nshuti,57,Private,DOC0019,O+,Huye
+P1465,Pierre Teta,93,Govt,DOC0026,A+,Musanze
+P0202,Simon Ishimwe,84,GOV,DOC0016,O-,Musanze
+P0259,Rachel Kazungu,87,N/A,DOC0021,A+,Musanze
+P3065,Maxime Nsabimana,67,Govt,DOC0002,A-,Gisenyi
+P0759,DIVINE TWAHIRWA,44,Govt,DOC0001,O+,Muhanga
+P2080,Thomas Yankurije,41,Govt,DOC0009,B-,Musanze
+P2744,Immaculee Ufitinema,55,N/A,DOC0005,A-,Rubavu
+P0347,Roland Gashugi,54,Public,DOC0013,A-,Kigali
+P3041,Dieudonne Keza,43,N/A,DOC0014,O+,Huye
+P1557,Claude Shema,94,Govt,DOC0018,O-,Huye
+P2105,Donat Twahirwa,62,PUBLic,DOC0001,B+,Muhanga
+P2368,JEROME KAYITARE,56,Public,DOC0014,A+,Gisenyi
+P1562,Hyacinthe Ingabire,87,None,DOC0023,AB-,Muhanga
+P2182,Florence Uwase,57,Private,DOC0017,AB-,Gisenyi
+P2685,Stephanie Gakire,59,Public,DOC0008,A-,Muhanga
+P0802,Christine Dusingizimana,79,Govt,DOC0009,B-,Rubavu
+P2852,JEROME YANKURIJE,90,None,DOC0019,B-,Rubavu
+P2240,Josiane Nshuti,49,PUBLic,DOC0008,AB+,Huye
+P0647,martin gakire,92,Public,DOC0001,O-,Muhanga
+P1832,Marc Hakizimana,58,Public,DOC0021,O+,Kigali
+P0103,Claire Ndacyayisenga,93,privatte,DOC0021,B-,Muhanga
+P0847,Samuel Ndayisenga,49,privatte,DOC0025,A-,Muhanga
+P1868, Claude Habimana ,65,GOV,DOC0022,O-,Muhanga
+P3176,Solange Byiringiro,74,Private,DOC0015,AB+,Gisenyi
+P2422,nadege nshuti,57,Public,DOC0003,B-,Musanze
+P2173,Chantal Nsabimana,77,Govt,DOC0023,O+,Rubavu
+P2697,Claire Cyusa,77,Public,DOC0009,A-,Muhanga
+P2493,Daniel Nsengimana,79,None,DOC0002,A-,Huye
+P0140,Pierre Nzabonimpa,71,PUBLic,DOC0014,B+,Kigali
+P3113, Isaac Byiringiro ,55,GOV,DOC0026,B-,Kigali
+P2430,Guy Uwizeyimana,74,Private,DOC0011,O-,Gisenyi
+P0989,Rose Habimana,76,Govt,DOC0009,A+,Gisenyi
+P1736, Theogene Dusingizimana ,95,PUBLic,DOC0009,B+,Kigali
+P1826,Leonce Ishimwe,78,N/A,DOC0008,B-,Kigali
+P3039,Gisele Uwizeyimana,84,Public,DOC0003,AB+,Muhanga
+P0624,Aime Hakizimana,59,PUBLic,DOC0019,B-,Gisenyi
+P1505, David Kamanzi ,89,privatte,DOC0007,O+,Gisenyi
+P2689,JOEL IRANKUNDA,79,privatte,DOC0007,B-,Huye
+P2342,Regis Kamana,86,Public,DOC0013,A+,Gisenyi
+P0031,Hassan Niyonsenga,74,PUBLic,DOC0001,B-,Kigali
+P1636,JONAS HABIMANA,56,privatte,DOC0015,AB+,Rubavu
+P1739,Jean Sebazungu,71,None,DOC0020,O-,Huye
+P1347, Sandrine Kabanda ,54,N/A,DOC0025,O-,Rubavu
+P1999,Patrick Habimana,43,GOV,DOC0005,O-,Muhanga
+P2935,Divine Kamali,88,Private,DOC0001,O-,Musanze
+P0009,Isaac Uwimana,95,None,DOC0012,B+,Musanze
+P2093,Pascal Nshuti,63,privatte,DOC0001,O-,Huye
+P2742, Therese Niyigena ,60,Private,DOC0019,B+,Muhanga
+P3193,Justine Mazimpaka,58,PUBLic,DOC0009,B+,Huye
+P1813,Sophie Dusabe,46,PUBLic,DOC0016,B+,Rubavu
+P1786,OLIVIER GASANA,85,N/A,DOC0024,O+,Gisenyi
+P2766,Yvette Uwizeyimana,79,Public,DOC0005,B-,Musanze
+P2467,Noel Ngendahimana,94,GOV,DOC0009,B+,Gisenyi
+P1602,Emile Uwizeyimana,42,None,DOC0008,AB+,Musanze
+P2234,Fabrice Keza,72,GOV,DOC0018,O+,Kigali
+P2100,Olivier Ngendahimana,65,None,DOC0002,O-,Huye
+P0037,Esther Karekezi,57,Public,DOC0018,AB-,Musanze
+P2264,GUY NSENGIMANA,89,None,DOC0010,AB-,Kigali
+P0690,Ferdinand Ruzindana,93,privatte,DOC0015,A-,Musanze
+P1110,Isabelle Tuyisenge,79,PUBLic,DOC0025,A-,Gisenyi
+P2896,Edith Karekezi,71,PUBLic,DOC0010,B-,Gisenyi
+P0581,hubert imanishimwe,70,N/A,DOC0011,O+,Huye
+P2354,Grace Nzabonimpa,47,GOV,DOC0026,O+,Huye
+P3183, Fanny Niyonsenga ,45,Govt,DOC0020,B+,Gisenyi
+P1112,remi ingabire,88,privatte,DOC0018,AB-,Muhanga
+P1345,ANNA KAREKEZI,74,N/A,DOC0026,B-,Muhanga
+P1138,GERMAIN IMANISHIMWE,91,Public,DOC0006,B+,Muhanga
+P2952,Francois Gatete,72,N/A,DOC0022,O-,Musanze
+P0867,fidele ndayisenga,72,Private,DOC0010,A+,Muhanga
+P1568,Louis Ugiraneza,81,Public,DOC0005,B-,Gisenyi
+P1883,Carine Ganza,82,GOV,DOC0008,O-,Musanze
+P1315,Dominique Yankurije,94,GOV,DOC0022,O+,Muhanga
+P0866,Ivan Mugisha,54,None,DOC0019,A-,Muhanga
+P3187,Louise Niyonsenga,60,None,DOC0012,A+,Rubavu
+P0730,Elodie Munyaneza,42,N/A,DOC0013,O+,Huye
+P1724, Irene Dushimimana ,70,Private,DOC0022,B+,Musanze
+P2529,Claudine Hakizimana,83,PUBLic,DOC0018,A+,Musanze
+P3222,Helene Habimana,84,privatte,DOC0011,B+,Rubavu
+P2856,BEATRICE MUTESI,72,PUBLic,DOC0007,A+,Kigali
+P2514,Theogene Nzaramba,79,GOV,DOC0006,O+,Rubavu
+P0062,Janvier Umuhoza,91,None,DOC0022,A-,Kigali
+P1302,Ferdinand Habyarimana,75,Govt,DOC0011,AB+,Huye
+P0787,Aurelie Karekezi,83,Govt,DOC0020,A+,Rubavu
+P2060,Felix Ingabire,42,Govt,DOC0017,O+,Musanze
+P2714,Noella Munyaneza,69,None,DOC0022,B+,Musanze
+P1788,GABRIEL HIRWA,92,None,DOC0013,O+,Huye
+P0003,Aline Uwizeyimana,75,Govt,DOC0014,AB+,Muhanga
+P1676,Bosco Niyigena,41,Govt,DOC0013,A+,Muhanga
+P1301,Marie Nzaramba,93,N/A,DOC0021,AB-,Rubavu
+P2239,Donat Dushimimana,80,PUBLic,DOC0016,B-,Huye
+P3162,yvonne ndayisenga,92,Public,DOC0004,AB-,Kigali
+P1784,Hassan Nsabimana,85,None,DOC0007,B+,Gisenyi
+P0831,Nadege Umutoni,77,Private,DOC0009,A-,Rubavu
+P1519,Veronique Rugamba,95,Private,DOC0024,O+,Muhanga
+P0144, Doris Umutoni ,77,Private,DOC0023,B-,Gisenyi
+P1166,Sebastien Nsabimana,71,N/A,DOC0022,O-,Kigali
+P2873,Esther Gatera,71,privatte,DOC0019,B-,Musanze
+P1574, Odette Niyibizi ,73,N/A,DOC0006,A+,Muhanga
+P3099,omar kamana,88,PUBLic,DOC0025,O-,Gisenyi
+P3242,VERONIQUE UWAYO,72,Private,DOC0020,A-,Muhanga
+P1852,Nathalie Cyusa,75,Private,DOC0008,A+,Huye
+P2533,Henri Ngendahimana,56,None,DOC0021,B-,Huye
+P3008,Maurice Dusingizimana,53,PUBLic,DOC0019,AB-,Huye
+P0025,Emmanuel Kagame,60,Public,DOC0022,AB+,Huye
+P1879,Henri Kamanzi,76,None,DOC0008,A-,Rubavu
+P1009,Benjamin Bimenyimana,87,None,DOC0001,B+,Huye
+P2138,Jules Kazungu,73,Govt,DOC0006,B+,Huye
+P1354,raymond kamana,89,PUBLic,DOC0020,B-,Gisenyi
+P0175,Hubert Tuyisenge,72,privatte,DOC0015,A-,Huye
+P0882, Marguerite Irakoze ,86,GOV,DOC0014,B+,Kigali
+P2577,Michel Ufitinema,84,Public,DOC0020,B+,Rubavu
+P0776,Elias Keza,80,Public,DOC0017,A+,Kigali
+P1654,Felix Uwamahoro,62,None,DOC0002,O+,Musanze
+P1681,ALPHONSE HAKIZIMANA,81,N/A,DOC0020,O-,Gisenyi
+P2095,Maxime Ishimwe,56,privatte,DOC0005,AB+,Gisenyi
+P1776,Florence Gatete,57,Govt,DOC0003,AB+,Gisenyi
+P2910,Rose Gatete,55,Public,DOC0011,O-,Huye
+P1792, Honore Niyibizi ,40,Govt,DOC0015,B+,Muhanga
+P1502,Ismail Rukundo,89,GOV,DOC0003,AB-,Gisenyi
+P0288,Philippe Ufitinema,46,Public,DOC0016,AB-,Muhanga
+P1864,GASPARD UFITINEMA,72,None,DOC0019,A-,Rubavu
+P2084,theoneste keza,87,privatte,DOC0007,A-,Gisenyi
+P0112,Ben Byiringiro,66,Public,DOC0024,O-,Musanze
+P2285,Lise Kayitare,64,Private,DOC0008,A-,Kigali
+P2552,Fabrice Giraneza,88,privatte,DOC0001,AB+,Gisenyi
+P0593,ROBERT KAMANA,89,Private,DOC0024,AB+,Rubavu
+P1076,jeanne kalisa,82,N/A,DOC0017,B-,Kigali
+P0270,Dieudonne Yankurije,65,privatte,DOC0004,AB-,Huye
+P1093, Ivan Ngendahimana ,54,privatte,DOC0020,B+,Gisenyi
+P1871,Fabien Habyarimana,64,None,DOC0001,A+,Gisenyi
+P2654,Mathieu Teta,56,Private,DOC0023,O+,Kigali
+P0825,Clement Munyaneza,55,Govt,DOC0008,AB-,Muhanga
+P1953,Ange Nsabimana,45,PUBLic,DOC0013,B-,Huye
+P1259,Marcel Mazimpaka,92,Private,DOC0021,A-,Kigali
+P2059,Anna Imanishimwe,72,GOV,DOC0020,A-,Huye
+P1025,Eugenie Ganza,92,Private,DOC0008,B+,Musanze
+P1425,nadia dusabe,50,privatte,DOC0004,O-,Rubavu
+P1046, Remi Karekezi ,75,Private,DOC0007,A+,Musanze
+P1196,Leonidas Uwayo,82,N/A,DOC0007,A-,Musanze
+P1769,Christian Twahirwa,80,None,DOC0005,B-,Gisenyi
+P2180,Eric Ntirushwa,45,privatte,DOC0007,B+,Musanze
+P0499,Antoine Gakire,90,privatte,DOC0023,B-,Musanze
+P2096, Bruno Irakoze ,57,Public,DOC0001,B+,Rubavu
+P3120,VERONIQUE GAKIRE,83,Private,DOC0013,AB-,Huye
+P2919,Alphonse Gakire,84,None,DOC0011,AB+,Huye
+P2168,Yvette Gatera,75,GOV,DOC0010,A-,Musanze
+P3122, Denise Teta ,68,privatte,DOC0002,B+,Huye
+P1047,XAVIER UWIZEYIMANA,65,Private,DOC0023,AB-,Rubavu
+P1299,Laurent Nteziryayo,70,None,DOC0004,O-,Rubavu
+P1492,Paul Niyigena,63,Private,DOC0014,O-,Huye
+P0811,Sylvain Gasana,75,GOV,DOC0001,O-,Kigali
+P1894,Thierry Ndayisenga,84,Govt,DOC0009,B-,Muhanga
+P2268, Yvonne Umuhoza ,62,PUBLic,DOC0018,O-,Huye
+P1060,Joel Gatabazi,83,GOV,DOC0026,A-,Muhanga
+P0704,Roger Uwizeyimana,89,Govt,DOC0022,O+,Gisenyi
+P1898,gabriel imanishimwe,51,Govt,DOC0014,AB-,Kigali
+P2025,Sophie Gatabazi,72,Private,DOC0023,O+,Gisenyi
+P0988,Yves Karangwa,71,None,DOC0009,B+,Kigali
+P3026,Jean Irankunda,51,N/A,DOC0003,B-,Muhanga
+P0481,elise uwimana,89,PUBLic,DOC0008,AB+,Rubavu
+P1278,DOMINIQUE NSENGIMANA,55,Govt,DOC0018,B+,Gisenyi
+P2719,suzanne dusingizimana,42,PUBLic,DOC0023,B-,Muhanga
+P2754,Janvier Yankurije,76,Public,DOC0018,B-,Rubavu
+P2819,Eliane Kagame,78,GOV,DOC0004,AB+,Gisenyi
+P0283,Marc Uwizeyimana,41,Govt,DOC0007,O-,Rubavu
+P1460,Edith Shema,71,None,DOC0010,AB+,Muhanga
+P1439,Dominique Uwimana,83,N/A,DOC0012,B+,Musanze
+P2152,Isaac Dusingizimana,80,GOV,DOC0013,B+,Gisenyi
+P1509,RACHEL GASANA,58,None,DOC0003,A+,Huye
+P3061, Christine Hirwa ,73,GOV,DOC0015,AB+,Rubavu
+P2118,Anna Nsabimana,73,Public,DOC0025,O-,Huye
+P2737,Leonidas Rukundo,56,PUBLic,DOC0024,AB+,Huye
+P0518, Suzanne Kagame ,71,N/A,DOC0025,O-,Muhanga
+P0749,Felix Habyarimana,54,Public,DOC0010,A-,Kigali
+P0915, Didier Kamanzi ,82,Govt,DOC0024,A-,Musanze
+P1233, Angelique Gatete ,69,Govt,DOC0018,A+,Huye
+P0910,MARTINE NTIRUSHWA,45,privatte,DOC0021,A-,Muhanga
+P2488,Bruno Kamanzi,74,Public,DOC0017,AB-,Kigali
+P0137,Aurelie Ndagijimana,72,GOV,DOC0020,O+,Rubavu
+P0638,Gilbert Nsabimana,79,privatte,DOC0006,B-,Gisenyi
+P1087,Fabrice Irakoze,90,GOV,DOC0006,B+,Muhanga
+P2447,Leonidas Nzabonimpa,72,Private,DOC0021,O+,Rubavu
+P3073,Divine Gasana,84,PUBLic,DOC0017,O+,Musanze
+P1269, Bernard Shema ,72,PUBLic,DOC0004,A-,Gisenyi
+P2150,Eliane Ndacyayisenga,93,N/A,DOC0005,AB+,Musanze
+P3224,Isabelle Kagame,84,GOV,DOC0022,B+,Gisenyi
+P2957,Serge Niyonsenga,53,Govt,DOC0001,AB-,Kigali
+P0616,Georges Uwimana,87,privatte,DOC0013,A+,Gisenyi
+P1877,Clement Dushimimana,76,privatte,DOC0002,AB-,Huye
+P1624,Valerie Bimenyimana,66,None,DOC0015,A-,Kigali
+P0057,Sophie Byiringiro,92,None,DOC0001,B-,Kigali
+P3178,Justine Kagame,49,Private,DOC0018,O-,Gisenyi
+P0711,Jacqueline Umutoni,76,GOV,DOC0008,B+,Musanze
+P2932,Valens Kagame,72,GOV,DOC0003,A-,Rubavu
+P1599,Josiane Gatete,65,None,DOC0012,O-,Kigali
+P1420,FIDELE UWAYO,66,privatte,DOC0015,A-,Rubavu
+P3100,gaetan niyonsenga,84,privatte,DOC0015,A+,Huye
+P1478,Isaac Rugamba,71,PUBLic,DOC0016,O-,Musanze
+P2815,Olivier Nzaramba,93,Public,DOC0020,AB+,Rubavu
+P0115,ALPHONSE CYUSA,78,PUBLic,DOC0022,A+,Huye
+P1304,Anais Bizimana,51,None,DOC0010,AB+,Kigali
+P2179,Guillaume Manirakiza,73,Public,DOC0007,A-,Kigali
+P0191,Gisele Kazungu,85,PUBLic,DOC0024,AB-,Kigali
+P2909,Roland Dushimimana,89,Govt,DOC0018,O+,Muhanga
+P2870,Regis Gasana,93,N/A,DOC0024,AB-,Huye
+P0114,MARC TWAHIRWA,69,GOV,DOC0001,A-,Rubavu
+P3052,Omar Gasana,87,N/A,DOC0010,AB+,Rubavu
+P2965,Eric Gatete,56,PUBLic,DOC0016,O+,Gisenyi
+P3056,FRANCOIS MURENZI,75,Govt,DOC0009,O-,Gisenyi
+P3237, Leonidas Sebazungu ,95,Private,DOC0020,B+,Huye
+P2983,Athanase Ngendahimana,91,GOV,DOC0021,B+,Muhanga
+P0741,Elie Nteziryayo,50,Govt,DOC0021,A-,Rubavu
+P1320,faustin kamana,76,N/A,DOC0006,AB-,Kigali
+P2797,Valens Gakire,83,Govt,DOC0015,AB+,Gisenyi
+P0634,Michel Rugamba,75,privatte,DOC0021,A+,Musanze
+P2592,Alphonse Kazungu,80,Public,DOC0018,A+,Gisenyi
+P0041,Xavier Munyaneza,73,Public,DOC0025,O+,Musanze
+P0389,Fabrice Uwimana,60,privatte,DOC0018,O-,Musanze
+P1884,Fidele Uwizeyimana,74,PUBLic,DOC0023,B-,Musanze
+P0462,Kevin Nshuti,95,privatte,DOC0020,B-,Rubavu
+P1663,Samuel Manirakiza,79,PUBLic,DOC0010,B-,Muhanga
+P2054,Olivier Niyigena,87,Public,DOC0014,AB-,Rubavu
+P2013,Lise Keza,60,N/A,DOC0004,A+,Musanze
+P3135,Victor Mwiza,71,privatte,DOC0025,A-,Gisenyi
+P0559,Fanny Ingabire,83,Public,DOC0025,A+,Kigali
+P2624,Noel Kagame,83,GOV,DOC0019,B+,Kigali
+P3204,Germain Ufitinema,53,PUBLic,DOC0011,A+,Kigali
+P1370,gisele ufitinema,60,Public,DOC0026,A+,Rubavu
+P2083,diane irakoze,93,PUBLic,DOC0012,AB-,Huye
+P3231,Alphonse Kayiranga,91,Govt,DOC0023,A+,Musanze
+P2767,Athanase Ishimwe,77,privatte,DOC0025,A+,Rubavu
+P2773,Moise Gatera,88,Govt,DOC0010,B+,Kigali
+P2733,ANNA SHEMA,95,privatte,DOC0003,O+,Muhanga
+P0678,Clementine Kagame,76,GOV,DOC0020,A+,Rubavu
+P3210,Eugenie Kamali,66,Public,DOC0024,O-,Rubavu
+P1379,Guy Shema,91,Private,DOC0020,AB+,Huye
+P1158,Irene Gatabazi,74,Public,DOC0011,AB+,Gisenyi
+P0338,GERMAIN UWAMAHORO,93,None,DOC0012,B+,Rubavu
+P3098,Sylvere Hakizimana,53,Public,DOC0024,B-,Kigali
+P2159,Leonidas Keza,72,Public,DOC0015,O+,Muhanga
+P2597,Solange Uwizeyimana,82,Private,DOC0022,AB-,Rubavu
+P2924,Ariane Niyibizi,80,N/A,DOC0002,B-,Gisenyi
+P0726,Esther Ugiraneza,71,N/A,DOC0003,O+,Gisenyi
+P2053,Angelique Kamanzi,87,privatte,DOC0023,A+,Rubavu
+P0712,Honore Kamali,90,privatte,DOC0007,A-,Muhanga
+P1547,Bruno Dusabe,41,N/A,DOC0021,O-,Gisenyi
+P3046, Arsene Imanishimwe ,72,privatte,DOC0009,A+,Rubavu
+P0081, Thierry Nshuti ,79,GOV,DOC0022,AB+,Rubavu
+P1365,Serge Dusingizimana,76,Private,DOC0003,B+,Huye
+P2222,hassan gatera,40,privatte,DOC0008,A-,Muhanga
+P2655,Kevin Hirwa,67,Private,DOC0012,B+,Musanze
+P2048,Theoneste Nteziryayo,72,PUBLic,DOC0015,AB-,Rubavu
+P1264,Ismail Ishimwe,88,GOV,DOC0005,A+,Huye
+P1644,Aime Rukundo,80,Govt,DOC0016,O+,Muhanga
+P3229,Vincent Ingabire,40,None,DOC0014,A-,Kigali
+P3000,ANITHA UFITINEMA,81,Public,DOC0015,A-,Rubavu
+P2778,jacques gatera,46,privatte,DOC0008,AB-,Musanze
+P0212,Jonas Uwimana,84,Private,DOC0017,O+,Rubavu
+P2039,Suzanne Sebazungu,76,Private,DOC0003,AB-,Rubavu
+P1829,Gaspard Mutesi,88,Govt,DOC0024,O+,Huye
+P2203,Vincent Ndayisenga,80,PUBLic,DOC0022,AB+,Kigali
+P0955,Maxime Mutesi,67,Govt,DOC0006,AB+,Gisenyi
+P2700,Rene Habyarimana,46,Govt,DOC0002,B-,Muhanga
+P2903,Marguerite Gakire,87,Private,DOC0013,O-,Musanze
+P2782,JEROME UWIZEYIMANA,92,PUBLic,DOC0001,O-,Musanze
+P0239,Gaston Tuyisenge,72,N/A,DOC0007,B+,Gisenyi
+P2918,Josiane Ishimwe,77,None,DOC0015,O-,Muhanga
+P2660,Clement Sebazungu,51,N/A,DOC0015,AB+,Huye
+P0489,Ben Ufitinema,50,privatte,DOC0009,AB+,Musanze
+P3136,Robert Teta,60,Private,DOC0010,AB+,Rubavu
+P1020,Rose Mwiza,53,GOV,DOC0024,O-,Muhanga
+P1419,Jonas Dushimimana,48,Public,DOC0009,A-,Musanze
+P2494,Michel Kabanda,60,GOV,DOC0018,A-,Muhanga
+P0509,Serge Ndacyayisenga,76,privatte,DOC0006,A-,Muhanga
+P2970,Antoine Twahirwa,95,GOV,DOC0007,A+,Musanze
+P0689,Sandrine Mugisha,51,Govt,DOC0002,O+,Muhanga
+P1109,Rachel Nteziryayo,86,Public,DOC0008,O+,Musanze
+P0947,David Manirakiza,51,Public,DOC0011,O+,Huye
+P1443,Martin Ingabire,64,Govt,DOC0010,A-,Gisenyi
+P3239,Isidore Uwase,62,PUBLic,DOC0007,B+,Gisenyi
+P2107,Augustin Hakizimana,89,Govt,DOC0009,B+,Musanze
+P2246, Dieudonne Kamanzi ,83,Public,DOC0022,A-,Huye
+P2977,Etienne Hakizimana,87,Private,DOC0019,A-,Gisenyi
+P1645,VICTOR TWAHIRWA,73,Govt,DOC0025,O-,Kigali
+P1571,RAYMOND BIZIMANA,78,privatte,DOC0006,B-,Musanze
+P0084,Benoit Twahirwa,73,Govt,DOC0013,B-,Muhanga
+P2974,Christian Gatera,82,Govt,DOC0022,A-,Huye
+P1334,OMAR GATABAZI,51,PUBLic,DOC0003,A+,Kigali
+P2604,Simon Yankurije,52,Public,DOC0018,O+,Huye
+P1822,Suzanne Niyonsenga,72,PUBLic,DOC0021,O-,Gisenyi
+P1921,Chantal Karekezi,76,Public,DOC0014,AB-,Musanze
+P0836,Olivier Gakire,81,Govt,DOC0011,B+,Gisenyi
+P1453,HUBERT RUKUNDO,84,Private,DOC0009,A-,Rubavu
+P0636,Cedric Tuyisenge,74,privatte,DOC0024,B+,Rubavu
+P3058,Nicole Ganza,80,Public,DOC0003,O+,Huye
+P1184,HONORAT KAYITARE,61,None,DOC0018,O+,Muhanga
+P2825,DIEUDONNE HABIMANA,41,GOV,DOC0026,AB-,Kigali
+P1029,ferdinand nteziryayo,90,GOV,DOC0019,B+,Gisenyi
+P3147,THOMAS BYIRINGIRO,75,GOV,DOC0025,AB-,Huye
+P0453,Roger Yankurije,75,Public,DOC0021,O+,Gisenyi
+P2045,BOSCO KAREKEZI,88,None,DOC0021,AB-,Musanze
+P0535,Daniel Ingabire,87,Private,DOC0003,B+,Musanze
+P1929,Ange Gatera,85,Public,DOC0011,A+,Huye
+P0127,JEROME GASANA,73,Govt,DOC0014,O+,Musanze
+P2352,Emmanuel Teta,84,Public,DOC0023,B+,Musanze
+P1289, Ben Manirakiza ,85,PUBLic,DOC0016,AB-,Kigali
+P0417,Alain Ganza,85,None,DOC0019,AB-,Musanze
+P0242,Venant Habyarimana,47,Public,DOC0008,AB+,Rubavu
+P3083,Divine Gatabazi,78,N/A,DOC0012,AB+,Huye
+P0531,Lea Habimana,78,privatte,DOC0019,AB+,Rubavu
+P1579,Janvier Manirakiza,83,Govt,DOC0010,O+,Huye
+P1213,Valerie Byiringiro,75,Public,DOC0019,A+,Gisenyi
+P2030,Moise Kabera,73,Public,DOC0008,O-,Gisenyi
+P0404, Michel Nsengimana ,59,Govt,DOC0019,AB+,Kigali
+P2438, Guillaume Ufitinema ,82,Govt,DOC0011,A+,Rubavu
+P1092,marine niyonsenga,86,Public,DOC0020,AB-,Huye
+P1361, Patrick Tuyisenge ,78,Private,DOC0011,AB+,Huye
+P1117,Ismail Niyigena,84,None,DOC0006,O+,Rubavu
+P2826,Leonce Nsabimana,78,privatte,DOC0016,AB+,Rubavu
+P0501,JEANNE SHEMA,90,N/A,DOC0023,B+,Kigali
+P3097,Frank Nzaramba,66,GOV,DOC0007,AB-,Kigali
+P2692,Claudine Kagame,90,Public,DOC0021,B+,Rubavu
+P2817,Frederic Bimenyimana,59,Public,DOC0003,B+,Muhanga
+P0832,Frederic Ndagijimana,77,PUBLic,DOC0011,A-,Kigali
+P2104,Francois Rukundo,49,PUBLic,DOC0017,O+,Rubavu
+P0684,HONORE TWAHIRWA,91,Public,DOC0005,AB+,Kigali
+P1161,Louis Sebazungu,93,Public,DOC0003,O-,Musanze
+P1303,clement ndayisenga,71,Public,DOC0012,B-,Kigali
+P1610,Monique Manirakiza,95,Govt,DOC0001,B-,Kigali
+P0368,Madeleine Yankurije,81,None,DOC0025,A+,Gisenyi
+P0889,Lea Sebazungu,74,privatte,DOC0011,B-,Huye
+P0660,christophe ishimwe,46,Public,DOC0012,O+,Muhanga
+P0443, Omar Hirwa ,91,Private,DOC0018,AB+,Rubavu
+P2033,Philippe Gatera,78,Public,DOC0012,AB+,Musanze
+P2523,Etienne Ndayisenga,46,PUBLic,DOC0018,AB+,Huye
+P3152,Leonce Tuyisenge,92,PUBLic,DOC0007,AB-,Muhanga
+P1146,Claire Uwimana,46,Public,DOC0002,A-,Rubavu
+P0122,Bosco Tuyisenge,81,None,DOC0003,A-,Musanze
+P2215,Omar Ingabire,77,Govt,DOC0009,B+,Musanze
+P1632,Didier Niyibizi,94,None,DOC0015,O-,Kigali
+P1778,Claude Irankunda,68,Public,DOC0006,B-,Muhanga
+P1291,Suzanne Teta,57,Govt,DOC0023,B-,Gisenyi
+P0667,INES NSABIMANA,75,PUBLic,DOC0015,B-,Rubavu
+P2086,ferdinand ugiraneza,71,Public,DOC0006,AB-,Gisenyi
+P0843,Odette Gashugi,91,PUBLic,DOC0026,O+,Kigali
+P0125,DOMINIQUE SEBAZUNGU,74,PUBLic,DOC0002,AB+,Huye
+P2350,sophie ndahimana,82,Private,DOC0019,AB-,Rubavu
+P1553,Patrick Ndacyayisenga,58,N/A,DOC0021,B-,Kigali
+P0241,paul mugisha,89,N/A,DOC0023,O-,Muhanga
+P0042,Patrick Uwase,59,Govt,DOC0002,AB+,Kigali
+P1297,MONIQUE BIMENYIMANA,85,GOV,DOC0011,O-,Musanze
+P1537,stephanie uwizeyimana,89,Private,DOC0024,A+,Musanze
+P1261,Yves Kayitare,70,Private,DOC0005,AB+,Rubavu
+P0522,Yves Uwayo,71,privatte,DOC0020,B-,Kigali
+P2593,jean uwamahoro,70,privatte,DOC0018,AB-,Huye
+P0399,Sylvere Uwimana,83,N/A,DOC0021,O+,Gisenyi
+P1467,Dominique Murenzi,51,Private,DOC0022,B+,Muhanga
+P0335, Germain Rukundo ,78,Govt,DOC0007,A-,Kigali
+P0307,Louise Uwase,69,None,DOC0026,AB-,Muhanga
+P1609,Clement Giraneza,80,N/A,DOC0006,O-,Gisenyi
+P2876,Alphonse Manirakiza,70,Private,DOC0011,AB-,Kigali
+P2464,JUSTINE GASANA,86,N/A,DOC0006,AB-,Musanze
+P0354,Etienne Uwase,83,Private,DOC0004,AB-,Musanze
+P0692,victor mutesi,92,None,DOC0013,A-,Rubavu
+P0100,Solange Shema,77,privatte,DOC0019,B+,Musanze
+P1960,Antoine Nshuti,83,GOV,DOC0011,A+,Kigali
+P0323, Esther Uwayo ,90,Private,DOC0016,O-,Muhanga
+P1310,Lise Nsabimana,78,N/A,DOC0018,A-,Huye
+P1518,juliette ndagijimana,71,N/A,DOC0009,AB-,Musanze
+P0256,Clementine Ndacyayisenga,83,Public,DOC0023,A-,Gisenyi
+P0422,Gaetan Uwimana,48,Private,DOC0023,O+,Musanze
+P0837,Chantal Ndahimana,91,None,DOC0022,B+,Huye
+P2981,fabrice kabera,79,privatte,DOC0005,O-,Huye
+P1174,Anitha Niyonsenga,46,Private,DOC0026,B-,Gisenyi
+P0131,Olivier Byiringiro,75,N/A,DOC0016,B+,Musanze
+P1746,bruno keza,57,Govt,DOC0016,AB-,Muhanga
+P1012,Venant Hirwa,79,Private,DOC0010,B-,Musanze
+P1551,Ernest Gatabazi,56,privatte,DOC0014,B-,Huye
+P0287,Georges Ndahimana,41,N/A,DOC0021,A+,Kigali
+P1162, Leonidas Gakire ,54,Private,DOC0023,O+,Musanze
+P2244, Antoine Byiringiro ,92,GOV,DOC0004,A+,Musanze
+P3159,Isaac Kazungu,88,None,DOC0023,O-,Muhanga
+P0679,Paul Dushimimana,85,N/A,DOC0018,O-,Rubavu
+P1268,Martine Gakire,82,GOV,DOC0021,O-,Rubavu
+P1125,Sebastien Dushimimana,76,Govt,DOC0020,A+,Huye
+P1067,Isaac Karekezi,53,privatte,DOC0011,B-,Kigali
+P0232,Bernard Niyonsenga,55,privatte,DOC0007,AB-,Gisenyi
+P0077,Ariane Ingabire,61,privatte,DOC0022,O+,Muhanga
+P2279,Sylvain Yankurije,88,None,DOC0004,O+,Muhanga
+P1171,Charles Dusabe,83,privatte,DOC0021,A-,Gisenyi
+P1863,Christian Kamana,78,GOV,DOC0002,A+,Gisenyi
+P1498,bruno kayiranga,74,GOV,DOC0021,B-,Muhanga
+P3171,Didier Hirwa,51,GOV,DOC0013,B+,Huye
+P0984,Yvonne Kayitare,78,Govt,DOC0004,AB-,Huye
+P1639,Nicole Bizimana,91,Govt,DOC0016,AB-,Kigali
+P1801,Theoneste Habyarimana,73,Public,DOC0019,O+,Musanze
+P2599,Ariane Ndayisenga,72,Private,DOC0015,O+,Rubavu
+P0258,simon uwayo,49,Private,DOC0006,A-,Huye
+P1440,Gisele Habyarimana,94,N/A,DOC0020,B-,Muhanga
+P2578,Xavier Ishimwe,60,Private,DOC0016,O-,Gisenyi
+P0923,Olivier Nsabimana,89,GOV,DOC0006,AB-,Musanze
+P0700,Eugenie Mugisha,53,N/A,DOC0010,A+,Kigali
+P0594,Christophe Nsengimana,53,PUBLic,DOC0018,AB+,Musanze
+P1618,Isaac Umutoni,76,Govt,DOC0021,A-,Muhanga
+P0441,Beatrice Hirwa,67,Govt,DOC0015,B-,Kigali
+P2740,Louis Nshuti,73,privatte,DOC0014,O+,Gisenyi
+P2712,Xavier Ndagijimana,78,Public,DOC0015,AB-,Musanze
+P2988,Gaston Gatabazi,74,N/A,DOC0003,AB+,Gisenyi
+P0038,Florence Irakoze,72,PUBLic,DOC0012,O+,Kigali
+P2431,Sophie Niyibizi,87,PUBLic,DOC0019,B-,Huye
+P2412,Jacqueline Bizimana,74,None,DOC0007,A+,Kigali
+P2089,Carine Mwiza,72,N/A,DOC0018,B+,Huye
+P3044,Gabriel Kayitare,46,Govt,DOC0012,AB-,Gisenyi
+P1011,Yves Kamanzi,86,Private,DOC0017,O+,Muhanga
+P2309,Athanase Niyigena,70,GOV,DOC0007,AB+,Muhanga
+P1351, Martin Uwizeyimana ,94,Govt,DOC0002,O+,Gisenyi
+P3128,Victor Uwase,90,GOV,DOC0009,B-,Rubavu
+P1595,Ernest Umutoni,72,N/A,DOC0010,B+,Huye
+P0306,Nathalie Gasana,74,privatte,DOC0024,O+,Muhanga
+P2491,Martine Ruzindana,86,Govt,DOC0008,O-,Rubavu
+P2944,Alain Manirakiza,52,Public,DOC0007,B-,Kigali
+P1431,Alain Keza,52,Private,DOC0014,O-,Gisenyi
+P0054,Desire Kagame,47,N/A,DOC0023,B+,Huye
+P3093,jean rukundo,40,Public,DOC0018,A+,Kigali
+P1185, Felix Kabera ,87,Public,DOC0009,O+,Huye
+P0255,Valerie Ndacyayisenga,87,GOV,DOC0002,O+,Kigali
+P2471,Jean Kabera,88,privatte,DOC0026,A-,Kigali
+P0709,Alphonse Kamana,77,PUBLic,DOC0021,AB-,Huye
+P2699,Fabien Kagame,41,PUBLic,DOC0021,AB-,Gisenyi
+P2273,Roland Munyaneza,78,Govt,DOC0016,AB+,Huye
+P1089,PASCAL BIZIMANA,72,Govt,DOC0013,O-,Gisenyi
+P2853,Sandrine Teta,87,Private,DOC0008,AB-,Gisenyi
+P1464,Monique Rugamba,89,None,DOC0009,A-,Muhanga
+P3240, Charles Bizimana ,41,privatte,DOC0026,O+,Rubavu
+P0314,JULIEN NIYIBIZI,84,GOV,DOC0010,O+,Rubavu
+P0588,Nathalie Ruzindana,88,Govt,DOC0022,B+,Rubavu
+P2289,Marc Tuyisenge,92,PUBLic,DOC0019,B+,Huye
+P3084,Charles Mwiza,84,Public,DOC0010,B+,Huye
+P0228,Paul Nsabimana,76,Public,DOC0015,A-,Huye
+P2827,Fanny Umuhoza,81,N/A,DOC0016,O-,Huye
+P0014,Fidele Kagame,79,GOV,DOC0004,AB+,Musanze
+P2057,georges hirwa,74,Private,DOC0009,O+,Muhanga
+P2565,Monique Ingabire,56,privatte,DOC0022,O+,Rubavu
+P0702,Athanase Kabera,60,privatte,DOC0025,AB+,Huye
+P2417,Ernest Teta,73,Public,DOC0012,B-,Gisenyi
+P1725,justine ingabire,75,N/A,DOC0020,B-,Kigali
+P0220,ange tuyisenge,77,Public,DOC0015,A+,Gisenyi
+P2763,Hubert Niyonsenga,94,Private,DOC0007,B-,Kigali
+P0502,Sylvain Mugisha,73,PUBLic,DOC0010,O-,Huye
+P2802,VALERIE RUKUNDO,79,Public,DOC0014,AB+,Huye
+P1413,Maxime Gatabazi,83,privatte,DOC0007,O-,Muhanga
+P1841, Honore Nsengimana ,59,PUBLic,DOC0016,A-,Gisenyi
+P3164,ESTHER HABIMANA,71,None,DOC0001,A+,Huye
+P2634,Fanny Nsabimana,45,privatte,DOC0021,AB-,Musanze
+P1623,Angelique Teta,73,Private,DOC0001,B+,Huye
+P0817,Theogene Kabanda,81,None,DOC0017,AB-,Muhanga
+P2193,Diane Nsengimana,40,Govt,DOC0011,B-,Musanze
+P0718,Dominique Dusingizimana,63,Public,DOC0016,AB+,Huye
+P0361, Paul Kamana ,85,privatte,DOC0007,B+,Rubavu
+P0529,Louis Kagame,83,privatte,DOC0023,A+,Rubavu
+P2805,LEA UWAMAHORO,81,None,DOC0011,O-,Muhanga
+P1661,Roger Tuyisenge,71,Private,DOC0020,A-,Kigali
+P0360,Cedric Bizimana,72,None,DOC0012,B+,Musanze
+P1007,Rose Giraneza,84,PUBLic,DOC0004,AB+,Gisenyi
+P0907,Aime Uwimana,46,Private,DOC0022,B-,Musanze
+P1151,Yves Ndahimana,44,Private,DOC0011,AB+,Muhanga
+P2440, Veronique Uwizeyimana ,48,privatte,DOC0019,O+,Musanze
+P1808, Josiane Keza ,72,Private,DOC0020,B+,Muhanga
+P0852,Laurent Byiringiro,95,Private,DOC0010,A+,Huye
+P0146,regis mutesi,72,N/A,DOC0025,A+,Huye
+P1172,Jules Mazimpaka,92,N/A,DOC0019,O-,Musanze
+P2517,Guy Ganza,75,GOV,DOC0013,A+,Huye
+P1028,Madeleine Tuyisenge,93,N/A,DOC0008,A+,Muhanga
+P0349,Stephanie Nsengimana,84,Govt,DOC0007,A+,Kigali
+P1019,Bertrand Irakoze,41,privatte,DOC0019,O+,Muhanga
+P2627,Yvette Dusabe,93,Private,DOC0026,B-,Gisenyi
+P2940,Gaspard Tuyisenge,91,None,DOC0006,AB+,Muhanga
+P0341,Isabelle Gatera,70,PUBLic,DOC0001,O+,Kigali
+P1596,Esther Dushimimana,89,None,DOC0017,AB-,Musanze
+P1381,Martine Cyusa,91,Public,DOC0019,AB-,Musanze
+P1321,Ivan Teta,86,PUBLic,DOC0019,A-,Gisenyi
+P1912,Elodie Karangwa,70,Public,DOC0024,O+,Kigali
+P1710,Julien Rugamba,73,None,DOC0003,AB-,Musanze
+P2779,Hubert Munyaneza,40,GOV,DOC0019,O-,Rubavu
+P2260,Yvonne Tuyisenge,90,privatte,DOC0016,O+,Rubavu
+P0268,ETIENNE ISHIMWE,95,None,DOC0009,AB-,Muhanga
+P0109, Benoit Mazimpaka ,79,Private,DOC0020,AB-,Kigali
+P1526,xavier kamana,88,Private,DOC0017,B-,Huye
+P3011,therese teta,77,Private,DOC0006,B-,Musanze
+P1349,Florence Hakizimana,86,GOV,DOC0004,AB-,Muhanga
+P1326,Vincent Mutesi,88,GOV,DOC0004,AB+,Rubavu
+P3131,Venant Giraneza,94,PUBLic,DOC0008,B+,Musanze
+P1132,Justine Kamanzi,93,Govt,DOC0007,O+,Huye
+P2820,Olivier Habyarimana,70,privatte,DOC0023,O+,Gisenyi
+P2230,Gaetan Ndahimana,40,PUBLic,DOC0026,AB-,Gisenyi
+P1545,Bruno Kagame,83,GOV,DOC0013,A-,Rubavu
+P2521,Denise Habyarimana,66,PUBLic,DOC0020,O-,Muhanga
+P2937,Etienne Murenzi,87,None,DOC0012,AB-,Gisenyi
+P1564,valens ganza,74,N/A,DOC0002,O+,Gisenyi
+P2185,martine kamanzi,90,privatte,DOC0011,A-,Kigali
+P2406,Luc Kamanzi,90,GOV,DOC0020,A+,Gisenyi
+P2829,Emile Ntirushwa,85,privatte,DOC0024,AB-,Muhanga
+P0329,Elodie Irakoze,88,privatte,DOC0021,A-,Kigali
+P2814,Mathieu Ndahimana,91,privatte,DOC0012,AB+,Kigali
+P1197,Aline Gashugi,51,Private,DOC0019,AB+,Kigali
+P0608,JONAS NDAYISENGA,92,Private,DOC0026,O-,Huye
+P2198,PATRICK GANZA,75,GOV,DOC0016,A+,Kigali
+P2836,CLAIRE UWAYO,90,N/A,DOC0020,A-,Kigali
+P2482,Gisele Dusingizimana,92,privatte,DOC0004,AB-,Huye
+P1039,Marie Bizimana,94,GOV,DOC0010,AB-,Rubavu
+P0280,Pierre Kalisa,71,privatte,DOC0024,AB+,Muhanga
+P1949,Sebastien Niyonsenga,81,N/A,DOC0008,A+,Musanze
+P1005,Maurice Kagame,78,Private,DOC0001,A-,Kigali
+P1030,Eliane Kayitare,45,GOV,DOC0019,A+,Rubavu
+P0278,ELISE KAMANA,62,Private,DOC0026,A+,Huye
+P1229,Alphonse Kayitare,81,N/A,DOC0017,AB-,Musanze
+P0300,thomas shema,60,Govt,DOC0010,B+,Huye
+P0353,Bernard Ufitinema,48,PUBLic,DOC0017,A-,Gisenyi
+P1035,Theogene Niyigena,53,Govt,DOC0020,B-,Huye
+P0568,REMI NIYIGENA,92,Public,DOC0021,A+,Huye
+P1082,ESTHER TUYISENGE,92,Govt,DOC0014,A-,Muhanga
+P1061,Sebastien Kamana,84,GOV,DOC0002,A+,Rubavu
+P0790,NOEL DUSINGIZIMANA,73,N/A,DOC0012,B-,Muhanga
+P0555,Lucien Giraneza,57,None,DOC0002,A+,Rubavu
+P0611,thomas dusabe,42,Public,DOC0018,A+,Rubavu
+P2623,Marie Ndagijimana,80,None,DOC0007,O+,Muhanga
+P1986,Athanase Byiringiro,79,None,DOC0025,AB+,Muhanga
+P0123,Aline Mazimpaka,80,None,DOC0015,B+,Huye
+P0812, Juliette Karangwa ,95,Private,DOC0002,O+,Rubavu
+P0880,grace cyusa,94,privatte,DOC0015,A-,Huye
+P2838,Aubin Mwiza,82,privatte,DOC0002,AB-,Huye
+P1763,Anitha Niyibizi,88,PUBLic,DOC0011,O-,Musanze
+P0705,Aurelie Ngendahimana,74,Private,DOC0013,A+,Rubavu
+P0352,Janvier Ntirushwa,78,PUBLic,DOC0025,A-,Musanze
+P0507,thierry nzabonimpa,89,GOV,DOC0017,AB-,Kigali
+P1812,Theogene Sebazungu,62,Govt,DOC0007,A+,Muhanga
+P2979,isidore hakizimana,56,Private,DOC0019,O+,Muhanga
+P0248,VICTOR KABERA,84,privatte,DOC0007,B-,Muhanga
+P3107,Beatrice Gatabazi,83,Govt,DOC0022,B+,Kigali
+P2708,Theogene Kazungu,46,N/A,DOC0026,O-,Muhanga
+P0767,Leonce Mazimpaka,76,N/A,DOC0025,O-,Musanze
+P1917,Fabien Munyaneza,89,None,DOC0016,O-,Huye
+P2040,Athanase Nzabonimpa,80,PUBLic,DOC0023,B+,Kigali
+P0195,Odette Nsabimana,49,Govt,DOC0018,B+,Kigali
+P2186,Omar Uwimana,73,Govt,DOC0015,A-,Rubavu
+P1935,Marc Yankurije,82,Public,DOC0026,O-,Kigali
+P1699,Guillaume Rugamba,45,Govt,DOC0007,A+,Musanze
+P0674,Hyacinthe Niyonsenga,90,Public,DOC0023,O+,Kigali
+P1520,Isabelle Uwayo,55,PUBLic,DOC0026,O-,Muhanga
+P0842,Janvier Irakoze,48,Public,DOC0020,A+,Kigali
+P2102,Felix Ntirushwa,93,PUBLic,DOC0014,A-,Rubavu
+P2335,Joel Bizimana,79,GOV,DOC0001,AB-,Gisenyi
+P1718,OMAR YANKURIJE,90,GOV,DOC0021,A+,Kigali
+P0929,Rose Imanishimwe,76,N/A,DOC0012,A+,Huye
+P0412,Benoit Murenzi,73,Public,DOC0020,B-,Kigali
+P2162,Therese Ganza,73,None,DOC0005,O-,Gisenyi
+P0623,Edouard Kamana,82,None,DOC0019,A-,Gisenyi
+P0398,Solange Gatete,57,privatte,DOC0002,A+,Kigali
+P1605,Augustin Irakoze,90,None,DOC0007,A+,Gisenyi
+P1634,hassan kamanzi,81,Govt,DOC0018,B-,Huye
+P0546,EMMANUEL GASHUGI,49,PUBLic,DOC0014,B-,Rubavu
+P2475, Theoneste Rugamba ,89,privatte,DOC0001,AB+,Muhanga
+P0603,Felicien Shema,81,Govt,DOC0017,O-,Rubavu
+P1821,Joseph Habyarimana,82,Public,DOC0024,O+,Kigali
+P1549,Christian Ndayisenga,75,None,DOC0012,B+,Gisenyi
+P2652,hyacinthe kamanzi,78,Private,DOC0017,A-,Gisenyi
+P0964,NOEL RUKUNDO,81,PUBLic,DOC0006,B+,Gisenyi
+P2353, Lucien Ugiraneza ,55,Govt,DOC0013,AB-,Huye
+P2760,Simon Cyusa,81,privatte,DOC0006,B+,Gisenyi
+P1388,Clementine Nsabimana,84,None,DOC0010,AB-,Kigali
+P2739,Faustin Kagame,79,PUBLic,DOC0012,B-,Huye
+P1263,GRACE MUNYANEZA,72,privatte,DOC0013,AB-,Huye
+P1895,Francois Gatera,55,None,DOC0017,A-,Kigali
+P0149, Madeleine Ndayisenga ,70,privatte,DOC0003,A-,Kigali
+P3232,Valerie Umutoni,89,Private,DOC0024,AB+,Kigali
+P0233,Therese Ruzindana,72,None,DOC0003,O-,Musanze
+P2901,madeleine kayiranga,77,None,DOC0017,B-,Huye
+P1083,Philippe Ndahimana,88,PUBLic,DOC0026,B-,Kigali
+P1250,Marguerite Ufitinema,78,N/A,DOC0021,B-,Huye
+P1723,SYLVIE TWAHIRWA,69,Public,DOC0008,A+,Huye
+P2002,NOEL NSENGIMANA,68,PUBLic,DOC0015,AB+,Gisenyi
+P0649,Bertrand Gatabazi,71,GOV,DOC0002,AB+,Gisenyi
+P1070,Therese Nzaramba,78,privatte,DOC0012,A+,Muhanga
+P1490,Didier Mutesi,90,GOV,DOC0014,B+,Musanze
+P0590,Diane Rugamba,72,N/A,DOC0018,A+,Kigali
+P3138,Germain Mazimpaka,87,Govt,DOC0008,O-,Rubavu
+P2799,Germain Gakire,51,privatte,DOC0003,O-,Kigali
+P3182,Therese Kamanzi,90,privatte,DOC0023,O+,Kigali
+P1216,charles irankunda,65,PUBLic,DOC0009,B-,Rubavu
+P2006,Raymond Uwizeyimana,94,PUBLic,DOC0018,O+,Rubavu
+P2984, Marc Shema ,44,Public,DOC0004,O+,Rubavu
+P2600,Dominique Dusabe,78,PUBLic,DOC0012,AB-,Gisenyi
+P1712,Fabien Dushimimana,72,N/A,DOC0022,B-,Kigali
+P3049,Grace Ndahimana,95,PUBLic,DOC0019,O+,Musanze
+P0724, Elise Nshuti ,89,Govt,DOC0018,AB-,Huye
+P1882,Christophe Sebazungu,63,Govt,DOC0025,O+,Rubavu
+P2365,ROBERT BYIRINGIRO,42,GOV,DOC0012,B-,Gisenyi
+P2381,Laurent Sebazungu,40,N/A,DOC0015,B-,Kigali
+P2270,Christine Uwizeyimana,71,Govt,DOC0009,O+,Musanze
+P0658,Hugues Murenzi,70,Private,DOC0022,AB-,Musanze
+P0870,Denise Uwayo,49,N/A,DOC0013,A+,Musanze
+P0182,Omar Nsengimana,93,Private,DOC0008,AB+,Kigali
+P2113,Elise Karangwa,61,Private,DOC0001,B-,Kigali
+P2620,Anitha Mugisha,80,GOV,DOC0013,B+,Gisenyi
+P1101,Isidore Dushimimana,85,N/A,DOC0018,AB+,Kigali
+P0898,Ferdinand Ganza,70,Private,DOC0004,AB-,Musanze
+P1662, Divine Nzabonimpa ,56,Private,DOC0024,B-,Gisenyi
+P1647,christian ganza,70,None,DOC0002,AB+,Huye
+P2804,DIVINE ISHIMWE,70,PUBLic,DOC0005,AB-,Gisenyi
+P1528,Janvier Uwimana,74,None,DOC0013,O+,Rubavu
+P2305,Honore Karangwa,86,Private,DOC0012,B-,Musanze

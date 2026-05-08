@@ -1,0 +1,39 @@
+Title: Profiling High-Cost Patients for Intervention Program Design
+
+Scenario:
+The leadership at a Rwandan health clinic has determined that a small percentage of patients account for a disproportionately high amount of healthcare costs. They want to launch a targeted intervention program to provide better proactive care for these individuals, but first, they need to understand who they are. You have been tasked with creating a detailed profile of these "high-cost patients."
+
+Your Task:
+Your objective is to identify the key clinical, demographic, and lifestyle characteristics that differentiate high-cost patients from the general patient population. 
+
+Deliverables:
+An analytical report or presentation, supported by data and visualizations, that provides the following:
+
+Definition of a "High-Cost Patient": You must first define your methodology. For example, you could identify patients whose total costs fall in the top 20% (quintile) of all patients. Justify your choice.
+
+Comparative Profile: Create a comparative analysis between your "high-cost" segment and the "non-high-cost" segment across several dimensions:
+
+Clinical: What are the most common diagnoses? How many visits do they average? Which doctor specialties do they see most often?
+
+Demographic: What is their average health_score? Which insurance_type and city are most common?
+
+Wellness: How do their wellness habits (e.g., number of activities, types of activities, reported wellness_status) compare?
+
+Key Findings Summary: A bulleted list of the 3-5 most significant factors that characterize a high-cost patient.
+
+Recommendation: Based on your findings, what one or two factors should the new intervention program focus on first? (e.g., "The program should target diabetic patients in Kigali with low wellness engagement")
+
+
+Skills Required:
+
+Comprehensive Data Cleaning: Cleaning and preparing a multi-table dataset.
+
+Data Merging & Integration: Joining all four tables to create a single patient-level view
+
+Analytical Segmentation: Defining and creating a patient segment based on a calculated metric (total cost)
+
+Feature Engineering: Creating aggregated metrics for each patient (e.g., total cost, visit count, wellness activity count)
+
+Comparative & Exploratory Analysis (EDA): Using statistics and visualizations to uncover the key differences between patient groups
+
+Synthesizing Insights: Translating analytical findings into a clear, actionable business recommendation.
